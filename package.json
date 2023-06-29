@@ -1,5 +1,5 @@
 {
-    "name": "jkt48showroomm3u",
+    "name": "jkt48showroomhistory",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -13,14 +13,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/dandyraka/JKT48ShowroomM3U.git"
+        "url": "git+https://github.com/dandyraka/JKT48ShowroomHistory.git"
     },
     "author": "dandyraka",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/dandyraka/JKT48ShowroomM3U/issues"
+        "url": "https://github.com/dandyraka/JKT48ShowroomHistory/issues"
     },
-    "homepage": "https://github.com/dandyraka/JKT48ShowroomM3U#readme",
+    "homepage": "https://github.com/dandyraka/JKT48ShowroomHistory#readme",
     "dependencies": {
         "moment-timezone": "^0.5.43",
         "node-fetch": "^3.3.1"
