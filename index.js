@@ -9,14 +9,13 @@ async function getLive() {
     try {
         const response = await fetch(url);
         const json = await response.json();
-        const data = json.onlives;
+        const data = response.data.onlives;
 
-        const OnlivesIdol = data.find(onlvs => onlvs.genre_id === 102);
-        const livesOnlivesIdol = OnlivesIdol ? OnlivesIdol.lives : [];
-        const OnlivesMusic = data.find(onlvs => onlvs.genre_id === 101);
-        const livesOnlivesMusic = OnlivesMusic ? OnlivesMusic.lives : [];
-        const allLives = livesOnlivesIdol.concat(livesOnlivesMusic);
-        const filterAll = allLives.filter(live => live.room_url_key.includes('JKT48') && live.premium_room_type != 1);
+        const OnlivesIdol = data.filter(onlvs => onlvs.genre_name == "Popularity" || onlvs.genre_name == "global");
+        const combinedLives = OnlivesIdol.reduce((acc, genre) => {
+            return acc.concat(genre.lives);
+        }, []);
+        const filterAll = combinedLives.filter(live => live.room_url_key.includes('JKT48') && live.premium_room_type === 0 && live.follower_num >= 5000);
 
         const filePath = 'history.txt';
 
