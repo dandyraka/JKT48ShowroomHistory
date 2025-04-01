@@ -9,7 +9,7 @@ async function getLive() {
     try {
         const response = await fetch(url);
         const json = await response.json();
-        const data = response.data.onlives;
+        const data = json.onlives;
 
         const OnlivesIdol = data.filter(onlvs => onlvs.genre_name == "Popularity" || onlvs.genre_name == "global");
         const combinedLives = OnlivesIdol.reduce((acc, genre) => {
