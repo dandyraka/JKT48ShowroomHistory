@@ -1,7 +1,7 @@
 # History Live Showroom JKT48
 
-| Member | Tanggal |
-|--------|---------|
+| No | Member | Tanggal |
+|----|--------|---------|
 | 1 | Jessi/ジェシ（JKT48） | Senin, 3 Jul 2023 18:17:52 |
 | 2 | Lia /リア（JKT48） | Senin, 3 Jul 2023 20:01:04 |
 | 3 | Chelsea /チェルシー（JKT48） | Senin, 3 Jul 2023 20:37:28 |
