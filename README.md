@@ -1,1 +1,1321 @@
-# JKT48ShowroomHistory
+# History Live Showroom JKT48
+
+| Member | Tanggal |
+|--------|---------|
+| Jessi/ジェシ（JKT48） | Senin, 3 Jul 2023 18:17:52 |
+| Lia /リア（JKT48） | Senin, 3 Jul 2023 20:01:04 |
+| Chelsea /チェルシー（JKT48） | Senin, 3 Jul 2023 20:37:28 |
+| Adel/アデル（JKT48） | Senin, 3 Jul 2023 20:59:50 |
+| Olla/オラ（JKT48） | Senin, 3 Jul 2023 22:20:28 |
+| Jeane /ジーン（JKT48） | Selasa, 4 Jul 2023 13:49:20 |
+| Amanda/アマンダ（JKT48） | Selasa, 4 Jul 2023 15:06:33 |
+| Eli/エリ（JKT48） | Selasa, 4 Jul 2023 15:57:26 |
+| Ashel /アシェル（JKT48） | Selasa, 4 Jul 2023 16:06:55 |
+| Oniel/オニエル（JKT48） | Selasa, 4 Jul 2023 16:18:31 |
+| Gendis /ゲンディス（JKT48） | Rabu, 5 Jul 2023 12:27:24 |
+| Gracie /グラシー（JKT48） | Kamis, 6 Jul 2023 12:16:18 |
+| Muthe/ムテ（JKT48） | Sabtu, 8 Jul 2023 19:28:22 |
+| Eli/エリ（JKT48） | Sabtu, 8 Jul 2023 19:28:30 |
+| Sisca/シスカ（JKT48） | Minggu, 9 Jul 2023 18:37:29 |
+| Oniel/オニエル（JKT48） | Minggu, 9 Jul 2023 19:42:55 |
+| Jessi/ジェシ（JKT48） | Minggu, 9 Jul 2023 19:45:15 |
+| Christy/クリスティー（JKT48） | Minggu, 9 Jul 2023 19:54:21 |
+| Chika/チカ（JKT48） | Minggu, 9 Jul 2023 20:02:04 |
+| Fiony /フィオニー（JKT48） | Minggu, 9 Jul 2023 20:09:56 |
+| Lulu /ルル （JKT48） | Minggu, 9 Jul 2023 20:23:58 |
+| Ashel /アシェル（JKT48） | Minggu, 9 Jul 2023 20:35:16 |
+| Lia /リア（JKT48） | Minggu, 9 Jul 2023 21:12:07 |
+| Shani/シャニ（JKT48） | Senin, 10 Jul 2023 19:46:14 |
+| Amanda/アマンダ（JKT48） | Senin, 10 Jul 2023 22:40:43 |
+| Lulu /ルル （JKT48） | Senin, 10 Jul 2023 22:45:53 |
+| Ella /エラ（JKT48） | Senin, 10 Jul 2023 22:46:57 |
+| Lyn /リーン（JKT48） | Selasa, 11 Jul 2023 22:39:38 |
+| Gita/ギタ（JKT48） | Selasa, 11 Jul 2023 23:03:11 |
+| Oniel/オニエル（JKT48） | Selasa, 11 Jul 2023 23:01:40 |
+| Lulu /ルル （JKT48） | Selasa, 11 Jul 2023 23:13:02 |
+| Lia /リア（JKT48） | Selasa, 11 Jul 2023 22:59:40 |
+| Raisha /ライシャ（JKT48） | Rabu, 12 Jul 2023 16:33:38 |
+| Marsha/マーシャ（JKT48） | Rabu, 12 Jul 2023 19:20:40 |
+| Indah/インダー（JKT48） | Rabu, 12 Jul 2023 19:21:43 |
+| Fiony /フィオニー（JKT48） | Rabu, 12 Jul 2023 20:09:50 |
+| Cathy/キャシー（JKT48） | Rabu, 12 Jul 2023 20:36:51 |
+| Chelsea /チェルシー（JKT48） | Rabu, 12 Jul 2023 20:46:21 |
+| Freya/フレヤ（JKT48） | Rabu, 12 Jul 2023 21:19:16 |
+| Lulu /ルル （JKT48） | Jumat, 14 Jul 2023 10:13:55 |
+| Lyn /リーン（JKT48） | Jumat, 14 Jul 2023 22:53:39 |
+| Raisha /ライシャ（JKT48） | Jumat, 14 Jul 2023 22:59:02 |
+| Lia /リア（JKT48） | Jumat, 14 Jul 2023 22:58:22 |
+| Muthe/ムテ（JKT48） | Sabtu, 15 Jul 2023 15:44:12 |
+| Olla/オラ（JKT48） | Sabtu, 15 Jul 2023 19:03:00 |
+| Oniel/オニエル（JKT48） | Sabtu, 15 Jul 2023 23:15:09 |
+| Jessi/ジェシ（JKT48） | Sabtu, 15 Jul 2023 23:16:02 |
+| Fiony /フィオニー（JKT48） | Minggu, 16 Jul 2023 00:29:48 |
+| Feni/フェニ（JKT48） | Minggu, 16 Jul 2023 15:41:38 |
+| Jessi/ジェシ（JKT48） | Minggu, 16 Jul 2023 22:34:47 |
+| Indah/インダー（JKT48） | Selasa, 18 Jul 2023 18:03:37 |
+| Adel/アデル（JKT48） | Selasa, 18 Jul 2023 19:20:34 |
+| Raisha /ライシャ（JKT48） | Selasa, 18 Jul 2023 22:50:36 |
+| Gita/ギタ（JKT48） | Rabu, 19 Jul 2023 14:31:55 |
+| Jeane /ジーン（JKT48） | Rabu, 19 Jul 2023 19:53:22 |
+| Chelsea /チェルシー（JKT48） | Rabu, 19 Jul 2023 20:30:43 |
+| Alya /アリア（JKT48） | Rabu, 19 Jul 2023 21:05:52 |
+| Cynthia /シンティア（JKT48） | Rabu, 19 Jul 2023 22:20:04 |
+| Gracia/グラシア（JKT48） | Kamis, 20 Jul 2023 20:05:00 |
+| Fiony /フィオニー（JKT48） | Jumat, 21 Jul 2023 02:09:24 |
+| Gracie /グラシー（JKT48） | Sabtu, 22 Jul 2023 11:30:12 |
+| Gita/ギタ（JKT48） | Sabtu, 22 Jul 2023 16:16:12 |
+| Lia /リア（JKT48） | Sabtu, 22 Jul 2023 16:39:41 |
+| Adel/アデル（JKT48） | Sabtu, 22 Jul 2023 21:31:00 |
+| Muthe/ムテ（JKT48） | Sabtu, 22 Jul 2023 23:43:59 |
+| Jessi/ジェシ（JKT48） | Minggu, 23 Jul 2023 16:24:11 |
+| Ashel /アシェル（JKT48） | Senin, 24 Jul 2023 11:25:04 |
+| Gracie /グラシー（JKT48） | Senin, 24 Jul 2023 12:30:25 |
+| Daisy /デイシー（JKT48） | Senin, 24 Jul 2023 12:54:42 |
+| Danella /ダネラ（JKT48） | Senin, 24 Jul 2023 12:54:47 |
+| Anindya /アニンディア（JKT48） | Senin, 24 Jul 2023 13:03:42 |
+| Elin /エリン（JKT48） | Senin, 24 Jul 2023 13:04:25 |
+| Indira /インディラ（JKT48） | Senin, 24 Jul 2023 13:11:18 |
+| Zee/ジー（JKT48） | Senin, 24 Jul 2023 14:47:22 |
+| Christy/クリスティー（JKT48） | Senin, 24 Jul 2023 15:03:08 |
+| Michie /ミチー（JKT48） | Senin, 24 Jul 2023 15:16:25 |
+| Olla/オラ（JKT48） | Senin, 24 Jul 2023 15:17:40 |
+| Gracia/グラシア（JKT48） | Senin, 24 Jul 2023 15:34:23 |
+| Shani/シャニ（JKT48） | Senin, 24 Jul 2023 15:36:34 |
+| Greesel /グリーセル（JKT48） | Senin, 24 Jul 2023 16:32:10 |
+| Cynthia /シンティア（JKT48） | Senin, 24 Jul 2023 16:33:41 |
+| Oniel/オニエル（JKT48） | Senin, 24 Jul 2023 16:38:10 |
+| Lulu /ルル （JKT48） | Senin, 24 Jul 2023 16:38:19 |
+| Alya /アリア（JKT48） | Senin, 24 Jul 2023 16:56:22 |
+| Chika/チカ（JKT48） | Senin, 24 Jul 2023 17:06:55 |
+| Olla/オラ（JKT48） | Senin, 24 Jul 2023 17:17:46 |
+| Jeane /ジーン（JKT48） | Senin, 24 Jul 2023 17:25:59 |
+| Oniel/オニエル（JKT48） | Senin, 24 Jul 2023 17:42:51 |
+| Muthe/ムテ（JKT48） | Senin, 24 Jul 2023 18:32:57 |
+| Gendis /ゲンディス（JKT48） | Senin, 24 Jul 2023 18:41:33 |
+| Ella /エラ（JKT48） | Senin, 24 Jul 2023 19:03:19 |
+| Indah/インダー（JKT48） | Senin, 24 Jul 2023 19:06:21 |
+| Cathy/キャシー（JKT48） | Senin, 24 Jul 2023 19:05:44 |
+| Jessi/ジェシ（JKT48） | Senin, 24 Jul 2023 19:00:43 |
+| Raisha /ライシャ（JKT48） | Senin, 24 Jul 2023 19:12:35 |
+| Amanda/アマンダ（JKT48） | Senin, 24 Jul 2023 19:21:17 |
+| Callie /カリー（JKT48） | Senin, 24 Jul 2023 19:50:41 |
+| Jesslyn/ジェスリン（JKT48） | Senin, 24 Jul 2023 20:13:27 |
+| Chelsea /チェルシー（JKT48） | Senin, 24 Jul 2023 20:11:44 |
+| Gita/ギタ（JKT48） | Senin, 24 Jul 2023 20:32:24 |
+| Kathrina/カトリナ（JKT48） | Senin, 24 Jul 2023 20:58:32 |
+| Gita/ギタ（JKT48） | Senin, 24 Jul 2023 22:01:27 |
+| Kathrina/カトリナ（JKT48） | Senin, 24 Jul 2023 22:02:16 |
+| Lia /リア（JKT48） | Kamis, 27 Jul 2023 00:39:38 |
+| Oniel/オニエル（JKT48） | Kamis, 27 Jul 2023 13:12:22 |
+| Oniel/オニエル（JKT48） | Kamis, 27 Jul 2023 23:00:54 |
+| Fiony /フィオニー（JKT48） | Kamis, 27 Jul 2023 23:49:23 |
+| Danella /ダネラ（JKT48） | Jumat, 28 Jul 2023 16:50:09 |
+| Lyn /リーン（JKT48） | Senin, 31 Jul 2023 18:18:28 |
+| Jeane /ジーン（JKT48） | Selasa, 1 Agt 2023 17:08:28 |
+| Lia /リア（JKT48） | Selasa, 1 Agt 2023 21:47:02 |
+| Ella /エラ（JKT48） | Selasa, 1 Agt 2023 21:53:54 |
+| Lyn /リーン（JKT48） | Selasa, 1 Agt 2023 21:54:33 |
+| Kathrina/カトリナ（JKT48） | Rabu, 2 Agt 2023 19:03:05 |
+| Jessi/ジェシ（JKT48） | Kamis, 3 Agt 2023 17:02:11 |
+| Raisha /ライシャ（JKT48） | Sabtu, 5 Agt 2023 21:48:39 |
+| Jeane /ジーン（JKT48） | Minggu, 6 Agt 2023 22:05:52 |
+| Chika/チカ（JKT48） | Senin, 7 Agt 2023 14:16:17 |
+| Jessi/ジェシ（JKT48） | Senin, 7 Agt 2023 14:24:50 |
+| Elin /エリン（JKT48） | Senin, 7 Agt 2023 18:30:18 |
+| Cynthia /シンティア（JKT48） | Senin, 7 Agt 2023 20:03:57 |
+| Gracie /グラシー（JKT48） | Senin, 7 Agt 2023 21:00:19 |
+| Fiony /フィオニー（JKT48） | Selasa, 8 Agt 2023 21:05:55 |
+| Alya /アリア（JKT48） | Rabu, 9 Agt 2023 19:05:16 |
+| Lulu /ルル （JKT48） | Rabu, 9 Agt 2023 20:02:50 |
+| Lia /リア（JKT48） | Rabu, 9 Agt 2023 22:26:50 |
+| Adel/アデル（JKT48） | Rabu, 9 Agt 2023 23:31:40 |
+| Olla/オラ（JKT48） | Kamis, 10 Agt 2023 14:09:08 |
+| Indah/インダー（JKT48） | Kamis, 10 Agt 2023 22:19:52 |
+| Lyn /リーン（JKT48） | Jumat, 11 Agt 2023 16:46:09 |
+| Anindya /アニンディア（JKT48） | Jumat, 11 Agt 2023 18:45:53 |
+| Chelsea /チェルシー（JKT48） | Jumat, 11 Agt 2023 20:50:07 |
+| Cathy/キャシー（JKT48） | Jumat, 11 Agt 2023 22:35:38 |
+| Feni/フェニ（JKT48） | Minggu, 13 Agt 2023 16:33:27 |
+| Shani/シャニ（JKT48） | Minggu, 13 Agt 2023 18:54:32 |
+| Indah/インダー（JKT48） | Minggu, 13 Agt 2023 20:06:21 |
+| Muthe/ムテ（JKT48） | Minggu, 13 Agt 2023 20:36:19 |
+| Lia /リア（JKT48） | Minggu, 13 Agt 2023 20:54:27 |
+| Callie /カリー（JKT48） | Minggu, 13 Agt 2023 22:51:41 |
+| Greesel /グリーセル（JKT48） | Senin, 14 Agt 2023 21:26:44 |
+| Sisca/シスカ（JKT48） | Senin, 14 Agt 2023 21:36:44 |
+| Jeane /ジーン（JKT48） | Selasa, 15 Agt 2023 19:38:53 |
+| Lia /リア（JKT48） | Selasa, 15 Agt 2023 21:43:18 |
+| Gracie /グラシー（JKT48） | Rabu, 16 Agt 2023 21:16:42 |
+| Cathy/キャシー（JKT48） | Rabu, 16 Agt 2023 21:29:52 |
+| Lia /リア（JKT48） | Kamis, 17 Agt 2023 00:59:52 |
+| Gendis /ゲンディス（JKT48） | Kamis, 17 Agt 2023 14:44:53 |
+| Fiony /フィオニー（JKT48） | Sabtu, 19 Agt 2023 00:54:43 |
+| Chelsea /チェルシー（JKT48） | Sabtu, 19 Agt 2023 21:09:47 |
+| Christy/クリスティー（JKT48） | Minggu, 20 Agt 2023 15:19:46 |
+| Olla/オラ（JKT48） | Minggu, 20 Agt 2023 20:20:24 |
+| Danella /ダネラ（JKT48） | Minggu, 20 Agt 2023 22:37:18 |
+| Daisy /デイシー（JKT48） | Minggu, 20 Agt 2023 23:54:04 |
+| Elin /エリン（JKT48） | Senin, 21 Agt 2023 00:09:37 |
+| Michie /ミチー（JKT48） | Senin, 21 Agt 2023 19:01:19 |
+| Lia /リア（JKT48） | Senin, 21 Agt 2023 20:40:25 |
+| Cynthia /シンティア（JKT48） | Selasa, 22 Agt 2023 15:02:28 |
+| Daisy /デイシー（JKT48） | Selasa, 22 Agt 2023 18:38:07 |
+| Jessi/ジェシ（JKT48） | Rabu, 23 Agt 2023 20:31:44 |
+| Muthe/ムテ（JKT48） | Rabu, 23 Agt 2023 20:52:18 |
+| Lia /リア（JKT48） | Kamis, 24 Agt 2023 00:31:11 |
+| Daisy /デイシー（JKT48） | Kamis, 24 Agt 2023 19:21:03 |
+| Gita/ギタ（JKT48） | Kamis, 24 Agt 2023 21:04:15 |
+| Oniel/オニエル（JKT48） | Kamis, 24 Agt 2023 21:05:34 |
+| Adel/アデル（JKT48） | Kamis, 24 Agt 2023 22:34:49 |
+| Eli/エリ（JKT48） | Jumat, 25 Agt 2023 16:49:22 |
+| Feni/フェニ（JKT48） | Jumat, 25 Agt 2023 21:35:41 |
+| Fiony /フィオニー（JKT48） | Jumat, 25 Agt 2023 22:32:51 |
+| Gita/ギタ（JKT48） | Sabtu, 26 Agt 2023 22:05:02 |
+| Gendis /ゲンディス（JKT48） | Sabtu, 26 Agt 2023 22:39:45 |
+| Jeane /ジーン（JKT48） | Sabtu, 26 Agt 2023 22:44:48 |
+| Michie /ミチー（JKT48） | Sabtu, 26 Agt 2023 22:45:04 |
+| Cathy/キャシー（JKT48） | Sabtu, 26 Agt 2023 23:23:21 |
+| Anindya /アニンディア（JKT48） | Sabtu, 26 Agt 2023 23:40:41 |
+| Feni/フェニ（JKT48） | Minggu, 27 Agt 2023 00:41:03 |
+| Lulu /ルル （JKT48） | Senin, 28 Agt 2023 10:16:53 |
+| Lia /リア（JKT48） | Senin, 28 Agt 2023 20:53:25 |
+| Fiony /フィオニー（JKT48） | Selasa, 29 Agt 2023 18:58:21 |
+| Ashel /アシェル（JKT48） | Selasa, 29 Agt 2023 21:05:20 |
+| Eli/エリ（JKT48） | Rabu, 30 Agt 2023 23:06:34 |
+| Gracia/グラシア（JKT48） | Rabu, 30 Agt 2023 23:26:37 |
+| Indah/インダー（JKT48） | Kamis, 31 Agt 2023 20:06:24 |
+| Olla/オラ（JKT48） | Kamis, 31 Agt 2023 21:45:44 |
+| Cathy/キャシー（JKT48） | Kamis, 31 Agt 2023 22:31:47 |
+| Lulu /ルル （JKT48） | Jumat, 1 Sep 2023 01:01:13 |
+| JKT48 Official SHOWROOM | Sabtu, 2 Sep 2023 14:45:26 |
+| Cathy/キャシー（JKT48） | Sabtu, 2 Sep 2023 23:18:07 |
+| Gendis /ゲンディス（JKT48） | Sabtu, 2 Sep 2023 23:36:10 |
+| Elin /エリン（JKT48） | Sabtu, 2 Sep 2023 23:43:18 |
+| Sisca/シスカ（JKT48） | Minggu, 3 Sep 2023 15:04:20 |
+| Lia /リア（JKT48） | Minggu, 3 Sep 2023 20:12:34 |
+| Gracie /グラシー（JKT48） | Minggu, 3 Sep 2023 21:30:04 |
+| Cynthia /シンティア（JKT48） | Minggu, 3 Sep 2023 21:31:24 |
+| Shani/シャニ（JKT48） | Minggu, 3 Sep 2023 22:55:26 |
+| Fiony /フィオニー（JKT48） | Senin, 4 Sep 2023 02:57:03 |
+| Indah/インダー（JKT48） | Senin, 4 Sep 2023 19:19:39 |
+| Lia /リア（JKT48） | Selasa, 5 Sep 2023 23:51:12 |
+| Chelsea /チェルシー（JKT48） | Rabu, 6 Sep 2023 20:47:50 |
+| Alya /アリア（JKT48） | Minggu, 10 Sep 2023 20:35:23 |
+| Lulu /ルル （JKT48） | Minggu, 10 Sep 2023 21:45:40 |
+| Cathy/キャシー（JKT48） | Senin, 11 Sep 2023 21:16:39 |
+| Ashel /アシェル（JKT48） | Senin, 11 Sep 2023 22:01:27 |
+| Cathy/キャシー（JKT48） | Senin, 11 Sep 2023 22:38:53 |
+| Danella /ダネラ（JKT48） | Selasa, 12 Sep 2023 18:56:45 |
+| Fiony /フィオニー（JKT48） | Kamis, 14 Sep 2023 19:27:29 |
+| Chelsea /チェルシー（JKT48） | Jumat, 15 Sep 2023 20:50:33 |
+| Cathy/キャシー（JKT48） | Jumat, 15 Sep 2023 22:35:03 |
+| Chelsea /チェルシー（JKT48） | Sabtu, 16 Sep 2023 21:59:39 |
+| Gracie /グラシー（JKT48） | Sabtu, 16 Sep 2023 22:15:18 |
+| Ashel /アシェル（JKT48） | Minggu, 17 Sep 2023 16:35:20 |
+| Lulu /ルル （JKT48） | Minggu, 17 Sep 2023 18:18:42 |
+| Jessi/ジェシ（JKT48） | Minggu, 17 Sep 2023 19:23:47 |
+| Lyn /リーン（JKT48） | Minggu, 17 Sep 2023 19:55:28 |
+| Lia /リア（JKT48） | Minggu, 17 Sep 2023 20:47:27 |
+| Elin /エリン（JKT48） | Minggu, 17 Sep 2023 21:14:31 |
+| Oniel/オニエル（JKT48） | Minggu, 17 Sep 2023 21:32:42 |
+| Olla/オラ（JKT48） | Minggu, 17 Sep 2023 22:11:38 |
+| Jeane /ジーン（JKT48） | Senin, 18 Sep 2023 18:02:05 |
+| Oniel/オニエル（JKT48） | Senin, 18 Sep 2023 21:56:51 |
+| Gendis /ゲンディス（JKT48） | Selasa, 19 Sep 2023 16:44:56 |
+| Anindya /アニンディア（JKT48） | Selasa, 19 Sep 2023 17:38:16 |
+| Gendis /ゲンディス（JKT48） | Selasa, 19 Sep 2023 18:20:29 |
+| Adel/アデル（JKT48） | Selasa, 19 Sep 2023 21:01:44 |
+| Amanda/アマンダ（JKT48） | Rabu, 20 Sep 2023 17:27:35 |
+| Ashel /アシェル（JKT48） | Rabu, 20 Sep 2023 20:53:45 |
+| Gendis /ゲンディス（JKT48） | Kamis, 21 Sep 2023 20:09:51 |
+| Oniel/オニエル（JKT48） | Kamis, 21 Sep 2023 20:43:04 |
+| Chelsea /チェルシー（JKT48） | Kamis, 21 Sep 2023 21:53:46 |
+| Amanda/アマンダ（JKT48） | Kamis, 21 Sep 2023 22:36:50 |
+| Gita/ギタ（JKT48） | Sabtu, 23 Sep 2023 13:00:58 |
+| Jeane /ジーン（JKT48） | Sabtu, 23 Sep 2023 18:36:27 |
+| Lyn /リーン（JKT48） | Minggu, 24 Sep 2023 21:13:49 |
+| Kathrina/カトリナ（JKT48） | Minggu, 24 Sep 2023 21:32:37 |
+| Gita/ギタ（JKT48） | Minggu, 24 Sep 2023 22:09:41 |
+| Fiony /フィオニー（JKT48） | Senin, 25 Sep 2023 13:08:21 |
+| Muthe/ムテ（JKT48） | Senin, 25 Sep 2023 19:35:49 |
+| Christy/クリスティー（JKT48） | Senin, 25 Sep 2023 20:40:31 |
+| Jessi/ジェシ（JKT48） | Senin, 25 Sep 2023 21:24:06 |
+| Cathy/キャシー（JKT48） | Senin, 25 Sep 2023 22:58:58 |
+| Chelsea /チェルシー（JKT48） | Selasa, 26 Sep 2023 21:07:47 |
+| Alya /アリア（JKT48） | Rabu, 27 Sep 2023 18:34:18 |
+| Elin /エリン（JKT48） | Rabu, 27 Sep 2023 19:54:41 |
+| Gracie /グラシー（JKT48） | Rabu, 27 Sep 2023 21:00:18 |
+| Eli/エリ（JKT48） | Rabu, 27 Sep 2023 22:10:07 |
+| Muthe/ムテ（JKT48） | Kamis, 28 Sep 2023 00:06:03 |
+| Gita/ギタ（JKT48） | Kamis, 28 Sep 2023 20:46:30 |
+| Lulu /ルル （JKT48） | Kamis, 28 Sep 2023 22:58:33 |
+| Fiony /フィオニー（JKT48） | Kamis, 28 Sep 2023 23:00:49 |
+| Jessi/ジェシ（JKT48） | Jumat, 29 Sep 2023 00:05:00 |
+| Lia /リア（JKT48） | Jumat, 29 Sep 2023 20:04:26 |
+| Eli/エリ（JKT48） | Jumat, 29 Sep 2023 21:12:49 |
+| Olla/オラ（JKT48） | Sabtu, 30 Sep 2023 11:26:50 |
+| Chelsea /チェルシー（JKT48） | Sabtu, 30 Sep 2023 22:13:39 |
+| Cathy/キャシー（JKT48） | Minggu, 1 Okt 2023 14:09:53 |
+| Jessi/ジェシ（JKT48） | Minggu, 1 Okt 2023 20:38:00 |
+| Raisha /ライシャ（JKT48） | Minggu, 1 Okt 2023 20:44:07 |
+| Eli/エリ（JKT48） | Selasa, 3 Okt 2023 19:35:28 |
+| Lia /リア（JKT48） | Selasa, 3 Okt 2023 20:15:38 |
+| Greesel /グリーセル（JKT48） | Selasa, 3 Okt 2023 20:30:17 |
+| Adel/アデル（JKT48） | Rabu, 4 Okt 2023 02:11:28 |
+| Olla/オラ（JKT48） | Rabu, 4 Okt 2023 12:33:37 |
+| Ella /エラ（JKT48） | Rabu, 4 Okt 2023 13:46:53 |
+| Chika/チカ（JKT48） | Rabu, 4 Okt 2023 18:20:02 |
+| Flora/フロラ（JKT48） | Rabu, 4 Okt 2023 21:00:19 |
+| Lulu /ルル （JKT48） | Kamis, 5 Okt 2023 11:12:45 |
+| Gita/ギタ（JKT48） | Kamis, 5 Okt 2023 15:15:39 |
+| Indah/インダー（JKT48） | Kamis, 5 Okt 2023 19:02:26 |
+| Marsha/マーシャ（JKT48） | Kamis, 5 Okt 2023 22:27:40 |
+| Shani/シャニ（JKT48） | Kamis, 5 Okt 2023 23:15:19 |
+| Lulu /ルル （JKT48） | Kamis, 5 Okt 2023 23:22:23 |
+| Lia /リア（JKT48） | Jumat, 6 Okt 2023 21:27:00 |
+| Jessi/ジェシ（JKT48） | Jumat, 6 Okt 2023 21:41:25 |
+| Anindya /アニンディア（JKT48） | Sabtu, 7 Okt 2023 18:08:45 |
+| Cynthia /シンティア（JKT48） | Sabtu, 7 Okt 2023 18:22:36 |
+| Ashel /アシェル（JKT48） | Sabtu, 7 Okt 2023 20:03:09 |
+| Daisy /デイシー（JKT48） | Sabtu, 7 Okt 2023 20:54:26 |
+| Gracie /グラシー（JKT48） | Sabtu, 7 Okt 2023 21:31:14 |
+| Elin /エリン（JKT48） | Sabtu, 7 Okt 2023 21:47:49 |
+| Daisy /デイシー（JKT48） | Sabtu, 7 Okt 2023 21:55:44 |
+| Danella /ダネラ（JKT48） | Minggu, 8 Okt 2023 23:05:42 |
+| Daisy /デイシー（JKT48） | Minggu, 8 Okt 2023 23:06:08 |
+| Olla/オラ（JKT48） | Senin, 9 Okt 2023 18:08:43 |
+| Danella /ダネラ（JKT48） | Senin, 9 Okt 2023 19:21:59 |
+| Daisy /デイシー（JKT48） | Senin, 9 Okt 2023 19:23:03 |
+| Elin /エリン（JKT48） | Senin, 9 Okt 2023 19:54:34 |
+| Jeane /ジーン（JKT48） | Senin, 9 Okt 2023 20:48:03 |
+| Chelsea /チェルシー（JKT48） | Senin, 9 Okt 2023 21:05:59 |
+| Alya /アリア（JKT48） | Selasa, 10 Okt 2023 19:07:32 |
+| Elin /エリン（JKT48） | Selasa, 10 Okt 2023 20:03:53 |
+| Elin /エリン（JKT48） | Selasa, 10 Okt 2023 21:26:09 |
+| Gracia/グラシア（JKT48） | Rabu, 11 Okt 2023 18:39:52 |
+| Lia /リア（JKT48） | Rabu, 11 Okt 2023 23:30:00 |
+| Lyn /リーン（JKT48） | Kamis, 12 Okt 2023 19:16:10 |
+| Ashel /アシェル（JKT48） | Kamis, 12 Okt 2023 21:18:09 |
+| Cathy/キャシー（JKT48） | Kamis, 12 Okt 2023 22:48:21 |
+| Ashel /アシェル（JKT48） | Jumat, 13 Okt 2023 16:02:50 |
+| Oniel/オニエル（JKT48） | Jumat, 13 Okt 2023 20:01:35 |
+| Chelsea /チェルシー（JKT48） | Jumat, 13 Okt 2023 20:43:11 |
+| Danella /ダネラ（JKT48） | Jumat, 13 Okt 2023 22:26:57 |
+| Chika/チカ（JKT48） | Minggu, 15 Okt 2023 15:34:04 |
+| Danella /ダネラ（JKT48） | Minggu, 15 Okt 2023 22:28:31 |
+| Ashel /アシェル（JKT48） | Senin, 16 Okt 2023 20:02:08 |
+| Elin /エリン（JKT48） | Senin, 16 Okt 2023 23:16:38 |
+| Eli/エリ（JKT48） | Selasa, 17 Okt 2023 16:23:20 |
+| Anindya /アニンディア（JKT48） | Selasa, 17 Okt 2023 18:14:57 |
+| Olla/オラ（JKT48） | Rabu, 18 Okt 2023 16:15:38 |
+| Lia /リア（JKT48） | Rabu, 18 Okt 2023 16:28:36 |
+| Jeane /ジーン（JKT48） | Kamis, 19 Okt 2023 18:58:51 |
+| Oniel/オニエル（JKT48） | Sabtu, 21 Okt 2023 23:07:40 |
+| Fiony /フィオニー（JKT48） | Minggu, 22 Okt 2023 00:34:29 |
+| Lulu /ルル （JKT48） | Minggu, 22 Okt 2023 00:34:32 |
+| Lulu /ルル （JKT48） | Minggu, 22 Okt 2023 23:30:47 |
+| Anindya /アニンディア（JKT48） | Senin, 23 Okt 2023 17:41:17 |
+| Gracie /グラシー（JKT48） | Senin, 23 Okt 2023 21:30:16 |
+| Daisy /デイシー（JKT48） | Senin, 23 Okt 2023 22:32:27 |
+| Marsha/マーシャ（JKT48） | Senin, 23 Okt 2023 22:37:22 |
+| Fiony /フィオニー（JKT48） | Senin, 23 Okt 2023 22:42:13 |
+| Indira /インディラ（JKT48） | Selasa, 24 Okt 2023 22:03:53 |
+| Lulu /ルル （JKT48） | Selasa, 24 Okt 2023 23:32:16 |
+| Olla/オラ（JKT48） | Rabu, 25 Okt 2023 22:01:48 |
+| Jessi/ジェシ（JKT48） | Jumat, 27 Okt 2023 21:12:34 |
+| Eli/エリ（JKT48） | Minggu, 29 Okt 2023 17:09:25 |
+| Lia /リア（JKT48） | Minggu, 29 Okt 2023 20:56:31 |
+| Olla/オラ（JKT48） | Senin, 30 Okt 2023 00:43:08 |
+| Danella /ダネラ（JKT48） | Selasa, 31 Okt 2023 00:02:40 |
+| Cathy/キャシー（JKT48） | Selasa, 31 Okt 2023 22:20:45 |
+| Feni/フェニ（JKT48） | Jumat, 3 Nov 2023 17:00:58 |
+| Olla/オラ（JKT48） | Jumat, 3 Nov 2023 18:42:22 |
+| Indah/インダー（JKT48） | Jumat, 3 Nov 2023 19:00:16 |
+| Lia /リア（JKT48） | Sabtu, 4 Nov 2023 14:04:15 |
+| JKT48 Official SHOWROOM | Sabtu, 4 Nov 2023 18:48:09 |
+| Adel/アデル（JKT48） | Minggu, 5 Nov 2023 01:27:28 |
+| Muthe/ムテ（JKT48） | Senin, 6 Nov 2023 19:21:07 |
+| Gita/ギタ（JKT48） | Senin, 6 Nov 2023 20:19:08 |
+| Lyn /リーン（JKT48） | Selasa, 7 Nov 2023 17:04:07 |
+| Ashel /アシェル（JKT48） | Selasa, 7 Nov 2023 21:10:23 |
+| Lia /リア（JKT48） | Rabu, 8 Nov 2023 21:36:55 |
+| Raisha /ライシャ（JKT48） | Rabu, 8 Nov 2023 21:49:05 |
+| Chelsea /チェルシー（JKT48） | Kamis, 9 Nov 2023 21:05:55 |
+| Fiony /フィオニー（JKT48） | Sabtu, 11 Nov 2023 22:29:39 |
+| Elin /エリン（JKT48） | Minggu, 12 Nov 2023 23:27:04 |
+| Lia /リア（JKT48） | Senin, 13 Nov 2023 20:36:23 |
+| Jeane /ジーン（JKT48） | Selasa, 14 Nov 2023 20:03:56 |
+| Lulu /ルル （JKT48） | Selasa, 14 Nov 2023 23:53:42 |
+| Greesel /グリーセル（JKT48） | Rabu, 15 Nov 2023 20:12:40 |
+| Danella /ダネラ（JKT48） | Rabu, 15 Nov 2023 22:01:06 |
+| Daisy /デイシー（JKT48） | Rabu, 15 Nov 2023 23:02:06 |
+| Amanda/アマンダ（JKT48） | Kamis, 16 Nov 2023 20:43:12 |
+| Oniel/オニエル（JKT48） | Jumat, 17 Nov 2023 20:48:03 |
+| Shani/シャニ（JKT48） | Sabtu, 18 Nov 2023 20:25:13 |
+| Marsha/マーシャ（JKT48） | Sabtu, 18 Nov 2023 23:23:20 |
+| Daisy /デイシー（JKT48） | Sabtu, 18 Nov 2023 23:31:18 |
+| Chelsea /チェルシー（JKT48） | Sabtu, 18 Nov 2023 23:55:21 |
+| Feni/フェニ（JKT48） | Rabu, 22 Nov 2023 19:18:34 |
+| Lia /リア（JKT48） | Jumat, 24 Nov 2023 00:37:33 |
+| Olla/オラ（JKT48） | Jumat, 24 Nov 2023 16:11:26 |
+| Raisha /ライシャ（JKT48） | Senin, 27 Nov 2023 18:33:35 |
+| Indah/インダー（JKT48） | Senin, 27 Nov 2023 18:55:00 |
+| Chelsea /チェルシー（JKT48） | Senin, 27 Nov 2023 20:32:51 |
+| Gracie /グラシー（JKT48） | Senin, 27 Nov 2023 21:30:32 |
+| Cathy/キャシー（JKT48） | Senin, 27 Nov 2023 22:29:44 |
+| Eli/エリ（JKT48） | Selasa, 28 Nov 2023 16:42:54 |
+| Ashel /アシェル（JKT48） | Selasa, 28 Nov 2023 21:13:57 |
+| Lia /リア（JKT48） | Kamis, 30 Nov 2023 00:21:06 |
+| Oniel/オニエル（JKT48） | Jumat, 1 Des 2023 23:13:40 |
+| Indah/インダー（JKT48） | Jumat, 1 Des 2023 23:21:41 |
+| Cynthia /シンティア（JKT48） | Senin, 4 Des 2023 20:36:28 |
+| Christy/クリスティー（JKT48） | Rabu, 6 Des 2023 00:02:51 |
+| Feni/フェニ（JKT48） | Rabu, 6 Des 2023 17:25:21 |
+| Olla/オラ（JKT48） | Rabu, 6 Des 2023 23:58:24 |
+| Lia /リア（JKT48） | Kamis, 7 Des 2023 00:21:28 |
+| Amanda/アマンダ（JKT48） | Kamis, 7 Des 2023 19:47:25 |
+| Olla/オラ（JKT48） | Jumat, 8 Des 2023 23:01:27 |
+| Flora/フロラ（JKT48） | Senin, 11 Des 2023 19:56:40 |
+| Lulu /ルル （JKT48） | Senin, 11 Des 2023 21:20:59 |
+| Alya /アリア（JKT48） | Selasa, 12 Des 2023 17:22:34 |
+| Jeane /ジーン（JKT48） | Selasa, 12 Des 2023 20:32:04 |
+| Oniel/オニエル（JKT48） | Selasa, 12 Des 2023 21:05:10 |
+| Chelsea /チェルシー（JKT48） | Selasa, 12 Des 2023 22:31:57 |
+| Lia /リア（JKT48） | Kamis, 14 Des 2023 20:08:01 |
+| Lia /リア（JKT48） | Senin, 18 Des 2023 01:21:55 |
+| Oniel/オニエル（JKT48） | Senin, 18 Des 2023 01:22:21 |
+| Olla/オラ（JKT48） | Senin, 18 Des 2023 20:29:42 |
+| Jessi/ジェシ（JKT48） | Selasa, 19 Des 2023 20:33:24 |
+| Christy/クリスティー（JKT48） | Selasa, 19 Des 2023 20:59:31 |
+| Gracie /グラシー（JKT48） | Selasa, 19 Des 2023 21:00:22 |
+| Michie /ミチー（JKT48） | Selasa, 19 Des 2023 21:16:30 |
+| Lia /リア（JKT48） | Selasa, 19 Des 2023 21:13:25 |
+| Chelsea /チェルシー（JKT48） | Selasa, 19 Des 2023 21:23:16 |
+| Greesel /グリーセル（JKT48） | Selasa, 19 Des 2023 21:29:03 |
+| Cathy/キャシー（JKT48） | Selasa, 19 Des 2023 21:53:26 |
+| Marsha/マーシャ（JKT48） | Selasa, 19 Des 2023 23:05:43 |
+| Anindya /アニンディア（JKT48） | Rabu, 20 Des 2023 14:59:00 |
+| Shani/シャニ（JKT48） | Rabu, 20 Des 2023 20:27:00 |
+| Ella /エラ（JKT48） | Rabu, 20 Des 2023 20:25:45 |
+| Lia /リア（JKT48） | Rabu, 20 Des 2023 21:28:07 |
+| Raisha /ライシャ（JKT48） | Rabu, 20 Des 2023 21:44:02 |
+| Fiony /フィオニー（JKT48） | Rabu, 20 Des 2023 21:53:36 |
+| Lyn /リーン（JKT48） | Kamis, 21 Des 2023 22:42:12 |
+| Gita/ギタ（JKT48） | Jumat, 22 Des 2023 21:29:53 |
+| Jessi/ジェシ（JKT48） | Sabtu, 23 Des 2023 13:24:11 |
+| Jessi/ジェシ（JKT48） | Sabtu, 23 Des 2023 15:20:03 |
+| Lyn /リーン（JKT48） | Minggu, 24 Des 2023 18:19:14 |
+| Gendis /ゲンディス（JKT48） | Minggu, 24 Des 2023 21:08:44 |
+| Lyn /リーン（JKT48） | Senin, 25 Des 2023 17:48:44 |
+| Amanda/アマンダ（JKT48） | Selasa, 26 Des 2023 20:09:36 |
+| Lyn /リーン（JKT48） | Rabu, 27 Des 2023 23:26:40 |
+| Jessi/ジェシ（JKT48） | Kamis, 28 Des 2023 00:35:07 |
+| Chelsea /チェルシー（JKT48） | Kamis, 28 Des 2023 19:40:31 |
+| Lia /リア（JKT48） | Kamis, 28 Des 2023 22:01:51 |
+| Ashel /アシェル（JKT48） | Jumat, 29 Des 2023 00:37:24 |
+| Oniel/オニエル（JKT48） | Jumat, 29 Des 2023 17:14:18 |
+| Chika/チカ（JKT48） | Jumat, 29 Des 2023 17:26:03 |
+| Lia /リア（JKT48） | Jumat, 29 Des 2023 21:59:03 |
+| Raisha /ライシャ（JKT48） | Jumat, 29 Des 2023 22:31:27 |
+| Oniel/オニエル（JKT48） | Sabtu, 30 Des 2023 10:59:28 |
+| Chelsea /チェルシー（JKT48） | Sabtu, 30 Des 2023 16:27:46 |
+| Olla/オラ（JKT48） | Sabtu, 30 Des 2023 17:10:23 |
+| Lulu /ルル （JKT48） | Sabtu, 30 Des 2023 20:31:44 |
+| Shani/シャニ（JKT48） | Sabtu, 30 Des 2023 21:54:06 |
+| Adel/アデル（JKT48） | Sabtu, 30 Des 2023 22:20:41 |
+| Jessi/ジェシ（JKT48） | Sabtu, 30 Des 2023 23:00:08 |
+| Gracia/グラシア（JKT48） | Minggu, 31 Des 2023 17:14:01 |
+| Feni/フェニ（JKT48） | Minggu, 31 Des 2023 17:21:41 |
+| Gendis /ゲンディス（JKT48） | Minggu, 31 Des 2023 17:48:24 |
+| Alya /アリア（JKT48） | Minggu, 31 Des 2023 17:54:29 |
+| Ashel /アシェル（JKT48） | Minggu, 31 Des 2023 21:48:17 |
+| Lia /リア（JKT48） | Senin, 1 Jan 2024 20:45:40 |
+| Chelsea /チェルシー（JKT48） | Senin, 1 Jan 2024 21:04:01 |
+| Lyn /リーン（JKT48） | Senin, 1 Jan 2024 21:21:47 |
+| Feni/フェニ（JKT48） | Senin, 1 Jan 2024 21:58:27 |
+| Elin /エリン（JKT48） | Selasa, 2 Jan 2024 19:27:06 |
+| Raisha /ライシャ（JKT48） | Selasa, 2 Jan 2024 20:48:08 |
+| Lyn /リーン（JKT48） | Rabu, 3 Jan 2024 20:32:01 |
+| Lulu /ルル （JKT48） | Jumat, 5 Jan 2024 01:43:16 |
+| Lulu /ルル （JKT48） | Jumat, 5 Jan 2024 23:12:09 |
+| Jessi/ジェシ（JKT48） | Minggu, 7 Jan 2024 17:32:38 |
+| Eli/エリ（JKT48） | Minggu, 7 Jan 2024 18:04:10 |
+| Lyn /リーン（JKT48） | Senin, 8 Jan 2024 15:48:37 |
+| Shani/シャニ（JKT48） | Rabu, 10 Jan 2024 20:35:46 |
+| Lyn /リーン（JKT48） | Rabu, 10 Jan 2024 23:30:52 |
+| Chelsea /チェルシー（JKT48） | Kamis, 11 Jan 2024 19:48:13 |
+| Gracia/グラシア（JKT48） | Kamis, 11 Jan 2024 22:19:14 |
+| Lia /リア（JKT48） | Kamis, 11 Jan 2024 22:44:45 |
+| JKT48 Official SHOWROOM | Sabtu, 13 Jan 2024 18:46:52 |
+| Eli/エリ（JKT48） | Minggu, 14 Jan 2024 20:31:17 |
+| Feni/フェニ（JKT48） | Senin, 15 Jan 2024 23:05:34 |
+| Gita/ギタ（JKT48） | Selasa, 16 Jan 2024 14:00:16 |
+| Lia /リア（JKT48） | Selasa, 16 Jan 2024 20:37:26 |
+| Raisha /ライシャ（JKT48） | Rabu, 17 Jan 2024 21:21:11 |
+| Chelsea /チェルシー（JKT48） | Rabu, 17 Jan 2024 21:20:26 |
+| Lyn /リーン（JKT48） | Kamis, 18 Jan 2024 23:23:22 |
+| Chelsea /チェルシー（JKT48） | Sabtu, 20 Jan 2024 21:30:07 |
+| Eli/エリ（JKT48） | Sabtu, 20 Jan 2024 23:42:46 |
+| Shani/シャニ（JKT48） | Minggu, 21 Jan 2024 21:39:26 |
+| Ashel /アシェル（JKT48） | Minggu, 21 Jan 2024 23:37:03 |
+| Ashel /アシェル（JKT48） | Senin, 22 Jan 2024 19:23:07 |
+| Lyn /リーン（JKT48） | Senin, 22 Jan 2024 22:50:27 |
+| Lia /リア（JKT48） | Selasa, 23 Jan 2024 00:31:19 |
+| Lyn /リーン（JKT48） | Selasa, 23 Jan 2024 15:11:17 |
+| Eli/エリ（JKT48） | Rabu, 24 Jan 2024 18:56:54 |
+| Oniel/オニエル（JKT48） | Rabu, 24 Jan 2024 20:57:39 |
+| Lulu /ルル （JKT48） | Kamis, 25 Jan 2024 00:00:37 |
+| JKT48 Official SHOWROOM | Jumat, 26 Jan 2024 18:45:31 |
+| Daisy /デイシー（JKT48） | Jumat, 26 Jan 2024 22:52:22 |
+| Lyn /リーン（JKT48） | Sabtu, 27 Jan 2024 00:03:03 |
+| Lia /リア（JKT48） | Sabtu, 27 Jan 2024 00:53:57 |
+| Ashel /アシェル（JKT48） | Sabtu, 27 Jan 2024 17:25:30 |
+| Chelsea /チェルシー（JKT48） | Sabtu, 27 Jan 2024 21:45:06 |
+| Ella /エラ（JKT48） | Sabtu, 27 Jan 2024 23:40:57 |
+| Lia /リア（JKT48） | Selasa, 30 Jan 2024 00:18:52 |
+| Oniel/オニエル（JKT48） | Selasa, 30 Jan 2024 23:29:12 |
+| Jessi/ジェシ（JKT48） | Rabu, 31 Jan 2024 22:19:17 |
+| Fiony /フィオニー（JKT48） | Rabu, 31 Jan 2024 22:19:24 |
+| Lia /リア（JKT48） | Jumat, 2 Feb 2024 00:16:57 |
+| Zee/ジー（JKT48） | Jumat, 2 Feb 2024 20:01:25 |
+| Eli/エリ（JKT48） | Jumat, 2 Feb 2024 22:24:51 |
+| Lyn /リーン（JKT48） | Jumat, 2 Feb 2024 22:49:49 |
+| Gracie /グラシー（JKT48） | Sabtu, 3 Feb 2024 22:00:56 |
+| Fiony /フィオニー（JKT48） | Minggu, 4 Feb 2024 23:13:13 |
+| Jessi/ジェシ（JKT48） | Senin, 5 Feb 2024 20:35:09 |
+| Olla/オラ（JKT48） | Selasa, 6 Feb 2024 17:50:24 |
+| Shani/シャニ（JKT48） | Selasa, 6 Feb 2024 21:08:35 |
+| Oniel/オニエル（JKT48） | Selasa, 6 Feb 2024 21:37:24 |
+| Lia /リア（JKT48） | Rabu, 7 Feb 2024 00:29:47 |
+| Lulu /ルル （JKT48） | Rabu, 7 Feb 2024 15:44:46 |
+| Gita/ギタ（JKT48） | Rabu, 7 Feb 2024 17:00:25 |
+| Olla/オラ（JKT48） | Rabu, 7 Feb 2024 20:12:46 |
+| Jessi/ジェシ（JKT48） | Rabu, 7 Feb 2024 20:12:53 |
+| Fiony /フィオニー（JKT48） | Rabu, 7 Feb 2024 20:23:08 |
+| Callie /カリー（JKT48） | Rabu, 7 Feb 2024 23:54:13 |
+| Chelsea /チェルシー（JKT48） | Kamis, 8 Feb 2024 22:53:46 |
+| Daisy /デイシー（JKT48） | Jumat, 9 Feb 2024 15:16:20 |
+| Lulu /ルル （JKT48） | Jumat, 9 Feb 2024 21:27:12 |
+| Muthe/ムテ（JKT48） | Jumat, 9 Feb 2024 21:33:33 |
+| Fiony /フィオニー（JKT48） | Jumat, 9 Feb 2024 23:54:38 |
+| Ashel /アシェル（JKT48） | Sabtu, 10 Feb 2024 20:19:54 |
+| Jessi/ジェシ（JKT48） | Sabtu, 10 Feb 2024 20:46:56 |
+| Olla/オラ（JKT48） | Sabtu, 10 Feb 2024 23:01:59 |
+| Lia /リア（JKT48） | Minggu, 11 Feb 2024 19:41:16 |
+| Adel/アデル（JKT48） | Minggu, 11 Feb 2024 20:57:12 |
+| Eli/エリ（JKT48） | Minggu, 11 Feb 2024 21:13:04 |
+| Christy/クリスティー（JKT48） | Senin, 12 Feb 2024 20:39:46 |
+| Muthe/ムテ（JKT48） | Senin, 12 Feb 2024 20:39:37 |
+| Jeane /ジーン（JKT48） | Rabu, 14 Feb 2024 19:20:34 |
+| Oniel/オニエル（JKT48） | Rabu, 14 Feb 2024 19:22:07 |
+| Gracia/グラシア（JKT48） | Rabu, 14 Feb 2024 20:01:13 |
+| Indah/インダー（JKT48） | Rabu, 14 Feb 2024 20:03:15 |
+| Oniel/オニエル（JKT48） | Rabu, 14 Feb 2024 20:41:21 |
+| Alya /アリア（JKT48） | Kamis, 15 Feb 2024 13:38:13 |
+| Eli/エリ（JKT48） | Kamis, 15 Feb 2024 16:11:31 |
+| Lulu /ルル （JKT48） | Jumat, 16 Feb 2024 08:09:07 |
+| Kathrina/カトリナ（JKT48） | Jumat, 16 Feb 2024 22:40:34 |
+| Ella /エラ（JKT48） | Sabtu, 17 Feb 2024 22:15:28 |
+| Cynthia /シンティア（JKT48） | Minggu, 18 Feb 2024 21:37:43 |
+| Daisy /デイシー（JKT48） | Minggu, 18 Feb 2024 22:05:18 |
+| JKT48 Official SHOWROOM | Senin, 19 Feb 2024 16:01:45 |
+| JKT48 Official SHOWROOM | Senin, 19 Feb 2024 17:13:24 |
+| Cathy/キャシー（JKT48） | Senin, 19 Feb 2024 20:47:10 |
+| Indah/インダー（JKT48） | Selasa, 20 Feb 2024 20:03:18 |
+| Lia /リア（JKT48） | Rabu, 21 Feb 2024 14:36:18 |
+| Alya /アリア（JKT48） | Rabu, 21 Feb 2024 18:47:31 |
+| Jeane /ジーン（JKT48） | Kamis, 22 Feb 2024 21:31:24 |
+| Lulu /ルル （JKT48） | Kamis, 22 Feb 2024 22:18:41 |
+| Eli/エリ（JKT48） | Jumat, 23 Feb 2024 17:26:13 |
+| Gracia/グラシア（JKT48） | Jumat, 23 Feb 2024 19:51:20 |
+| Feni/フェニ（JKT48） | Jumat, 23 Feb 2024 21:21:15 |
+| Jeane /ジーン（JKT48） | Jumat, 23 Feb 2024 21:23:03 |
+| Cathy/キャシー（JKT48） | Sabtu, 24 Feb 2024 13:29:18 |
+| Feni/フェニ（JKT48） | Sabtu, 24 Feb 2024 19:13:29 |
+| Lia /リア（JKT48） | Sabtu, 24 Feb 2024 21:45:29 |
+| Oniel/オニエル（JKT48） | Sabtu, 24 Feb 2024 22:10:32 |
+| Muthe/ムテ（JKT48） | Sabtu, 24 Feb 2024 22:40:23 |
+| Gracia/グラシア（JKT48） | Minggu, 25 Feb 2024 21:02:39 |
+| Lia /リア（JKT48） | Senin, 26 Feb 2024 01:17:26 |
+| Lyn /リーン（JKT48） | Senin, 26 Feb 2024 18:58:09 |
+| Feni/フェニ（JKT48） | Senin, 26 Feb 2024 19:58:50 |
+| Cynthia /シンティア（JKT48） | Senin, 26 Feb 2024 20:44:52 |
+| Anindya /アニンディア（JKT48） | Senin, 26 Feb 2024 20:51:03 |
+| Olla/オラ（JKT48） | Senin, 26 Feb 2024 22:08:40 |
+| Michie /ミチー（JKT48） | Selasa, 27 Feb 2024 20:36:47 |
+| Gendis /ゲンディス（JKT48） | Rabu, 28 Feb 2024 17:10:44 |
+| Freya/フレヤ（JKT48） | Kamis, 29 Feb 2024 23:33:47 |
+| Cathy/キャシー（JKT48） | Jumat, 1 Mar 2024 17:21:13 |
+| Feni/フェニ（JKT48） | Jumat, 1 Mar 2024 21:16:05 |
+| Chelsea /チェルシー（JKT48） | Jumat, 1 Mar 2024 22:01:30 |
+| Olla/オラ（JKT48） | Sabtu, 2 Mar 2024 17:44:09 |
+| Jessi/ジェシ（JKT48） | Sabtu, 2 Mar 2024 17:45:36 |
+| JKT48 Official SHOWROOM | Sabtu, 2 Mar 2024 19:09:46 |
+| Fiony /フィオニー（JKT48） | Senin, 4 Mar 2024 22:03:11 |
+| Gracie /グラシー（JKT48） | Selasa, 5 Mar 2024 18:31:14 |
+| Lyn /リーン（JKT48） | Selasa, 5 Mar 2024 23:36:37 |
+| Eli/エリ（JKT48） | Rabu, 6 Mar 2024 19:48:03 |
+| Shani/シャニ（JKT48） | Rabu, 6 Mar 2024 22:15:25 |
+| Amanda/アマンダ（JKT48） | Rabu, 6 Mar 2024 23:22:10 |
+| Cathy/キャシー（JKT48） | Kamis, 7 Mar 2024 00:02:45 |
+| Marsha/マーシャ（JKT48） | Kamis, 7 Mar 2024 12:59:09 |
+| Olla/オラ（JKT48） | Kamis, 7 Mar 2024 13:15:55 |
+| Lia /リア（JKT48） | Kamis, 7 Mar 2024 19:39:04 |
+| Lulu /ルル （JKT48） | Kamis, 7 Mar 2024 23:10:56 |
+| Lyn /リーン（JKT48） | Kamis, 7 Mar 2024 23:10:22 |
+| Amanda/アマンダ（JKT48） | Kamis, 7 Mar 2024 23:28:29 |
+| Cynthia /シンティア（JKT48） | Sabtu, 9 Mar 2024 21:34:08 |
+| Cynthia /シンティア（JKT48） | Senin, 11 Mar 2024 03:32:24 |
+| Lia /リア（JKT48） | Selasa, 12 Mar 2024 02:34:51 |
+| Fiony /フィオニー（JKT48） | Selasa, 12 Mar 2024 02:46:51 |
+| Callie /カリー（JKT48） | Selasa, 12 Mar 2024 02:48:10 |
+| Cynthia /シンティア（JKT48） | Selasa, 12 Mar 2024 03:36:08 |
+| Muthe/ムテ（JKT48） | Selasa, 12 Mar 2024 16:54:44 |
+| Chelsea /チェルシー（JKT48） | Selasa, 12 Mar 2024 17:03:39 |
+| Raisha /ライシャ（JKT48） | Selasa, 12 Mar 2024 20:33:51 |
+| Gracie /グラシー（JKT48） | Selasa, 12 Mar 2024 22:06:37 |
+| Shani/シャニ（JKT48） | Selasa, 12 Mar 2024 22:39:37 |
+| Lia /リア（JKT48） | Rabu, 13 Mar 2024 02:18:16 |
+| Cynthia /シンティア（JKT48） | Rabu, 13 Mar 2024 03:40:19 |
+| Gracie /グラシー（JKT48） | Rabu, 13 Mar 2024 17:27:22 |
+| Lyn /リーン（JKT48） | Kamis, 14 Mar 2024 02:28:47 |
+| Lia /リア（JKT48） | Kamis, 14 Mar 2024 02:32:08 |
+| Cynthia /シンティア（JKT48） | Kamis, 14 Mar 2024 03:38:22 |
+| Amanda/アマンダ（JKT48） | Kamis, 14 Mar 2024 04:04:15 |
+| Olla/オラ（JKT48） | Kamis, 14 Mar 2024 21:34:53 |
+| Marsha/マーシャ（JKT48） | Kamis, 14 Mar 2024 23:53:49 |
+| Jessi/ジェシ（JKT48） | Jumat, 15 Mar 2024 02:27:55 |
+| Lulu /ルル （JKT48） | Jumat, 15 Mar 2024 20:33:32 |
+| Feni/フェニ（JKT48） | Jumat, 15 Mar 2024 23:08:30 |
+| Lia /リア（JKT48） | Sabtu, 16 Mar 2024 21:41:46 |
+| Marsha/マーシャ（JKT48） | Sabtu, 16 Mar 2024 21:47:21 |
+| Raisha /ライシャ（JKT48） | Sabtu, 16 Mar 2024 21:47:02 |
+| Jessi/ジェシ（JKT48） | Sabtu, 16 Mar 2024 22:29:22 |
+| Elin /エリン（JKT48） | Minggu, 17 Mar 2024 01:43:03 |
+| Callie /カリー（JKT48） | Minggu, 17 Mar 2024 02:31:34 |
+| Chelsea /チェルシー（JKT48） | Minggu, 17 Mar 2024 03:41:53 |
+| Christy/クリスティー（JKT48） | Minggu, 17 Mar 2024 15:28:53 |
+| Lyn /リーン（JKT48） | Minggu, 17 Mar 2024 19:43:37 |
+| Gracie /グラシー（JKT48） | Minggu, 17 Mar 2024 21:00:22 |
+| Cynthia /シンティア（JKT48） | Senin, 18 Mar 2024 03:52:26 |
+| Gita/ギタ（JKT48） | Senin, 18 Mar 2024 15:31:24 |
+| Cathy/キャシー（JKT48） | Senin, 18 Mar 2024 21:06:43 |
+| Chelsea /チェルシー（JKT48） | Senin, 18 Mar 2024 21:13:01 |
+| Indah/インダー（JKT48） | Senin, 18 Mar 2024 21:40:50 |
+| Alya /アリア（JKT48） | Selasa, 19 Mar 2024 02:44:13 |
+| Cynthia /シンティア（JKT48） | Selasa, 19 Mar 2024 03:48:23 |
+| Raisha /ライシャ（JKT48） | Selasa, 19 Mar 2024 21:40:32 |
+| Indira /インディラ（JKT48） | Rabu, 20 Mar 2024 03:02:50 |
+| Cynthia /シンティア（JKT48） | Rabu, 20 Mar 2024 04:06:19 |
+| Amanda/アマンダ（JKT48） | Rabu, 20 Mar 2024 21:07:56 |
+| Muthe/ムテ（JKT48） | Rabu, 20 Mar 2024 21:42:44 |
+| Indah/インダー（JKT48） | Rabu, 20 Mar 2024 23:01:28 |
+| Jessi/ジェシ（JKT48） | Kamis, 21 Mar 2024 00:04:02 |
+| Cynthia /シンティア（JKT48） | Kamis, 21 Mar 2024 04:05:55 |
+| Olla/オラ（JKT48） | Kamis, 21 Mar 2024 20:49:49 |
+| Feni/フェニ（JKT48） | Kamis, 21 Mar 2024 21:44:45 |
+| Cathy/キャシー（JKT48） | Kamis, 21 Mar 2024 22:40:14 |
+| Cynthia /シンティア（JKT48） | Jumat, 22 Mar 2024 04:37:34 |
+| Chelsea /チェルシー（JKT48） | Jumat, 22 Mar 2024 20:44:22 |
+| Marsha/マーシャ（JKT48） | Sabtu, 23 Mar 2024 00:20:52 |
+| Callie /カリー（JKT48） | Sabtu, 23 Mar 2024 02:35:29 |
+| Cynthia /シンティア（JKT48） | Sabtu, 23 Mar 2024 03:51:41 |
+| Callie /カリー（JKT48） | Sabtu, 23 Mar 2024 13:47:01 |
+| Callie /カリー（JKT48） | Minggu, 24 Mar 2024 02:01:41 |
+| Cynthia /シンティア（JKT48） | Minggu, 24 Mar 2024 04:51:14 |
+| Gracie /グラシー（JKT48） | Minggu, 24 Mar 2024 22:06:59 |
+| Cynthia /シンティア（JKT48） | Senin, 25 Mar 2024 18:24:25 |
+| Lyn /リーン（JKT48） | Selasa, 26 Mar 2024 01:36:45 |
+| Cynthia /シンティア（JKT48） | Selasa, 26 Mar 2024 03:41:27 |
+| Ella /エラ（JKT48） | Selasa, 26 Mar 2024 17:03:39 |
+| Kathrina/カトリナ（JKT48） | Selasa, 26 Mar 2024 17:12:29 |
+| Lia /リア（JKT48） | Selasa, 26 Mar 2024 18:30:46 |
+| Flora/フロラ（JKT48） | Selasa, 26 Mar 2024 19:47:42 |
+| Gracia/グラシア（JKT48） | Selasa, 26 Mar 2024 20:41:36 |
+| Danella /ダネラ（JKT48） | Rabu, 27 Mar 2024 01:35:49 |
+| Daisy /デイシー（JKT48） | Rabu, 27 Mar 2024 01:36:53 |
+| Cynthia /シンティア（JKT48） | Rabu, 27 Mar 2024 04:04:51 |
+| Feni/フェニ（JKT48） | Rabu, 27 Mar 2024 21:32:13 |
+| Fiony /フィオニー（JKT48） | Kamis, 28 Mar 2024 03:31:49 |
+| Lyn /リーン（JKT48） | Kamis, 28 Mar 2024 19:22:49 |
+| Lia /リア（JKT48） | Kamis, 28 Mar 2024 23:30:40 |
+| Jessi/ジェシ（JKT48） | Jumat, 29 Mar 2024 03:40:59 |
+| Cynthia /シンティア（JKT48） | Jumat, 29 Mar 2024 03:52:57 |
+| Lia /リア（JKT48） | Jumat, 29 Mar 2024 15:33:29 |
+| Gracie /グラシー（JKT48） | Jumat, 29 Mar 2024 22:01:08 |
+| Alya /アリア（JKT48） | Sabtu, 30 Mar 2024 00:13:24 |
+| Cynthia /シンティア（JKT48） | Sabtu, 30 Mar 2024 04:03:29 |
+| Chelsea /チェルシー（JKT48） | Minggu, 31 Mar 2024 20:52:14 |
+| Olla/オラ（JKT48） | Minggu, 31 Mar 2024 22:42:37 |
+| Lia /リア（JKT48） | Senin, 1 Apr 2024 19:02:35 |
+| Zee/ジー（JKT48） | Senin, 1 Apr 2024 21:16:24 |
+| Danella /ダネラ（JKT48） | Senin, 1 Apr 2024 21:49:56 |
+| Elin /エリン（JKT48） | Senin, 1 Apr 2024 21:50:29 |
+| Gracie /グラシー（JKT48） | Selasa, 2 Apr 2024 21:02:01 |
+| Adel/アデル（JKT48） | Selasa, 2 Apr 2024 22:38:42 |
+| Lulu /ルル （JKT48） | Rabu, 3 Apr 2024 00:07:53 |
+| Lyn /リーン（JKT48） | Rabu, 3 Apr 2024 00:15:50 |
+| Lia /リア（JKT48） | Rabu, 3 Apr 2024 00:26:12 |
+| Cynthia /シンティア（JKT48） | Rabu, 3 Apr 2024 04:03:50 |
+| Elin /エリン（JKT48） | Rabu, 3 Apr 2024 06:22:56 |
+| Lulu /ルル （JKT48） | Kamis, 4 Apr 2024 01:06:55 |
+| Olla/オラ（JKT48） | Jumat, 5 Apr 2024 01:59:57 |
+| Cynthia /シンティア（JKT48） | Jumat, 5 Apr 2024 03:54:52 |
+| Greesel /グリーセル（JKT48） | Jumat, 5 Apr 2024 20:26:29 |
+| Chelsea /チェルシー（JKT48） | Jumat, 5 Apr 2024 20:55:46 |
+| Danella /ダネラ（JKT48） | Jumat, 5 Apr 2024 23:22:17 |
+| Daisy /デイシー（JKT48） | Jumat, 5 Apr 2024 23:22:21 |
+| Lia /リア（JKT48） | Minggu, 7 Apr 2024 00:20:10 |
+| Cynthia /シンティア（JKT48） | Minggu, 7 Apr 2024 03:12:54 |
+| Gracie /グラシー（JKT48） | Minggu, 7 Apr 2024 22:44:56 |
+| Levi / レヴィ（JKT48） | Senin, 8 Apr 2024 15:00:12 |
+| Delynn / デリンヌ（JKT48） | Senin, 8 Apr 2024 16:00:47 |
+| Nala / ナラ（JKT48） | Senin, 8 Apr 2024 16:00:34 |
+| Shasa / シャサ（JKT48） | Senin, 8 Apr 2024 16:30:11 |
+| Erine / エリン（JKT48） | Senin, 8 Apr 2024 17:18:29 |
+| Nachia / ナチア（JKT48） | Senin, 8 Apr 2024 18:45:44 |
+| Lily / リリー（JKT48） | Senin, 8 Apr 2024 19:03:30 |
+| Kimmy / キミー（JKT48） | Senin, 8 Apr 2024 20:00:46 |
+| Trisha / トリシャ（JKT48） | Senin, 8 Apr 2024 20:15:55 |
+| Nayla / ナイラ（JKT48） | Senin, 8 Apr 2024 20:30:42 |
+| Regie / レギー（JKT48） | Senin, 8 Apr 2024 20:48:55 |
+| Fritzy / フリッツィー（JKT48） | Senin, 8 Apr 2024 21:02:10 |
+| Lana / ラナ（JKT48） | Senin, 8 Apr 2024 21:01:22 |
+| Aralie / アラリー（JKT48） | Senin, 8 Apr 2024 21:02:10 |
+| Elin /エリン（JKT48） | Senin, 8 Apr 2024 21:25:46 |
+| Oniel/オニエル（JKT48） | Selasa, 9 Apr 2024 00:53:24 |
+| Cynthia /シンティア（JKT48） | Selasa, 9 Apr 2024 04:06:36 |
+| Zee/ジー（JKT48） | Selasa, 9 Apr 2024 14:34:07 |
+| Nachia / ナチア（JKT48） | Selasa, 9 Apr 2024 15:25:58 |
+| Eli/エリ（JKT48） | Selasa, 9 Apr 2024 21:05:53 |
+| Lyn /リーン（JKT48） | Selasa, 9 Apr 2024 22:59:52 |
+| Muthe/ムテ（JKT48） | Rabu, 10 Apr 2024 21:29:22 |
+| Lyn /リーン（JKT48） | Rabu, 10 Apr 2024 22:21:55 |
+| Cathy/キャシー（JKT48） | Rabu, 10 Apr 2024 22:24:53 |
+| Callie /カリー（JKT48） | Rabu, 10 Apr 2024 22:30:53 |
+| Callie /カリー（JKT48） | Kamis, 11 Apr 2024 00:05:22 |
+| Jessi/ジェシ（JKT48） | Kamis, 11 Apr 2024 00:06:54 |
+| Gracia/グラシア（JKT48） | Kamis, 11 Apr 2024 15:54:12 |
+| Daisy /デイシー（JKT48） | Kamis, 11 Apr 2024 16:02:50 |
+| Lia /リア（JKT48） | Kamis, 11 Apr 2024 17:32:58 |
+| Regie / レギー（JKT48） | Kamis, 11 Apr 2024 20:26:41 |
+| Erine / エリン（JKT48） | Kamis, 11 Apr 2024 20:32:43 |
+| Lana / ラナ（JKT48） | Kamis, 11 Apr 2024 22:01:17 |
+| Fritzy / フリッツィー（JKT48） | Kamis, 11 Apr 2024 22:06:49 |
+| Aralie / アラリー（JKT48） | Jumat, 12 Apr 2024 13:30:32 |
+| Lana / ラナ（JKT48） | Jumat, 12 Apr 2024 16:49:44 |
+| Delynn / デリンヌ（JKT48） | Jumat, 12 Apr 2024 21:06:38 |
+| Jessi/ジェシ（JKT48） | Sabtu, 13 Apr 2024 13:01:54 |
+| Nayla / ナイラ（JKT48） | Sabtu, 13 Apr 2024 15:54:39 |
+| Nala / ナラ（JKT48） | Sabtu, 13 Apr 2024 16:00:05 |
+| Lia /リア（JKT48） | Sabtu, 13 Apr 2024 18:15:05 |
+| Adel/アデル（JKT48） | Sabtu, 13 Apr 2024 20:17:16 |
+| Jessi/ジェシ（JKT48） | Sabtu, 13 Apr 2024 21:28:10 |
+| Trisha / トリシャ（JKT48） | Sabtu, 13 Apr 2024 21:40:59 |
+| Lana / ラナ（JKT48） | Sabtu, 13 Apr 2024 22:26:27 |
+| Daisy /デイシー（JKT48） | Minggu, 14 Apr 2024 15:03:00 |
+| Nachia / ナチア（JKT48） | Minggu, 14 Apr 2024 20:55:47 |
+| Gracie /グラシー（JKT48） | Minggu, 14 Apr 2024 21:00:38 |
+| Nachia / ナチア（JKT48） | Senin, 15 Apr 2024 12:28:07 |
+| Danella /ダネラ（JKT48） | Senin, 15 Apr 2024 15:01:40 |
+| Alya /アリア（JKT48） | Senin, 15 Apr 2024 17:02:49 |
+| Fritzy / フリッツィー（JKT48） | Senin, 15 Apr 2024 19:26:58 |
+| Elin /エリン（JKT48） | Senin, 15 Apr 2024 20:33:03 |
+| Lana / ラナ（JKT48） | Senin, 15 Apr 2024 21:02:23 |
+| Erine / エリン（JKT48） | Senin, 15 Apr 2024 21:19:34 |
+| Aralie / アラリー（JKT48） | Senin, 15 Apr 2024 22:04:28 |
+| Olla/オラ（JKT48） | Senin, 15 Apr 2024 22:21:49 |
+| Erine / エリン（JKT48） | Senin, 15 Apr 2024 23:01:59 |
+| Daisy /デイシー（JKT48） | Selasa, 16 Apr 2024 15:02:19 |
+| Shasa / シャサ（JKT48） | Selasa, 16 Apr 2024 16:00:43 |
+| Lily / リリー（JKT48） | Selasa, 16 Apr 2024 19:07:32 |
+| Delynn / デリンヌ（JKT48） | Selasa, 16 Apr 2024 18:36:11 |
+| Nala / ナラ（JKT48） | Selasa, 16 Apr 2024 19:45:08 |
+| Aralie / アラリー（JKT48） | Selasa, 16 Apr 2024 20:00:32 |
+| Anindya /アニンディア（JKT48） | Selasa, 16 Apr 2024 20:19:30 |
+| Nayla / ナイラ（JKT48） | Selasa, 16 Apr 2024 20:06:46 |
+| Cynthia /シンティア（JKT48） | Selasa, 16 Apr 2024 20:30:53 |
+| Chelsea /チェルシー（JKT48） | Selasa, 16 Apr 2024 20:49:45 |
+| Erine / エリン（JKT48） | Selasa, 16 Apr 2024 21:00:27 |
+| Kimmy / キミー（JKT48） | Selasa, 16 Apr 2024 21:04:31 |
+| Regie / レギー（JKT48） | Selasa, 16 Apr 2024 21:22:11 |
+| Lana / ラナ（JKT48） | Selasa, 16 Apr 2024 21:29:51 |
+| Trisha / トリシャ（JKT48） | Selasa, 16 Apr 2024 21:03:44 |
+| Nachia / ナチア（JKT48） | Selasa, 16 Apr 2024 21:46:28 |
+| Lia /リア（JKT48） | Selasa, 16 Apr 2024 22:44:08 |
+| Moreen / モリーン（JKT48） | Rabu, 17 Apr 2024 16:00:12 |
+| Lana / ラナ（JKT48） | Rabu, 17 Apr 2024 17:15:05 |
+| Shasa / シャサ（JKT48） | Rabu, 17 Apr 2024 17:16:25 |
+| Feni/フェニ（JKT48） | Rabu, 17 Apr 2024 19:31:25 |
+| Lulu /ルル （JKT48） | Rabu, 17 Apr 2024 19:31:50 |
+| Oline / オリヌ（JKT48） | Rabu, 17 Apr 2024 21:58:44 |
+| Levi / レヴィ（JKT48） | Rabu, 17 Apr 2024 23:22:39 |
+| Feni/フェニ（JKT48） | Kamis, 18 Apr 2024 19:37:15 |
+| Elin /エリン（JKT48） | Sabtu, 20 Apr 2024 01:26:24 |
+| Jeane /ジーン（JKT48） | Sabtu, 20 Apr 2024 12:55:03 |
+| Chelsea /チェルシー（JKT48） | Sabtu, 20 Apr 2024 21:41:45 |
+| Lia /リア（JKT48） | Minggu, 21 Apr 2024 18:49:05 |
+| Ella /エラ（JKT48） | Minggu, 21 Apr 2024 22:42:40 |
+| Shasa / シャサ（JKT48） | Minggu, 28 Apr 2024 16:32:28 |
+| Oline / オリヌ（JKT48） | Minggu, 28 Apr 2024 19:20:58 |
+| Nala / ナラ（JKT48） | Minggu, 28 Apr 2024 20:17:30 |
+| Daisy /デイシー（JKT48） | Minggu, 28 Apr 2024 20:26:12 |
+| Lana / ラナ（JKT48） | Minggu, 28 Apr 2024 21:31:48 |
+| Cynthia /シンティア（JKT48） | Minggu, 28 Apr 2024 23:00:31 |
+| Lily / リリー（JKT48） | Senin, 29 Apr 2024 14:07:23 |
+| Adel/アデル（JKT48） | Senin, 29 Apr 2024 14:21:57 |
+| Lia /リア（JKT48） | Selasa, 30 Apr 2024 16:11:53 |
+| Ribka / リブカ（JKT48） | Rabu, 1 Mei 2024 17:13:57 |
+| Lulu /ルル （JKT48） | Rabu, 1 Mei 2024 21:25:01 |
+| Nayla / ナイラ（JKT48） | Kamis, 2 Mei 2024 15:58:45 |
+| Gracia/グラシア（JKT48） | Kamis, 2 Mei 2024 16:09:54 |
+| Trisha / トリシャ（JKT48） | Kamis, 2 Mei 2024 18:51:15 |
+| Raisha /ライシャ（JKT48） | Kamis, 2 Mei 2024 23:08:08 |
+| Adel/アデル（JKT48） | Sabtu, 4 Mei 2024 23:42:37 |
+| Nachia / ナチア（JKT48） | Minggu, 5 Mei 2024 21:47:33 |
+| Zee/ジー（JKT48） | Minggu, 5 Mei 2024 22:32:01 |
+| Lia /リア（JKT48） | Selasa, 7 Mei 2024 01:16:14 |
+| Christy/クリスティー（JKT48） | Selasa, 7 Mei 2024 12:42:49 |
+| Gendis /ゲンディス（JKT48） | Rabu, 8 Mei 2024 15:45:30 |
+| Chelsea /チェルシー（JKT48） | Rabu, 8 Mei 2024 16:04:26 |
+| Elin /エリン（JKT48） | Rabu, 8 Mei 2024 21:05:18 |
+| Alya /アリア（JKT48） | Rabu, 8 Mei 2024 21:57:11 |
+| Feni/フェニ（JKT48） | Rabu, 8 Mei 2024 22:28:35 |
+| Jessi/ジェシ（JKT48） | Rabu, 8 Mei 2024 23:09:47 |
+| Trisha / トリシャ（JKT48） | Kamis, 9 Mei 2024 14:44:53 |
+| Gracia/グラシア（JKT48） | Kamis, 9 Mei 2024 18:02:21 |
+| Gracia/グラシア（JKT48） | Kamis, 9 Mei 2024 20:02:04 |
+| Lia /リア（JKT48） | Kamis, 9 Mei 2024 21:56:32 |
+| Oline / オリヌ（JKT48） | Kamis, 9 Mei 2024 22:41:50 |
+| Delynn / デリンヌ（JKT48） | Jumat, 10 Mei 2024 15:25:56 |
+| Elin /エリン（JKT48） | Jumat, 10 Mei 2024 16:20:52 |
+| Greesel /グリーセル（JKT48） | Jumat, 10 Mei 2024 18:24:26 |
+| Anindya /アニンディア（JKT48） | Jumat, 10 Mei 2024 19:28:39 |
+| Erine / エリン（JKT48） | Jumat, 10 Mei 2024 20:00:12 |
+| Lana / ラナ（JKT48） | Minggu, 12 Mei 2024 20:22:14 |
+| Shasa / シャサ（JKT48） | Minggu, 12 Mei 2024 21:00:33 |
+| Aralie / アラリー（JKT48） | Minggu, 12 Mei 2024 21:02:27 |
+| Michie /ミチー（JKT48） | Minggu, 12 Mei 2024 23:35:24 |
+| Fritzy / フリッツィー（JKT48） | Senin, 13 Mei 2024 15:31:58 |
+| Daisy /デイシー（JKT48） | Senin, 13 Mei 2024 15:32:01 |
+| Lily / リリー（JKT48） | Senin, 13 Mei 2024 15:40:34 |
+| Nayla / ナイラ（JKT48） | Senin, 13 Mei 2024 15:55:28 |
+| Adel/アデル（JKT48） | Senin, 13 Mei 2024 20:59:38 |
+| Gracie /グラシー（JKT48） | Senin, 13 Mei 2024 21:20:39 |
+| Gracia/グラシア（JKT48） | Senin, 13 Mei 2024 21:29:14 |
+| Fiony /フィオニー（JKT48） | Selasa, 14 Mei 2024 02:12:34 |
+| Freya/フレヤ（JKT48） | Selasa, 14 Mei 2024 02:18:12 |
+| Levi / レヴィ（JKT48） | Selasa, 14 Mei 2024 13:36:40 |
+| Lia /リア（JKT48） | Selasa, 14 Mei 2024 20:32:41 |
+| Oniel/オニエル（JKT48） | Selasa, 14 Mei 2024 21:06:57 |
+| Shani/シャニ（JKT48） | Selasa, 14 Mei 2024 21:09:18 |
+| Christy/クリスティー（JKT48） | Selasa, 14 Mei 2024 22:00:22 |
+| Jessi/ジェシ（JKT48） | Selasa, 14 Mei 2024 23:03:06 |
+| Olla/オラ（JKT48） | Selasa, 14 Mei 2024 23:08:08 |
+| Muthe/ムテ（JKT48） | Rabu, 15 Mei 2024 20:04:32 |
+| Lyn /リーン（JKT48） | Kamis, 16 Mei 2024 21:20:37 |
+| Zee/ジー（JKT48） | Kamis, 16 Mei 2024 21:31:04 |
+| Ribka / リブカ（JKT48） | Jumat, 17 Mei 2024 18:14:55 |
+| Shasa / シャサ（JKT48） | Jumat, 17 Mei 2024 19:20:53 |
+| Ribka / リブカ（JKT48） | Jumat, 17 Mei 2024 19:31:11 |
+| Lily / リリー（JKT48） | Jumat, 17 Mei 2024 20:14:13 |
+| Erine / エリン（JKT48） | Jumat, 17 Mei 2024 20:31:17 |
+| Oline / オリヌ（JKT48） | Jumat, 17 Mei 2024 22:02:41 |
+| Adel/アデル（JKT48） | Jumat, 17 Mei 2024 22:49:56 |
+| Lana / ラナ（JKT48） | Sabtu, 18 Mei 2024 12:42:15 |
+| Lyn /リーン（JKT48） | Sabtu, 18 Mei 2024 16:07:36 |
+| Eli/エリ（JKT48） | Sabtu, 18 Mei 2024 16:44:01 |
+| Fiony /フィオニー（JKT48） | Sabtu, 18 Mei 2024 23:54:46 |
+| Trisha / トリシャ（JKT48） | Minggu, 19 Mei 2024 13:13:23 |
+| Nayla / ナイラ（JKT48） | Minggu, 19 Mei 2024 14:58:24 |
+| Regie / レギー（JKT48） | Minggu, 19 Mei 2024 14:59:41 |
+| Nala / ナラ（JKT48） | Minggu, 19 Mei 2024 15:28:59 |
+| Gracia/グラシア（JKT48） | Minggu, 19 Mei 2024 18:01:20 |
+| Lyn /リーン（JKT48） | Minggu, 19 Mei 2024 21:50:36 |
+| Feni/フェニ（JKT48） | Senin, 20 Mei 2024 20:28:02 |
+| Muthe/ムテ（JKT48） | Senin, 20 Mei 2024 21:04:37 |
+| Lia /リア（JKT48） | Senin, 20 Mei 2024 21:16:06 |
+| Gracie /グラシー（JKT48） | Senin, 20 Mei 2024 21:20:03 |
+| Jessi/ジェシ（JKT48） | Senin, 20 Mei 2024 21:27:48 |
+| Greesel /グリーセル（JKT48） | Senin, 20 Mei 2024 23:02:00 |
+| Feni/フェニ（JKT48） | Selasa, 21 Mei 2024 21:09:10 |
+| Adel/アデル（JKT48） | Selasa, 21 Mei 2024 22:37:31 |
+| Oniel/オニエル（JKT48） | Rabu, 22 Mei 2024 19:00:25 |
+| Feni/フェニ（JKT48） | Kamis, 23 Mei 2024 15:40:12 |
+| Muthe/ムテ（JKT48） | Kamis, 23 Mei 2024 22:37:18 |
+| Lia /リア（JKT48） | Kamis, 23 Mei 2024 22:38:24 |
+| Feni/フェニ（JKT48） | Jumat, 24 Mei 2024 15:15:28 |
+| Delynn / デリンヌ（JKT48） | Jumat, 24 Mei 2024 19:26:51 |
+| JKT48 Official SHOWROOM | Jumat, 24 Mei 2024 18:46:21 |
+| Chelsea /チェルシー（JKT48） | Jumat, 24 Mei 2024 21:22:53 |
+| Greesel /グリーセル（JKT48） | Jumat, 24 Mei 2024 23:05:55 |
+| Alya /アリア（JKT48） | Jumat, 24 Mei 2024 23:23:36 |
+| Olla/オラ（JKT48） | Jumat, 24 Mei 2024 23:53:23 |
+| Lily / リリー（JKT48） | Sabtu, 25 Mei 2024 13:19:41 |
+| Elin /エリン（JKT48） | Sabtu, 25 Mei 2024 18:42:59 |
+| Ribka / リブカ（JKT48） | Sabtu, 25 Mei 2024 18:59:14 |
+| Lyn /リーン（JKT48） | Sabtu, 25 Mei 2024 20:01:17 |
+| Regie / レギー（JKT48） | Sabtu, 25 Mei 2024 20:28:16 |
+| Lia /リア（JKT48） | Sabtu, 25 Mei 2024 20:29:47 |
+| Daisy /デイシー（JKT48） | Sabtu, 25 Mei 2024 23:08:51 |
+| Nayla / ナイラ（JKT48） | Minggu, 26 Mei 2024 14:57:45 |
+| Aralie / アラリー（JKT48） | Minggu, 26 Mei 2024 17:01:34 |
+| Lana / ラナ（JKT48） | Minggu, 26 Mei 2024 19:36:01 |
+| Oline / オリヌ（JKT48） | Minggu, 26 Mei 2024 22:02:49 |
+| Greesel /グリーセル（JKT48） | Selasa, 28 Mei 2024 20:37:11 |
+| Gracie /グラシー（JKT48） | Selasa, 28 Mei 2024 20:53:27 |
+| Lia /リア（JKT48） | Kamis, 30 Mei 2024 22:08:41 |
+| Anindya /アニンディア（JKT48） | Minggu, 2 Jun 2024 16:17:43 |
+| Oline / オリヌ（JKT48） | Minggu, 2 Jun 2024 20:18:58 |
+| Regie / レギー（JKT48） | Minggu, 2 Jun 2024 20:30:30 |
+| Fritzy / フリッツィー（JKT48） | Minggu, 2 Jun 2024 20:47:38 |
+| Nayla / ナイラ（JKT48） | Minggu, 2 Jun 2024 20:59:36 |
+| Lana / ラナ（JKT48） | Minggu, 2 Jun 2024 21:21:47 |
+| Levi / レヴィ（JKT48） | Minggu, 2 Jun 2024 21:30:49 |
+| Marsha/マーシャ（JKT48） | Minggu, 2 Jun 2024 21:41:17 |
+| Nala / ナラ（JKT48） | Minggu, 2 Jun 2024 22:20:42 |
+| Nachia / ナチア（JKT48） | Minggu, 2 Jun 2024 22:24:58 |
+| Erine / エリン（JKT48） | Minggu, 2 Jun 2024 23:00:13 |
+| Kimmy / キミー（JKT48） | Minggu, 2 Jun 2024 23:09:53 |
+| Auwia / アウウィア (JKT48) | Rabu, 2 Apr 2025 18:27:59 |
+| Auwia / アウウィア (JKT48) | Rabu, 2 Apr 2025 18:27:59 |
+| Ribka / リブカ（JKT48） | Rabu, 2 Apr 2025 22:36:32 |
+| Ribka / リブカ（JKT48） | Rabu, 2 Apr 2025 22:36:32 |
+| Nala / ナラ（JKT48） | Jumat, 4 Apr 2025 19:18:37 |
+| Nala / ナラ（JKT48） | Jumat, 4 Apr 2025 19:18:37 |
+| Nayla / ナイラ（JKT48） | Jumat, 4 Apr 2025 19:43:38 |
+| Nayla / ナイラ（JKT48） | Jumat, 4 Apr 2025 19:43:38 |
+| Regie / レギー（JKT48） | Jumat, 4 Apr 2025 21:44:24 |
+| Regie / レギー（JKT48） | Jumat, 4 Apr 2025 21:44:24 |
+| Lana / ラナ（JKT48） | Jumat, 4 Apr 2025 21:56:39 |
+| Lana / ラナ（JKT48） | Jumat, 4 Apr 2025 21:56:39 |
+| Rilly / リリー (JKT48) | Sabtu, 5 Apr 2025 14:00:31 |
+| Rilly / リリー (JKT48) | Sabtu, 5 Apr 2025 14:00:31 |
+| Aralie / アラリー（JKT48） | Sabtu, 5 Apr 2025 20:07:42 |
+| Aralie / アラリー（JKT48） | Sabtu, 5 Apr 2025 20:07:42 |
+| Levi / レヴィ（JKT48） | Sabtu, 5 Apr 2025 21:21:42 |
+| Levi / レヴィ（JKT48） | Sabtu, 5 Apr 2025 21:21:42 |
+| Auwia / アウウィア (JKT48) | Minggu, 6 Apr 2025 09:56:34 |
+| Auwia / アウウィア (JKT48) | Minggu, 6 Apr 2025 09:56:34 |
+| Intan / インタン (JKT48) | Minggu, 6 Apr 2025 10:58:49 |
+| Intan / インタン (JKT48) | Minggu, 6 Apr 2025 10:58:49 |
+| Virgi / ヴィルジ (JKT48) | Minggu, 6 Apr 2025 12:11:09 |
+| Virgi / ヴィルジ (JKT48) | Minggu, 6 Apr 2025 12:11:09 |
+| Maira / マイラ (JKT48) | Minggu, 6 Apr 2025 12:29:45 |
+| Maira / マイラ (JKT48) | Minggu, 6 Apr 2025 12:29:45 |
+| Auwia / アウウィア (JKT48) | Senin, 7 Apr 2025 12:41:42 |
+| Auwia / アウウィア (JKT48) | Senin, 7 Apr 2025 12:41:42 |
+| Greesel /グリーセル（JKT48） | Senin, 7 Apr 2025 20:04:34 |
+| Auwia / アウウィア (JKT48) | Senin, 7 Apr 2025 20:01:45 |
+| Greesel /グリーセル（JKT48） | Senin, 7 Apr 2025 20:04:34 |
+| Auwia / アウウィア (JKT48) | Senin, 7 Apr 2025 20:01:45 |
+| Lily / リリー（JKT48） | Senin, 7 Apr 2025 21:06:32 |
+| Lily / リリー（JKT48） | Senin, 7 Apr 2025 21:06:32 |
+| Virgi / ヴィルジ (JKT48) | Selasa, 8 Apr 2025 14:05:15 |
+| Virgi / ヴィルジ (JKT48) | Selasa, 8 Apr 2025 14:05:15 |
+| Auwia / アウウィア (JKT48) | Selasa, 8 Apr 2025 14:33:11 |
+| Auwia / アウウィア (JKT48) | Selasa, 8 Apr 2025 14:33:11 |
+| Intan / インタン (JKT48) | Selasa, 8 Apr 2025 14:44:10 |
+| Intan / インタン (JKT48) | Selasa, 8 Apr 2025 14:44:10 |
+| Virgi / ヴィルジ (JKT48) | Selasa, 8 Apr 2025 16:04:05 |
+| Virgi / ヴィルジ (JKT48) | Selasa, 8 Apr 2025 16:04:05 |
+| Raisha /ライシャ（JKT48） | Selasa, 8 Apr 2025 20:20:03 |
+| Raisha /ライシャ（JKT48） | Selasa, 8 Apr 2025 20:20:03 |
+| Levi / レヴィ（JKT48） | Rabu, 9 Apr 2025 13:02:41 |
+| Levi / レヴィ（JKT48） | Rabu, 9 Apr 2025 13:02:41 |
+| Jemima / ジェミマ (JKT48) | Rabu, 9 Apr 2025 14:57:29 |
+| Jemima / ジェミマ (JKT48) | Rabu, 9 Apr 2025 14:57:29 |
+| Ekin / エキン (JKT48) | Rabu, 9 Apr 2025 15:29:12 |
+| Ekin / エキン (JKT48) | Rabu, 9 Apr 2025 15:29:12 |
+| Auwia / アウウィア (JKT48) | Rabu, 9 Apr 2025 16:07:10 |
+| Auwia / アウウィア (JKT48) | Rabu, 9 Apr 2025 16:07:10 |
+| Delynn / デリンヌ（JKT48） | Rabu, 9 Apr 2025 20:08:17 |
+| Delynn / デリンヌ（JKT48） | Rabu, 9 Apr 2025 20:08:17 |
+| Auwia / アウウィア (JKT48) | Rabu, 9 Apr 2025 21:12:45 |
+| Auwia / アウウィア (JKT48) | Rabu, 9 Apr 2025 21:12:45 |
+| Auwia / アウウィア (JKT48) | Kamis, 10 Apr 2025 17:38:45 |
+| Auwia / アウウィア (JKT48) | Kamis, 10 Apr 2025 17:38:45 |
+| Intan / インタン (JKT48) | Kamis, 10 Apr 2025 18:16:30 |
+| Virgi / ヴィルジ (JKT48) | Kamis, 10 Apr 2025 18:22:31 |
+| Intan / インタン (JKT48) | Kamis, 10 Apr 2025 18:16:30 |
+| Virgi / ヴィルジ (JKT48) | Kamis, 10 Apr 2025 18:22:31 |
+| Aralie / アラリー（JKT48） | Kamis, 10 Apr 2025 19:13:34 |
+| Aralie / アラリー（JKT48） | Kamis, 10 Apr 2025 19:13:34 |
+| Auwia / アウウィア (JKT48) | Jumat, 11 Apr 2025 13:03:51 |
+| Auwia / アウウィア (JKT48) | Jumat, 11 Apr 2025 13:03:51 |
+| Nala / ナラ（JKT48） | Jumat, 11 Apr 2025 16:36:17 |
+| Nala / ナラ（JKT48） | Jumat, 11 Apr 2025 16:36:17 |
+| Lana / ラナ（JKT48） | Jumat, 11 Apr 2025 19:12:17 |
+| Lana / ラナ（JKT48） | Jumat, 11 Apr 2025 19:12:17 |
+| Nayla / ナイラ（JKT48） | Sabtu, 12 Apr 2025 14:46:46 |
+| Nayla / ナイラ（JKT48） | Sabtu, 12 Apr 2025 14:46:46 |
+| Auwia / アウウィア (JKT48) | Sabtu, 12 Apr 2025 18:06:24 |
+| Auwia / アウウィア (JKT48) | Sabtu, 12 Apr 2025 18:06:24 |
+| Virgi / ヴィルジ (JKT48) | Sabtu, 12 Apr 2025 20:29:26 |
+| Virgi / ヴィルジ (JKT48) | Sabtu, 12 Apr 2025 20:29:26 |
+| Intan / インタン (JKT48) | Sabtu, 12 Apr 2025 20:43:11 |
+| Intan / インタン (JKT48) | Sabtu, 12 Apr 2025 20:43:11 |
+| Ribka / リブカ（JKT48） | Sabtu, 12 Apr 2025 21:51:46 |
+| Ribka / リブカ（JKT48） | Sabtu, 12 Apr 2025 21:51:46 |
+| Regie / レギー（JKT48） | Sabtu, 12 Apr 2025 22:30:43 |
+| Regie / レギー（JKT48） | Sabtu, 12 Apr 2025 22:30:43 |
+| Erine / エリン（JKT48） | Sabtu, 12 Apr 2025 22:53:05 |
+| Erine / エリン（JKT48） | Sabtu, 12 Apr 2025 22:53:05 |
+| Nachia / ナチア（JKT48） | Minggu, 13 Apr 2025 13:56:02 |
+| Nachia / ナチア（JKT48） | Minggu, 13 Apr 2025 13:56:02 |
+| Virgi / ヴィルジ (JKT48) | Minggu, 13 Apr 2025 19:33:06 |
+| Intan / インタン (JKT48) | Minggu, 13 Apr 2025 19:57:22 |
+| Virgi / ヴィルジ (JKT48) | Minggu, 13 Apr 2025 19:33:06 |
+| Intan / インタン (JKT48) | Minggu, 13 Apr 2025 19:57:22 |
+| Auwia / アウウィア (JKT48) | Minggu, 13 Apr 2025 20:20:45 |
+| Auwia / アウウィア (JKT48) | Minggu, 13 Apr 2025 20:20:45 |
+| Ekin / エキン (JKT48) | Minggu, 13 Apr 2025 21:05:22 |
+| Ekin / エキン (JKT48) | Minggu, 13 Apr 2025 21:05:22 |
+| Kimmy / キミー（JKT48） | Minggu, 13 Apr 2025 22:46:42 |
+| Kimmy / キミー（JKT48） | Minggu, 13 Apr 2025 22:46:42 |
+| Gita/ギタ（JKT48） | Senin, 14 Apr 2025 14:36:20 |
+| Gita/ギタ（JKT48） | Senin, 14 Apr 2025 14:36:20 |
+| Fritzy / フリッツィー（JKT48） | Senin, 14 Apr 2025 19:06:26 |
+| Fritzy / フリッツィー（JKT48） | Senin, 14 Apr 2025 19:06:26 |
+| Intan / インタン (JKT48) | Senin, 14 Apr 2025 19:46:21 |
+| Intan / インタン (JKT48) | Senin, 14 Apr 2025 19:46:21 |
+| Rilly / リリー (JKT48) | Selasa, 15 Apr 2025 15:00:18 |
+| Rilly / リリー (JKT48) | Selasa, 15 Apr 2025 15:00:18 |
+| Aralie / アラリー（JKT48） | Selasa, 15 Apr 2025 19:00:07 |
+| Auwia / アウウィア (JKT48) | Selasa, 15 Apr 2025 18:55:56 |
+| Nayla / ナイラ（JKT48） | Selasa, 15 Apr 2025 19:00:14 |
+| Aralie / アラリー（JKT48） | Selasa, 15 Apr 2025 19:00:07 |
+| Auwia / アウウィア (JKT48) | Selasa, 15 Apr 2025 18:55:56 |
+| Nayla / ナイラ（JKT48） | Selasa, 15 Apr 2025 19:00:14 |
+| Nala / ナラ（JKT48） | Selasa, 15 Apr 2025 19:30:07 |
+| Nala / ナラ（JKT48） | Selasa, 15 Apr 2025 19:30:07 |
+| Intan / インタン (JKT48) | Selasa, 15 Apr 2025 20:18:18 |
+| Intan / インタン (JKT48) | Selasa, 15 Apr 2025 20:18:18 |
+| Lyn /リーン（JKT48） | Selasa, 15 Apr 2025 23:49:41 |
+| Lyn /リーン（JKT48） | Selasa, 15 Apr 2025 23:49:41 |
+| Lia /リア（JKT48） | Rabu, 16 Apr 2025 00:16:21 |
+| Lia /リア（JKT48） | Rabu, 16 Apr 2025 00:16:21 |
+| Auwia / アウウィア (JKT48) | Kamis, 17 Apr 2025 10:10:47 |
+| Auwia / アウウィア (JKT48) | Kamis, 17 Apr 2025 10:10:47 |
+| Levi / レヴィ（JKT48） | Kamis, 17 Apr 2025 19:57:17 |
+| Regie / レギー（JKT48） | Kamis, 17 Apr 2025 19:56:45 |
+| Levi / レヴィ（JKT48） | Kamis, 17 Apr 2025 19:57:17 |
+| Regie / レギー（JKT48） | Kamis, 17 Apr 2025 19:56:45 |
+| Virgi / ヴィルジ (JKT48) | Kamis, 17 Apr 2025 21:35:15 |
+| Virgi / ヴィルジ (JKT48) | Kamis, 17 Apr 2025 21:35:15 |
+| Lily / リリー（JKT48） | Jumat, 18 Apr 2025 12:25:01 |
+| Lily / リリー（JKT48） | Jumat, 18 Apr 2025 12:25:01 |
+| Nachia / ナチア（JKT48） | Jumat, 18 Apr 2025 13:04:16 |
+| Auwia / アウウィア (JKT48) | Jumat, 18 Apr 2025 13:07:39 |
+| Nachia / ナチア（JKT48） | Jumat, 18 Apr 2025 13:04:16 |
+| Auwia / アウウィア (JKT48) | Jumat, 18 Apr 2025 13:07:39 |
+| Virgi / ヴィルジ (JKT48) | Jumat, 18 Apr 2025 17:33:26 |
+| Auwia / アウウィア (JKT48) | Jumat, 18 Apr 2025 17:33:30 |
+| Virgi / ヴィルジ (JKT48) | Jumat, 18 Apr 2025 17:33:26 |
+| Auwia / アウウィア (JKT48) | Jumat, 18 Apr 2025 17:33:30 |
+| Intan / インタン (JKT48) | Jumat, 18 Apr 2025 21:05:13 |
+| Intan / インタン (JKT48) | Jumat, 18 Apr 2025 21:05:13 |
+| Erine / エリン（JKT48） | Jumat, 18 Apr 2025 22:03:58 |
+| Lana / ラナ（JKT48） | Jumat, 18 Apr 2025 22:00:27 |
+| Erine / エリン（JKT48） | Jumat, 18 Apr 2025 22:03:58 |
+| Lana / ラナ（JKT48） | Jumat, 18 Apr 2025 22:00:27 |
+| Auwia / アウウィア (JKT48) | Sabtu, 19 Apr 2025 17:06:02 |
+| Auwia / アウウィア (JKT48) | Sabtu, 19 Apr 2025 17:06:02 |
+| Ribka / リブカ（JKT48） | Sabtu, 19 Apr 2025 19:45:58 |
+| Ribka / リブカ（JKT48） | Sabtu, 19 Apr 2025 19:45:58 |
+| Kimmy / キミー（JKT48） | Minggu, 20 Apr 2025 15:58:40 |
+| Virgi / ヴィルジ (JKT48) | Minggu, 20 Apr 2025 15:57:57 |
+| Auwia / アウウィア (JKT48) | Minggu, 20 Apr 2025 16:02:27 |
+| Kimmy / キミー（JKT48） | Minggu, 20 Apr 2025 15:58:40 |
+| Virgi / ヴィルジ (JKT48) | Minggu, 20 Apr 2025 15:57:57 |
+| Auwia / アウウィア (JKT48) | Minggu, 20 Apr 2025 16:02:27 |
+| Intan / インタン (JKT48) | Minggu, 20 Apr 2025 18:38:09 |
+| Intan / インタン (JKT48) | Minggu, 20 Apr 2025 18:38:09 |
+| Lia /リア（JKT48） | Senin, 21 Apr 2025 00:40:31 |
+| Lia /リア（JKT48） | Senin, 21 Apr 2025 00:40:31 |
+| Auwia / アウウィア (JKT48) | Senin, 21 Apr 2025 13:26:51 |
+| Auwia / アウウィア (JKT48) | Senin, 21 Apr 2025 13:26:51 |
+| Virgi / ヴィルジ (JKT48) | Senin, 21 Apr 2025 15:24:09 |
+| Virgi / ヴィルジ (JKT48) | Senin, 21 Apr 2025 15:24:09 |
+| Auwia / アウウィア (JKT48) | Senin, 21 Apr 2025 16:48:26 |
+| Auwia / アウウィア (JKT48) | Senin, 21 Apr 2025 16:48:26 |
+| Rilly / リリー (JKT48) | Senin, 21 Apr 2025 20:40:18 |
+| Rilly / リリー (JKT48) | Senin, 21 Apr 2025 20:40:18 |
+| Intan / インタン (JKT48) | Senin, 21 Apr 2025 21:38:51 |
+| Intan / インタン (JKT48) | Senin, 21 Apr 2025 21:38:51 |
+| Lily / リリー（JKT48） | Selasa, 22 Apr 2025 13:00:08 |
+| Auwia / アウウィア (JKT48) | Selasa, 22 Apr 2025 13:13:59 |
+| Lily / リリー（JKT48） | Selasa, 22 Apr 2025 13:00:08 |
+| Auwia / アウウィア (JKT48) | Selasa, 22 Apr 2025 13:13:59 |
+| Aralie / アラリー（JKT48） | Selasa, 22 Apr 2025 22:11:59 |
+| Intan / インタン (JKT48) | Selasa, 22 Apr 2025 22:22:25 |
+| Aralie / アラリー（JKT48） | Selasa, 22 Apr 2025 22:11:59 |
+| Intan / インタン (JKT48) | Selasa, 22 Apr 2025 22:22:25 |
+| Delynn / デリンヌ（JKT48） | Rabu, 23 Apr 2025 20:33:43 |
+| Delynn / デリンヌ（JKT48） | Rabu, 23 Apr 2025 20:33:43 |
+| Nayla / ナイラ（JKT48） | Rabu, 23 Apr 2025 22:03:19 |
+| Nayla / ナイラ（JKT48） | Rabu, 23 Apr 2025 22:03:19 |
+| Nala / ナラ（JKT48） | Kamis, 24 Apr 2025 13:03:27 |
+| Nala / ナラ（JKT48） | Kamis, 24 Apr 2025 13:03:27 |
+| Intan / インタン (JKT48) | Kamis, 24 Apr 2025 14:06:40 |
+| Intan / インタン (JKT48) | Kamis, 24 Apr 2025 14:06:40 |
+| Intan / インタン (JKT48) | Kamis, 24 Apr 2025 22:28:12 |
+| Intan / インタン (JKT48) | Kamis, 24 Apr 2025 22:28:12 |
+| Auwia / アウウィア (JKT48) | Jumat, 25 Apr 2025 16:05:14 |
+| Rilly / リリー (JKT48) | Jumat, 25 Apr 2025 16:00:51 |
+| Auwia / アウウィア (JKT48) | Jumat, 25 Apr 2025 16:05:14 |
+| Rilly / リリー (JKT48) | Jumat, 25 Apr 2025 16:00:51 |
+| Virgi / ヴィルジ (JKT48) | Jumat, 25 Apr 2025 18:09:36 |
+| Virgi / ヴィルジ (JKT48) | Jumat, 25 Apr 2025 18:09:36 |
+| Levi / レヴィ（JKT48） | Jumat, 25 Apr 2025 22:13:52 |
+| Levi / レヴィ（JKT48） | Jumat, 25 Apr 2025 22:13:52 |
+| Lana / ラナ（JKT48） | Jumat, 25 Apr 2025 22:32:11 |
+| Lana / ラナ（JKT48） | Jumat, 25 Apr 2025 22:32:11 |
+| Moreen / モリーン（JKT48） | Sabtu, 26 Apr 2025 20:17:52 |
+| Moreen / モリーン（JKT48） | Sabtu, 26 Apr 2025 20:17:52 |
+| Regie / レギー（JKT48） | Sabtu, 26 Apr 2025 22:00:07 |
+| Regie / レギー（JKT48） | Sabtu, 26 Apr 2025 22:00:07 |
+| Ribka / リブカ（JKT48） | Sabtu, 26 Apr 2025 23:27:20 |
+| Ribka / リブカ（JKT48） | Sabtu, 26 Apr 2025 23:27:20 |
+| Kimmy / キミー（JKT48） | Minggu, 27 Apr 2025 11:16:34 |
+| Kimmy / キミー（JKT48） | Minggu, 27 Apr 2025 11:16:34 |
+| Nachia / ナチア（JKT48） | Minggu, 27 Apr 2025 12:48:58 |
+| Nachia / ナチア（JKT48） | Minggu, 27 Apr 2025 12:48:58 |
+| Auwia / アウウィア (JKT48) | Minggu, 27 Apr 2025 16:01:42 |
+| Auwia / アウウィア (JKT48) | Minggu, 27 Apr 2025 16:01:42 |
+| Intan / インタン (JKT48) | Senin, 28 Apr 2025 20:46:17 |
+| Intan / インタン (JKT48) | Senin, 28 Apr 2025 20:46:17 |
+| Auwia / アウウィア (JKT48) | Selasa, 29 Apr 2025 15:07:52 |
+| Auwia / アウウィア (JKT48) | Selasa, 29 Apr 2025 15:07:52 |
+| Nala / ナラ（JKT48） | Selasa, 29 Apr 2025 18:54:44 |
+| Nala / ナラ（JKT48） | Selasa, 29 Apr 2025 18:54:44 |
+| Oline / オリヌ（JKT48） | Selasa, 29 Apr 2025 21:18:58 |
+| Oline / オリヌ（JKT48） | Selasa, 29 Apr 2025 21:18:58 |
+| Auwia / アウウィア (JKT48) | Rabu, 30 Apr 2025 18:48:35 |
+| Auwia / アウウィア (JKT48) | Rabu, 30 Apr 2025 18:48:35 |
+| Virgi / ヴィルジ (JKT48) | Rabu, 30 Apr 2025 19:13:47 |
+| Virgi / ヴィルジ (JKT48) | Rabu, 30 Apr 2025 19:13:47 |
+| Lana / ラナ（JKT48） | Rabu, 30 Apr 2025 22:02:15 |
+| Lana / ラナ（JKT48） | Rabu, 30 Apr 2025 22:02:15 |
+| Fritzy / フリッツィー（JKT48） | Rabu, 30 Apr 2025 23:53:59 |
+| Fritzy / フリッツィー（JKT48） | Rabu, 30 Apr 2025 23:53:59 |
+| Ribka / リブカ（JKT48） | Kamis, 1 Mei 2025 17:01:11 |
+| Ribka / リブカ（JKT48） | Kamis, 1 Mei 2025 17:01:11 |
+| Kimmy / キミー（JKT48） | Kamis, 1 Mei 2025 19:44:29 |
+| Virgi / ヴィルジ (JKT48) | Kamis, 1 Mei 2025 19:44:22 |
+| Intan / インタン (JKT48) | Kamis, 1 Mei 2025 19:52:43 |
+| Kimmy / キミー（JKT48） | Kamis, 1 Mei 2025 19:44:29 |
+| Virgi / ヴィルジ (JKT48) | Kamis, 1 Mei 2025 19:44:22 |
+| Intan / インタン (JKT48) | Kamis, 1 Mei 2025 19:52:43 |
+| Fritzy / フリッツィー（JKT48） | Kamis, 1 Mei 2025 20:46:48 |
+| Fritzy / フリッツィー（JKT48） | Kamis, 1 Mei 2025 20:46:48 |
+| Levi / レヴィ（JKT48） | Sabtu, 3 Mei 2025 10:52:20 |
+| Levi / レヴィ（JKT48） | Sabtu, 3 Mei 2025 10:52:20 |
+| Lily / リリー（JKT48） | Sabtu, 3 Mei 2025 12:20:24 |
+| Lily / リリー（JKT48） | Sabtu, 3 Mei 2025 12:20:24 |
+| Nayla / ナイラ（JKT48） | Sabtu, 3 Mei 2025 23:23:29 |
+| Nayla / ナイラ（JKT48） | Sabtu, 3 Mei 2025 23:23:29 |
+| Nachia / ナチア（JKT48） | Minggu, 4 Mei 2025 15:37:46 |
+| Nachia / ナチア（JKT48） | Minggu, 4 Mei 2025 15:37:46 |
+| Regie / レギー（JKT48） | Minggu, 4 Mei 2025 19:35:52 |
+| Regie / レギー（JKT48） | Minggu, 4 Mei 2025 19:35:52 |
+| Intan / インタン (JKT48) | Minggu, 4 Mei 2025 20:37:10 |
+| Intan / インタン (JKT48) | Minggu, 4 Mei 2025 20:37:10 |
+| Auwia / アウウィア (JKT48) | Minggu, 4 Mei 2025 20:48:23 |
+| Auwia / アウウィア (JKT48) | Minggu, 4 Mei 2025 20:48:23 |
+| Gita/ギタ（JKT48） | Minggu, 4 Mei 2025 21:52:20 |
+| Gita/ギタ（JKT48） | Minggu, 4 Mei 2025 21:52:20 |
+| Fritzy / フリッツィー（JKT48） | Senin, 5 Mei 2025 17:27:55 |
+| Fritzy / フリッツィー（JKT48） | Senin, 5 Mei 2025 17:27:55 |
+| Aralie / アラリー（JKT48） | Senin, 5 Mei 2025 18:20:12 |
+| Aralie / アラリー（JKT48） | Senin, 5 Mei 2025 18:20:12 |
+| Ribka / リブカ（JKT48） | Senin, 5 Mei 2025 19:31:45 |
+| Ribka / リブカ（JKT48） | Senin, 5 Mei 2025 19:31:45 |
+| Intan / インタン (JKT48) | Senin, 5 Mei 2025 20:35:41 |
+| Intan / インタン (JKT48) | Senin, 5 Mei 2025 20:35:41 |
+| Auwia / アウウィア (JKT48) | Senin, 5 Mei 2025 20:49:45 |
+| Auwia / アウウィア (JKT48) | Senin, 5 Mei 2025 20:49:45 |
+| Levi / レヴィ（JKT48） | Senin, 5 Mei 2025 23:02:59 |
+| Levi / レヴィ（JKT48） | Senin, 5 Mei 2025 23:02:59 |
+| Erine / エリン（JKT48） | Senin, 5 Mei 2025 23:35:32 |
+| Erine / エリン（JKT48） | Senin, 5 Mei 2025 23:35:32 |
+| Erine / エリン（JKT48） | Selasa, 6 Mei 2025 06:36:02 |
+| Erine / エリン（JKT48） | Selasa, 6 Mei 2025 06:36:02 |
+| Intan / インタン (JKT48) | Selasa, 6 Mei 2025 21:29:04 |
+| Intan / インタン (JKT48) | Selasa, 6 Mei 2025 21:29:04 |
+| Nayla / ナイラ（JKT48） | Selasa, 6 Mei 2025 22:04:56 |
+| Nayla / ナイラ（JKT48） | Selasa, 6 Mei 2025 22:04:56 |
+| Nala / ナラ（JKT48） | Rabu, 7 Mei 2025 18:33:06 |
+| Nala / ナラ（JKT48） | Rabu, 7 Mei 2025 18:33:06 |
+| Intan / インタン (JKT48) | Rabu, 7 Mei 2025 21:02:15 |
+| Intan / インタン (JKT48) | Rabu, 7 Mei 2025 21:02:15 |
+| Nachia / ナチア（JKT48） | Jumat, 9 Mei 2025 16:25:35 |
+| Nachia / ナチア（JKT48） | Jumat, 9 Mei 2025 16:25:35 |
+| Intan / インタン (JKT48) | Jumat, 9 Mei 2025 21:42:29 |
+| Intan / インタン (JKT48) | Jumat, 9 Mei 2025 21:42:29 |
+| Lily / リリー（JKT48） | Sabtu, 10 Mei 2025 21:58:31 |
+| Lily / リリー（JKT48） | Sabtu, 10 Mei 2025 21:58:31 |
+| Regie / レギー（JKT48） | Sabtu, 10 Mei 2025 22:40:03 |
+| Regie / レギー（JKT48） | Sabtu, 10 Mei 2025 22:40:03 |
+| Delynn / デリンヌ（JKT48） | Sabtu, 10 Mei 2025 23:51:29 |
+| Lana / ラナ（JKT48） | Sabtu, 10 Mei 2025 23:51:16 |
+| Delynn / デリンヌ（JKT48） | Sabtu, 10 Mei 2025 23:51:29 |
+| Lana / ラナ（JKT48） | Sabtu, 10 Mei 2025 23:51:16 |
+| Intan / インタン (JKT48) | Senin, 12 Mei 2025 18:27:08 |
+| Intan / インタン (JKT48) | Senin, 12 Mei 2025 18:27:08 |
+| Auwia / アウウィア (JKT48) | Senin, 12 Mei 2025 20:47:14 |
+| Auwia / アウウィア (JKT48) | Senin, 12 Mei 2025 20:47:14 |
+| Intan / インタン (JKT48) | Senin, 12 Mei 2025 22:08:45 |
+| Intan / インタン (JKT48) | Senin, 12 Mei 2025 22:08:45 |
+| Ekin / エキン (JKT48) | Selasa, 13 Mei 2025 15:16:37 |
+| Ekin / エキン (JKT48) | Selasa, 13 Mei 2025 15:16:37 |
+| Intan / インタン (JKT48) | Selasa, 13 Mei 2025 21:45:29 |
+| Intan / インタン (JKT48) | Selasa, 13 Mei 2025 21:45:29 |
+| Nayla / ナイラ（JKT48） | Rabu, 14 Mei 2025 22:36:03 |
+| Nayla / ナイラ（JKT48） | Rabu, 14 Mei 2025 22:36:03 |
+| Levi / レヴィ（JKT48） | Rabu, 14 Mei 2025 23:06:34 |
+| Levi / レヴィ（JKT48） | Rabu, 14 Mei 2025 23:06:34 |
+| Nala / ナラ（JKT48） | Kamis, 15 Mei 2025 14:09:53 |
+| Nala / ナラ（JKT48） | Kamis, 15 Mei 2025 14:09:53 |
+| Auwia / アウウィア (JKT48) | Kamis, 15 Mei 2025 20:20:26 |
+| Auwia / アウウィア (JKT48) | Kamis, 15 Mei 2025 20:20:26 |
+| Intan / インタン (JKT48) | Kamis, 15 Mei 2025 21:12:58 |
+| Intan / インタン (JKT48) | Kamis, 15 Mei 2025 21:12:58 |
+| Lily / リリー（JKT48） | Jumat, 16 Mei 2025 14:55:27 |
+| Lily / リリー（JKT48） | Jumat, 16 Mei 2025 14:55:27 |
+| Ribka / リブカ（JKT48） | Sabtu, 17 Mei 2025 21:43:09 |
+| Ribka / リブカ（JKT48） | Sabtu, 17 Mei 2025 21:43:09 |
+| Nachia / ナチア（JKT48） | Minggu, 18 Mei 2025 11:37:21 |
+| Nachia / ナチア（JKT48） | Minggu, 18 Mei 2025 11:37:21 |
+| Aralie / アラリー（JKT48） | Minggu, 18 Mei 2025 21:00:11 |
+| Aralie / アラリー（JKT48） | Minggu, 18 Mei 2025 21:00:11 |
+| Regie / レギー（JKT48） | Minggu, 18 Mei 2025 22:09:14 |
+| Regie / レギー（JKT48） | Minggu, 18 Mei 2025 22:09:14 |
+| Intan / インタン (JKT48) | Senin, 19 Mei 2025 20:40:36 |
+| Intan / インタン (JKT48) | Senin, 19 Mei 2025 20:40:36 |
+| Rilly / リリー (JKT48) | Senin, 19 Mei 2025 22:07:41 |
+| Rilly / リリー (JKT48) | Senin, 19 Mei 2025 22:07:41 |
+| Ribka / リブカ（JKT48） | Selasa, 20 Mei 2025 20:52:38 |
+| Ribka / リブカ（JKT48） | Selasa, 20 Mei 2025 20:52:38 |
+| Lia /リア（JKT48） | Rabu, 21 Mei 2025 00:14:45 |
+| Lia /リア（JKT48） | Rabu, 21 Mei 2025 00:14:45 |
+| Giaa / ギアァ (JKT48) | Rabu, 21 Mei 2025 13:46:48 |
+| Giaa / ギアァ (JKT48) | Rabu, 21 Mei 2025 13:46:48 |
+| Auwia / アウウィア (JKT48) | Rabu, 21 Mei 2025 19:01:23 |
+| Auwia / アウウィア (JKT48) | Rabu, 21 Mei 2025 19:01:23 |
+| Fritzy / フリッツィー（JKT48） | Rabu, 21 Mei 2025 20:46:17 |
+| Fritzy / フリッツィー（JKT48） | Rabu, 21 Mei 2025 20:46:17 |
+| Intan / インタン (JKT48) | Rabu, 21 Mei 2025 20:58:08 |
+| Intan / インタン (JKT48) | Rabu, 21 Mei 2025 20:58:08 |
+| Aralie / アラリー（JKT48） | Kamis, 22 Mei 2025 21:09:58 |
+| Nachia / ナチア（JKT48） | Kamis, 22 Mei 2025 21:12:20 |
+| Nayla / ナイラ（JKT48） | Kamis, 22 Mei 2025 21:12:08 |
+| Aralie / アラリー（JKT48） | Kamis, 22 Mei 2025 21:09:58 |
+| Nachia / ナチア（JKT48） | Kamis, 22 Mei 2025 21:12:20 |
+| Nayla / ナイラ（JKT48） | Kamis, 22 Mei 2025 21:12:08 |
+| Nachia / ナチア（JKT48） | Jumat, 23 Mei 2025 13:11:22 |
+| Nachia / ナチア（JKT48） | Jumat, 23 Mei 2025 13:11:22 |
+| Nala / ナラ（JKT48） | Sabtu, 24 Mei 2025 22:10:01 |
+| Nala / ナラ（JKT48） | Sabtu, 24 Mei 2025 22:10:01 |
+| Fritzy / フリッツィー（JKT48） | Sabtu, 24 Mei 2025 23:16:49 |
+| Fritzy / フリッツィー（JKT48） | Sabtu, 24 Mei 2025 23:16:49 |
+| Ribka / リブカ（JKT48） | Minggu, 25 Mei 2025 15:33:19 |
+| Ribka / リブカ（JKT48） | Minggu, 25 Mei 2025 15:33:19 |
+| Erine / エリン（JKT48） | Minggu, 25 Mei 2025 15:54:01 |
+| Erine / エリン（JKT48） | Minggu, 25 Mei 2025 15:54:01 |
+| Regie / レギー（JKT48） | Minggu, 25 Mei 2025 20:08:56 |
+| Levi / レヴィ（JKT48） | Minggu, 25 Mei 2025 20:26:43 |
+| Regie / レギー（JKT48） | Minggu, 25 Mei 2025 20:08:56 |
+| Levi / レヴィ（JKT48） | Minggu, 25 Mei 2025 20:26:43 |
+| Lily / リリー（JKT48） | Minggu, 25 Mei 2025 21:21:21 |
+| Intan / インタン (JKT48) | Minggu, 25 Mei 2025 21:24:59 |
+| Lily / リリー（JKT48） | Minggu, 25 Mei 2025 21:21:21 |
+| Intan / インタン (JKT48) | Minggu, 25 Mei 2025 21:24:59 |
+| Auwia / アウウィア (JKT48) | Senin, 26 Mei 2025 20:45:58 |
+| Auwia / アウウィア (JKT48) | Senin, 26 Mei 2025 20:45:58 |
+| Delynn / デリンヌ（JKT48） | Senin, 26 Mei 2025 21:57:42 |
+| Nayla / ナイラ（JKT48） | Senin, 26 Mei 2025 21:57:30 |
+| Delynn / デリンヌ（JKT48） | Senin, 26 Mei 2025 21:57:42 |
+| Nayla / ナイラ（JKT48） | Senin, 26 Mei 2025 21:57:30 |
+| Intan / インタン (JKT48) | Selasa, 27 Mei 2025 20:50:57 |
+| Intan / インタン (JKT48) | Selasa, 27 Mei 2025 20:50:57 |
+| Lana / ラナ（JKT48） | Rabu, 28 Mei 2025 18:40:17 |
+| Lana / ラナ（JKT48） | Rabu, 28 Mei 2025 18:40:17 |
+| Feni/フェニ（JKT48） | Rabu, 28 Mei 2025 22:48:53 |
+| Feni/フェニ（JKT48） | Rabu, 28 Mei 2025 22:48:53 |
+| Ekin / エキン (JKT48) | Jumat, 30 Mei 2025 08:10:23 |
+| Ekin / エキン (JKT48) | Jumat, 30 Mei 2025 08:10:23 |
+| Lily / リリー（JKT48） | Jumat, 30 Mei 2025 11:21:23 |
+| Lily / リリー（JKT48） | Jumat, 30 Mei 2025 11:21:23 |
+| Aralie / アラリー（JKT48） | Jumat, 30 Mei 2025 18:24:20 |
+| Aralie / アラリー（JKT48） | Jumat, 30 Mei 2025 18:24:20 |
+| Greesel /グリーセル（JKT48） | Jumat, 30 Mei 2025 20:01:31 |
+| Greesel /グリーセル（JKT48） | Jumat, 30 Mei 2025 20:01:31 |
+| Nala / ナラ（JKT48） | Sabtu, 31 Mei 2025 17:37:24 |
+| Nala / ナラ（JKT48） | Sabtu, 31 Mei 2025 17:37:24 |
+| Ribka / リブカ（JKT48） | Sabtu, 31 Mei 2025 19:46:28 |
+| Ribka / リブカ（JKT48） | Sabtu, 31 Mei 2025 19:46:28 |
+| Levi / レヴィ（JKT48） | Sabtu, 31 Mei 2025 20:59:52 |
+| Levi / レヴィ（JKT48） | Sabtu, 31 Mei 2025 20:59:52 |
+| Nachia / ナチア（JKT48） | Sabtu, 31 Mei 2025 22:12:03 |
+| Nachia / ナチア（JKT48） | Sabtu, 31 Mei 2025 22:12:03 |
+| Erine / エリン（JKT48） | Sabtu, 31 Mei 2025 23:32:45 |
+| Erine / エリン（JKT48） | Sabtu, 31 Mei 2025 23:32:45 |
+| Intan / インタン (JKT48) | Minggu, 1 Jun 2025 19:19:47 |
+| Intan / インタン (JKT48) | Minggu, 1 Jun 2025 19:19:47 |
+| Trisha / トリシャ（JKT48） | Minggu, 1 Jun 2025 21:32:25 |
+| Trisha / トリシャ（JKT48） | Minggu, 1 Jun 2025 21:32:25 |
+| Virgi / ヴィルジ (JKT48) | Jumat, 6 Jun 2025 14:52:39 |
+| Aralie / アラリー（JKT48） | Jumat, 6 Jun 2025 19:01:46 |
+| Levi / レヴィ（JKT48） | Jumat, 6 Jun 2025 19:02:28 |
+| Ribka / リブカ（JKT48） | Jumat, 6 Jun 2025 19:34:48 |
+| Intan / インタン (JKT48) | Jumat, 6 Jun 2025 20:54:04 |
+| Nachia / ナチア（JKT48） | Sabtu, 7 Jun 2025 12:02:41 |
+| Nala / ナラ（JKT48） | Sabtu, 7 Jun 2025 21:04:18 |
+| Fritzy / フリッツィー（JKT48） | Sabtu, 7 Jun 2025 22:53:02 |
+| Fritzy / フリッツィー（JKT48） | Minggu, 8 Jun 2025 09:33:06 |
+| Regie / レギー（JKT48） | Minggu, 8 Jun 2025 21:15:33 |
+| Intan / インタン (JKT48) | Minggu, 8 Jun 2025 21:30:10 |
+| Nayla / ナイラ（JKT48） | Minggu, 8 Jun 2025 22:04:52 |
+| Giaa / ギアァ (JKT48) | Senin, 9 Jun 2025 10:48:36 |
+| Intan / インタン (JKT48) | Senin, 9 Jun 2025 21:37:01 |
+| Nayla / ナイラ（JKT48） | Selasa, 10 Jun 2025 18:16:24 |
+| Auwia / アウウィア (JKT48) | Selasa, 10 Jun 2025 19:46:22 |
+| Intan / インタン (JKT48) | Selasa, 10 Jun 2025 22:03:53 |
+| Intan / インタン (JKT48) | Kamis, 12 Jun 2025 16:18:25 |
+| Intan / インタン (JKT48) | Kamis, 12 Jun 2025 21:32:40 |
+| Nala / ナラ（JKT48） | Jumat, 13 Jun 2025 19:31:30 |
+| Intan / インタン (JKT48) | Jumat, 13 Jun 2025 22:16:22 |
+| Nayla / ナイラ（JKT48） | Jumat, 13 Jun 2025 23:59:49 |
+| Giaa / ギアァ (JKT48) | Sabtu, 14 Jun 2025 16:37:47 |
+| Nachia / ナチア（JKT48） | Sabtu, 14 Jun 2025 22:08:41 |
+| Levi / レヴィ（JKT48） | Sabtu, 14 Jun 2025 22:57:03 |
+| Aralie / アラリー（JKT48） | Minggu, 15 Jun 2025 13:13:19 |
+| Auwia / アウウィア (JKT48) | Minggu, 15 Jun 2025 15:44:47 |
+| Regie / レギー（JKT48） | Minggu, 15 Jun 2025 19:32:30 |
+| Lily / リリー（JKT48） | Minggu, 15 Jun 2025 21:44:00 |
+| Ribka / リブカ（JKT48） | Minggu, 15 Jun 2025 22:31:59 |
+| Ekin / エキン (JKT48) | Senin, 16 Jun 2025 21:10:54 |
+| Intan / インタン (JKT48) | Senin, 16 Jun 2025 21:59:36 |
+| Lily / リリー（JKT48） | Selasa, 17 Jun 2025 22:36:27 |
+| Aralie / アラリー（JKT48） | Selasa, 17 Jun 2025 23:26:06 |
+| Nala / ナラ（JKT48） | Selasa, 17 Jun 2025 23:26:07 |
+| Nayla / ナイラ（JKT48） | Selasa, 17 Jun 2025 23:26:08 |
+| Levi / レヴィ（JKT48） | Rabu, 18 Jun 2025 16:54:15 |
+| Giaa / ギアァ (JKT48) | Rabu, 18 Jun 2025 21:54:18 |
+| Intan / インタン (JKT48) | Kamis, 19 Jun 2025 21:17:47 |
+| Ribka / リブカ（JKT48） | Sabtu, 21 Jun 2025 18:10:01 |
+| Delynn / デリンヌ（JKT48） | Sabtu, 21 Jun 2025 22:09:10 |
+| Kimmy / キミー（JKT48） | Sabtu, 21 Jun 2025 22:07:48 |
+| Nachia / ナチア（JKT48） | Minggu, 22 Jun 2025 10:46:56 |
+| Regie / レギー（JKT48） | Minggu, 22 Jun 2025 22:40:46 |
+| Auwia / アウウィア (JKT48) | Senin, 23 Jun 2025 15:55:44 |
+| Greesel /グリーセル（JKT48） | Senin, 23 Jun 2025 20:44:22 |
+| Intan / インタン (JKT48) | Selasa, 24 Jun 2025 20:23:01 |
+| Nayla / ナイラ（JKT48） | Selasa, 24 Jun 2025 21:31:24 |
+| Lily / リリー（JKT48） | Selasa, 24 Jun 2025 21:40:37 |
+| Virgi / ヴィルジ (JKT48) | Rabu, 25 Jun 2025 19:29:05 |
+| Aralie / アラリー（JKT48） | Kamis, 26 Jun 2025 20:00:14 |
+| Fritzy / フリッツィー（JKT48） | Kamis, 26 Jun 2025 20:01:45 |
+| Intan / インタン (JKT48) | Kamis, 26 Jun 2025 20:34:27 |
+| Lia /リア（JKT48） | Jumat, 27 Jun 2025 00:23:31 |
