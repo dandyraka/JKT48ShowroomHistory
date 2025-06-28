@@ -1,0 +1,18 @@
+import fs from "fs";
+
+const history = fs.readFileSync("history.txt", "utf-8").trim().split("\n");
+
+const tableRows = history.map(line => {
+    const [member, tanggal] = line.split(" | ");
+    return `| ${member} | ${tanggal} |`;
+});
+
+const markdownTable = `# History Live Showroom JKT48
+
+| Member | Tanggal |
+|--------|---------|
+${tableRows.join("\n")}
+`;
+
+fs.writeFileSync("README.md", markdownTable);
+console.log("README.md berhasil diperbarui!");
