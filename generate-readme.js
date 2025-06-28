@@ -9,8 +9,8 @@ const tableRows = history.map((line, index) => {
 
 const markdownTable = `# History Live Showroom JKT48
 
-| Member | Tanggal |
-|--------|---------|
+| No | Member | Tanggal |
+|----|--------|---------|
 ${tableRows.join("\n")}
 `;
 
