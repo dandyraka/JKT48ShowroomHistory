@@ -1322,3 +1322,4 @@
 | 1318 | Nachia / ナチア（JKT48） | Minggu, 29 Jun 2025 10:50:58 |
 | 1319 | Ribka / リブカ（JKT48） | Minggu, 29 Jun 2025 13:16:56 |
 | 1320 | Nala / ナラ（JKT48） | Minggu, 29 Jun 2025 13:53:20 |
+| 1321 | Levi / レヴィ（JKT48） | Minggu, 29 Jun 2025 14:12:07 |
