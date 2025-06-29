@@ -1323,3 +1323,4 @@
 | 1319 | Ribka / リブカ（JKT48） | Minggu, 29 Jun 2025 13:16:56 |
 | 1320 | Nala / ナラ（JKT48） | Minggu, 29 Jun 2025 13:53:20 |
 | 1321 | Levi / レヴィ（JKT48） | Minggu, 29 Jun 2025 14:12:07 |
+| 1322 | Regie / レギー（JKT48） | Minggu, 29 Jun 2025 20:29:22 |
