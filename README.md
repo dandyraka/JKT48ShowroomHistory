@@ -1321,3 +1321,4 @@
 | 1317 | Lia /リア（JKT48） | Jumat, 27 Jun 2025 00:23:31 |
 | 1318 | Nachia / ナチア（JKT48） | Minggu, 29 Jun 2025 10:50:58 |
 | 1319 | Ribka / リブカ（JKT48） | Minggu, 29 Jun 2025 13:16:56 |
+| 1320 | Nala / ナラ（JKT48） | Minggu, 29 Jun 2025 13:53:20 |
