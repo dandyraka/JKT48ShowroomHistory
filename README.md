@@ -1325,3 +1325,4 @@
 | 1321 | Levi / レヴィ（JKT48） | Minggu, 29 Jun 2025 14:12:07 |
 | 1322 | Regie / レギー（JKT48） | Minggu, 29 Jun 2025 20:29:22 |
 | 1323 | Intan / インタン (JKT48) | Kamis, 3 Jul 2025 12:14:11 |
+| 1324 | Giaa / ギアァ (JKT48) | Kamis, 3 Jul 2025 14:32:11 |
