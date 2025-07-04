@@ -1329,3 +1329,9 @@
 | 1325 | Erine / エリン（JKT48） | Jumat, 4 Jul 2025 14:44:24 |
 | 1326 | Delynn / デリンヌ（JKT48） | Jumat, 4 Jul 2025 14:44:31 |
 | 1327 | Intan / インタン (JKT48) | Jumat, 4 Jul 2025 22:02:51 |
+| 1328 | Lily / リリー（JKT48） | Jumat, 4 Jul 2025 23:23:16 |
+| 1329 | Nachia / ナチア（JKT48） | Jumat, 4 Jul 2025 23:23:03 |
+| 1330 | Nala / ナラ（JKT48） | Jumat, 4 Jul 2025 23:23:22 |
+| 1331 | Kimmy / キミー（JKT48） | Jumat, 4 Jul 2025 23:23:26 |
+| 1332 | Levi / レヴィ（JKT48） | Jumat, 4 Jul 2025 23:23:58 |
+| 1333 | Ribka / リブカ（JKT48） | Jumat, 4 Jul 2025 23:24:37 |
