@@ -1326,3 +1326,5 @@
 | 1322 | Regie / レギー（JKT48） | Minggu, 29 Jun 2025 20:29:22 |
 | 1323 | Intan / インタン (JKT48) | Kamis, 3 Jul 2025 12:14:11 |
 | 1324 | Giaa / ギアァ (JKT48) | Kamis, 3 Jul 2025 14:32:11 |
+| 1325 | Erine / エリン（JKT48） | Jumat, 4 Jul 2025 14:44:24 |
+| 1326 | Delynn / デリンヌ（JKT48） | Jumat, 4 Jul 2025 14:44:31 |
