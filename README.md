@@ -1328,3 +1328,4 @@
 | 1324 | Giaa / ギアァ (JKT48) | Kamis, 3 Jul 2025 14:32:11 |
 | 1325 | Erine / エリン（JKT48） | Jumat, 4 Jul 2025 14:44:24 |
 | 1326 | Delynn / デリンヌ（JKT48） | Jumat, 4 Jul 2025 14:44:31 |
+| 1327 | Intan / インタン (JKT48) | Jumat, 4 Jul 2025 22:02:51 |
