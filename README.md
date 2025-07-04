@@ -1335,3 +1335,4 @@
 | 1331 | Kimmy / キミー（JKT48） | Jumat, 4 Jul 2025 23:23:26 |
 | 1332 | Levi / レヴィ（JKT48） | Jumat, 4 Jul 2025 23:23:58 |
 | 1333 | Ribka / リブカ（JKT48） | Jumat, 4 Jul 2025 23:24:37 |
+| 1334 | Aralie / アラリー（JKT48） | Jumat, 4 Jul 2025 23:27:28 |
