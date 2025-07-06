@@ -1337,3 +1337,4 @@
 | 1333 | Ribka / リブカ（JKT48） | Jumat, 4 Jul 2025 23:24:37 |
 | 1334 | Aralie / アラリー（JKT48） | Jumat, 4 Jul 2025 23:27:28 |
 | 1335 | Intan / インタン (JKT48) | Sabtu, 5 Jul 2025 19:21:40 |
+| 1336 | Intan / インタン (JKT48) | Minggu, 6 Jul 2025 11:50:36 |
