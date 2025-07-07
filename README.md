@@ -1341,3 +1341,4 @@
 | 1337 | Lily / リリー（JKT48） | Minggu, 6 Jul 2025 20:42:48 |
 | 1338 | Fritzy / フリッツィー（JKT48） | Minggu, 6 Jul 2025 21:04:44 |
 | 1339 | Intan / インタン (JKT48) | Minggu, 6 Jul 2025 21:25:29 |
+| 1340 | Erine / エリン（JKT48） | Senin, 7 Jul 2025 19:23:08 |
