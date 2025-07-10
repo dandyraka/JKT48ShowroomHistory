@@ -1344,3 +1344,4 @@
 | 1340 | Erine / エリン（JKT48） | Senin, 7 Jul 2025 19:23:08 |
 | 1341 | Gracie /グラシー（JKT48） | Selasa, 8 Jul 2025 13:12:30 |
 | 1342 | Lily / リリー（JKT48） | Kamis, 10 Jul 2025 14:27:42 |
+| 1343 | Intan / インタン (JKT48) | Kamis, 10 Jul 2025 15:38:22 |
