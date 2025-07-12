@@ -1347,3 +1347,4 @@
 | 1343 | Intan / インタン (JKT48) | Kamis, 10 Jul 2025 15:38:22 |
 | 1344 | Intan / インタン (JKT48) | Sabtu, 12 Jul 2025 10:50:00 |
 | 1345 | Nayla / ナイラ（JKT48） | Sabtu, 12 Jul 2025 20:46:42 |
+| 1346 | Ribka / リブカ（JKT48） | Sabtu, 12 Jul 2025 22:37:01 |
