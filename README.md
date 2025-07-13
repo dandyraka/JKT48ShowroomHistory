@@ -1350,3 +1350,9 @@
 | 1346 | Ribka / リブカ（JKT48） | Sabtu, 12 Jul 2025 22:37:01 |
 | 1347 | Giaa / ギアァ (JKT48) | Minggu, 13 Jul 2025 10:07:26 |
 | 1348 | Lily / リリー（JKT48） | Minggu, 13 Jul 2025 12:23:20 |
+| 1349 | Aralie / アラリー（JKT48） | Minggu, 13 Jul 2025 17:15:14 |
+| 1350 | Nachia / ナチア（JKT48） | Minggu, 13 Jul 2025 17:14:18 |
+| 1351 | Nala / ナラ（JKT48） | Minggu, 13 Jul 2025 17:14:39 |
+| 1352 | Levi / レヴィ（JKT48） | Minggu, 13 Jul 2025 17:14:50 |
+| 1353 | Kimmy / キミー（JKT48） | Minggu, 13 Jul 2025 17:24:20 |
+| 1354 | Regie / レギー（JKT48） | Minggu, 13 Jul 2025 17:20:04 |
