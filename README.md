@@ -1357,3 +1357,4 @@
 | 1353 | Kimmy / キミー（JKT48） | Minggu, 13 Jul 2025 17:24:20 |
 | 1354 | Regie / レギー（JKT48） | Minggu, 13 Jul 2025 17:20:04 |
 | 1355 | Lily / リリー（JKT48） | Senin, 14 Jul 2025 11:52:28 |
+| 1356 | Gracie /グラシー（JKT48） | Senin, 14 Jul 2025 18:20:09 |
