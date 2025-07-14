@@ -1356,3 +1356,4 @@
 | 1352 | Levi / レヴィ（JKT48） | Minggu, 13 Jul 2025 17:14:50 |
 | 1353 | Kimmy / キミー（JKT48） | Minggu, 13 Jul 2025 17:24:20 |
 | 1354 | Regie / レギー（JKT48） | Minggu, 13 Jul 2025 17:20:04 |
+| 1355 | Lily / リリー（JKT48） | Senin, 14 Jul 2025 11:52:28 |
