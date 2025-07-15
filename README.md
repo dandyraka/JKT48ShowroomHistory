@@ -1359,3 +1359,4 @@
 | 1355 | Lily / リリー（JKT48） | Senin, 14 Jul 2025 11:52:28 |
 | 1356 | Gracie /グラシー（JKT48） | Senin, 14 Jul 2025 18:20:09 |
 | 1357 | Lia /リア（JKT48） | Selasa, 15 Jul 2025 00:30:15 |
+| 1358 | Intan / インタン (JKT48) | Selasa, 15 Jul 2025 13:31:06 |
