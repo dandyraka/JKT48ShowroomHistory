@@ -1361,3 +1361,4 @@
 | 1357 | Lia /リア（JKT48） | Selasa, 15 Jul 2025 00:30:15 |
 | 1358 | Intan / インタン (JKT48) | Selasa, 15 Jul 2025 13:31:06 |
 | 1359 | Nayla / ナイラ（JKT48） | Selasa, 15 Jul 2025 20:27:35 |
+| 1360 | Delynn / デリンヌ（JKT48） | Rabu, 16 Jul 2025 23:33:53 |
