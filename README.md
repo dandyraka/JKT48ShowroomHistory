@@ -1363,3 +1363,5 @@
 | 1359 | Nayla / ナイラ（JKT48） | Selasa, 15 Jul 2025 20:27:35 |
 | 1360 | Delynn / デリンヌ（JKT48） | Rabu, 16 Jul 2025 23:33:53 |
 | 1361 | Ekin / エキン (JKT48) | Kamis, 17 Jul 2025 17:11:34 |
+| 1362 | Aralie / アラリー（JKT48） | Kamis, 17 Jul 2025 18:30:20 |
+| 1363 | Regie / レギー（JKT48） | Kamis, 17 Jul 2025 18:32:56 |
