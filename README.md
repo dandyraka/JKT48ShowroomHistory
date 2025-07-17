@@ -1365,3 +1365,4 @@
 | 1361 | Ekin / エキン (JKT48) | Kamis, 17 Jul 2025 17:11:34 |
 | 1362 | Aralie / アラリー（JKT48） | Kamis, 17 Jul 2025 18:30:20 |
 | 1363 | Regie / レギー（JKT48） | Kamis, 17 Jul 2025 18:32:56 |
+| 1364 | Intan / インタン (JKT48) | Kamis, 17 Jul 2025 20:28:49 |
