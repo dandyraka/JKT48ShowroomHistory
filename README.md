@@ -1366,3 +1366,4 @@
 | 1362 | Aralie / アラリー（JKT48） | Kamis, 17 Jul 2025 18:30:20 |
 | 1363 | Regie / レギー（JKT48） | Kamis, 17 Jul 2025 18:32:56 |
 | 1364 | Intan / インタン (JKT48) | Kamis, 17 Jul 2025 20:28:49 |
+| 1365 | Nala / ナラ（JKT48） | Jumat, 18 Jul 2025 12:33:56 |
