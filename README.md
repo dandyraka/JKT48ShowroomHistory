@@ -1368,3 +1368,4 @@
 | 1364 | Intan / インタン (JKT48) | Kamis, 17 Jul 2025 20:28:49 |
 | 1365 | Nala / ナラ（JKT48） | Jumat, 18 Jul 2025 12:33:56 |
 | 1366 | Erine / エリン（JKT48） | Jumat, 18 Jul 2025 20:06:33 |
+| 1367 | Greesel /グリーセル（JKT48） | Sabtu, 19 Jul 2025 21:39:55 |
