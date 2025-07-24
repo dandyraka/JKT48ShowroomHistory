@@ -1374,3 +1374,6 @@
 | 1370 | Giaa / ギアァ (JKT48) | Kamis, 24 Jul 2025 18:16:51 |
 | 1371 | Aralie / アラリー（JKT48） | Kamis, 24 Jul 2025 20:03:23 |
 | 1372 | Regie / レギー（JKT48） | Kamis, 24 Jul 2025 20:09:41 |
+| 1373 | Intan / インタン (JKT48) | Kamis, 24 Jul 2025 20:30:31 |
+| 1374 | Nala / ナラ（JKT48） | Kamis, 24 Jul 2025 20:37:11 |
+| 1375 | Virgi / ヴィルジ (JKT48) | Kamis, 24 Jul 2025 20:48:26 |
