@@ -1372,3 +1372,5 @@
 | 1368 | Ribka / リブカ（JKT48） | Minggu, 20 Jul 2025 21:42:13 |
 | 1369 | Ribka / リブカ（JKT48） | Kamis, 24 Jul 2025 18:15:50 |
 | 1370 | Giaa / ギアァ (JKT48) | Kamis, 24 Jul 2025 18:16:51 |
+| 1371 | Aralie / アラリー（JKT48） | Kamis, 24 Jul 2025 20:03:23 |
+| 1372 | Regie / レギー（JKT48） | Kamis, 24 Jul 2025 20:09:41 |
