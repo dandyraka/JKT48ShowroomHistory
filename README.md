@@ -1378,3 +1378,4 @@
 | 1374 | Nala / ナラ（JKT48） | Kamis, 24 Jul 2025 20:37:11 |
 | 1375 | Virgi / ヴィルジ (JKT48) | Kamis, 24 Jul 2025 20:48:26 |
 | 1376 | Lily / リリー（JKT48） | Kamis, 24 Jul 2025 21:00:17 |
+| 1377 | Auwia / アウウィア (JKT48) | Minggu, 27 Jul 2025 20:49:06 |
