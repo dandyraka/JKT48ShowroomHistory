@@ -1383,3 +1383,5 @@
 | 1379 | Intan / インタン (JKT48) | Rabu, 30 Jul 2025 21:39:49 |
 | 1380 | Lia /リア（JKT48） | Kamis, 31 Jul 2025 00:16:30 |
 | 1381 | Lily / リリー（JKT48） | Kamis, 31 Jul 2025 12:05:22 |
+| 1382 | Mikaela / ミカエラ (JKT48) | Jumat, 1 Agt 2025 18:24:01 |
+| 1383 | Rilly / リリー (JKT48) | Jumat, 1 Agt 2025 18:26:25 |
