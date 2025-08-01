@@ -1385,3 +1385,4 @@
 | 1381 | Lily / リリー（JKT48） | Kamis, 31 Jul 2025 12:05:22 |
 | 1382 | Mikaela / ミカエラ (JKT48) | Jumat, 1 Agt 2025 18:24:01 |
 | 1383 | Rilly / リリー (JKT48) | Jumat, 1 Agt 2025 18:26:25 |
+| 1384 | Nayla / ナイラ（JKT48） | Jumat, 1 Agt 2025 21:11:14 |
