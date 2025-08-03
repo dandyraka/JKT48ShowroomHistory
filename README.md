@@ -1387,3 +1387,4 @@
 | 1383 | Rilly / リリー (JKT48) | Jumat, 1 Agt 2025 18:26:25 |
 | 1384 | Nayla / ナイラ（JKT48） | Jumat, 1 Agt 2025 21:11:14 |
 | 1385 | Oline / オリヌ（JKT48） | Sabtu, 2 Agt 2025 10:48:49 |
+| 1386 | Nachia / ナチア（JKT48） | Minggu, 3 Agt 2025 11:50:44 |
