@@ -1392,3 +1392,4 @@
 | 1388 | Aralie / アラリー（JKT48） | Minggu, 3 Agt 2025 13:42:52 |
 | 1389 | Virgi / ヴィルジ (JKT48) | Minggu, 3 Agt 2025 16:37:10 |
 | 1390 | Rilly / リリー (JKT48) | Minggu, 3 Agt 2025 20:05:30 |
+| 1391 | Trisha / トリシャ（JKT48） | Minggu, 3 Agt 2025 23:10:38 |
