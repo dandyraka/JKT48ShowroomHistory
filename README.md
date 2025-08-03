@@ -1388,3 +1388,5 @@
 | 1384 | Nayla / ナイラ（JKT48） | Jumat, 1 Agt 2025 21:11:14 |
 | 1385 | Oline / オリヌ（JKT48） | Sabtu, 2 Agt 2025 10:48:49 |
 | 1386 | Nachia / ナチア（JKT48） | Minggu, 3 Agt 2025 11:50:44 |
+| 1387 | Delynn / デリンヌ（JKT48） | Minggu, 3 Agt 2025 13:42:51 |
+| 1388 | Aralie / アラリー（JKT48） | Minggu, 3 Agt 2025 13:42:52 |
