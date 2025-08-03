@@ -1391,3 +1391,4 @@
 | 1387 | Delynn / デリンヌ（JKT48） | Minggu, 3 Agt 2025 13:42:51 |
 | 1388 | Aralie / アラリー（JKT48） | Minggu, 3 Agt 2025 13:42:52 |
 | 1389 | Virgi / ヴィルジ (JKT48) | Minggu, 3 Agt 2025 16:37:10 |
+| 1390 | Rilly / リリー (JKT48) | Minggu, 3 Agt 2025 20:05:30 |
