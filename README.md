@@ -1394,3 +1394,4 @@
 | 1390 | Rilly / リリー (JKT48) | Minggu, 3 Agt 2025 20:05:30 |
 | 1391 | Trisha / トリシャ（JKT48） | Minggu, 3 Agt 2025 23:10:38 |
 | 1392 | Lily / リリー（JKT48） | Senin, 4 Agt 2025 13:22:58 |
+| 1393 | Lana / ラナ（JKT48） | Senin, 4 Agt 2025 19:55:44 |
