@@ -1396,3 +1396,4 @@
 | 1392 | Lily / リリー（JKT48） | Senin, 4 Agt 2025 13:22:58 |
 | 1393 | Lana / ラナ（JKT48） | Senin, 4 Agt 2025 19:55:44 |
 | 1394 | Lily / リリー（JKT48） | Selasa, 5 Agt 2025 12:34:16 |
+| 1395 | Fritzy / フリッツィー（JKT48） | Rabu, 6 Agt 2025 14:38:56 |
