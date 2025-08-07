@@ -1399,3 +1399,4 @@
 | 1395 | Fritzy / フリッツィー（JKT48） | Rabu, 6 Agt 2025 14:38:56 |
 | 1396 | Intan / インタン (JKT48) | Rabu, 6 Agt 2025 21:43:52 |
 | 1397 | Nayla / ナイラ（JKT48） | Rabu, 6 Agt 2025 23:05:42 |
+| 1398 | Rilly / リリー (JKT48) | Kamis, 7 Agt 2025 12:58:39 |
