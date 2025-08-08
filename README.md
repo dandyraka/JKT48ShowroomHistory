@@ -1401,3 +1401,4 @@
 | 1397 | Nayla / ナイラ（JKT48） | Rabu, 6 Agt 2025 23:05:42 |
 | 1398 | Rilly / リリー (JKT48) | Kamis, 7 Agt 2025 12:58:39 |
 | 1399 | Intan / インタン (JKT48) | Kamis, 7 Agt 2025 16:17:28 |
+| 1400 | Ekin / エキン (JKT48) | Jumat, 8 Agt 2025 22:19:18 |
