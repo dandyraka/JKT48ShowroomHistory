@@ -1403,3 +1403,4 @@
 | 1399 | Intan / インタン (JKT48) | Kamis, 7 Agt 2025 16:17:28 |
 | 1400 | Ekin / エキン (JKT48) | Jumat, 8 Agt 2025 22:19:18 |
 | 1401 | Erine / エリン（JKT48） | Sabtu, 9 Agt 2025 22:51:30 |
+| 1402 | Rilly / リリー (JKT48) | Minggu, 10 Agt 2025 21:05:04 |
