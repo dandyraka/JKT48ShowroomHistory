@@ -1406,3 +1406,4 @@
 | 1402 | Rilly / リリー (JKT48) | Minggu, 10 Agt 2025 21:05:04 |
 | 1403 | Lily / リリー（JKT48） | Senin, 11 Agt 2025 11:39:07 |
 | 1404 | Virgi / ヴィルジ (JKT48) | Senin, 11 Agt 2025 15:29:46 |
+| 1405 | Rilly / リリー (JKT48) | Senin, 11 Agt 2025 21:11:36 |
