@@ -1404,3 +1404,4 @@
 | 1400 | Ekin / エキン (JKT48) | Jumat, 8 Agt 2025 22:19:18 |
 | 1401 | Erine / エリン（JKT48） | Sabtu, 9 Agt 2025 22:51:30 |
 | 1402 | Rilly / リリー (JKT48) | Minggu, 10 Agt 2025 21:05:04 |
+| 1403 | Lily / リリー（JKT48） | Senin, 11 Agt 2025 11:39:07 |
