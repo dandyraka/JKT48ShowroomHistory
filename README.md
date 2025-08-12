@@ -1408,3 +1408,4 @@
 | 1404 | Virgi / ヴィルジ (JKT48) | Senin, 11 Agt 2025 15:29:46 |
 | 1405 | Rilly / リリー (JKT48) | Senin, 11 Agt 2025 21:11:36 |
 | 1406 | Rilly / リリー (JKT48) | Selasa, 12 Agt 2025 14:57:54 |
+| 1407 | Nachia / ナチア（JKT48） | Selasa, 12 Agt 2025 16:29:59 |
