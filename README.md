@@ -1411,3 +1411,4 @@
 | 1407 | Nachia / ナチア（JKT48） | Selasa, 12 Agt 2025 16:29:59 |
 | 1408 | Levi / レヴィ（JKT48） | Selasa, 12 Agt 2025 16:33:15 |
 | 1409 | Lulu /ルル （JKT48） | Rabu, 13 Agt 2025 20:12:57 |
+| 1410 | Feni/フェニ（JKT48） | Jumat, 15 Agt 2025 16:00:57 |
