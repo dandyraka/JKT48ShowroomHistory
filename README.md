@@ -1414,3 +1414,6 @@
 | 1410 | Feni/フェニ（JKT48） | Jumat, 15 Agt 2025 16:00:57 |
 | 1411 | Ribka / リブカ（JKT48） | Jumat, 15 Agt 2025 18:48:33 |
 | 1412 | Feni/フェニ（JKT48） | Jumat, 15 Agt 2025 22:16:02 |
+| 1413 | Aralie / アラリー（JKT48） | Sabtu, 16 Agt 2025 13:31:15 |
+| 1414 | Nayla / ナイラ（JKT48） | Sabtu, 16 Agt 2025 13:31:16 |
+| 1415 | Nala / ナラ（JKT48） | Sabtu, 16 Agt 2025 13:41:29 |
