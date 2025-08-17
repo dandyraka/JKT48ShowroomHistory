@@ -1419,3 +1419,4 @@
 | 1415 | Nala / ナラ（JKT48） | Sabtu, 16 Agt 2025 13:41:29 |
 | 1416 | Auwia / アウウィア (JKT48) | Sabtu, 16 Agt 2025 15:47:39 |
 | 1417 | Intan / インタン (JKT48) | Sabtu, 16 Agt 2025 21:15:34 |
+| 1418 | Rilly / リリー (JKT48) | Minggu, 17 Agt 2025 19:07:16 |
