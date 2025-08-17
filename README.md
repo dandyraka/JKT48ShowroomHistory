@@ -1422,3 +1422,4 @@
 | 1418 | Rilly / リリー (JKT48) | Minggu, 17 Agt 2025 19:07:16 |
 | 1419 | Auwia / アウウィア (JKT48) | Minggu, 17 Agt 2025 20:03:58 |
 | 1420 | Mikaela / ミカエラ (JKT48) | Minggu, 17 Agt 2025 21:32:16 |
+| 1421 | Lana / ラナ（JKT48） | Minggu, 17 Agt 2025 22:56:56 |
