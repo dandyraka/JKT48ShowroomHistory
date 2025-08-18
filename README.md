@@ -1424,3 +1424,4 @@
 | 1420 | Mikaela / ミカエラ (JKT48) | Minggu, 17 Agt 2025 21:32:16 |
 | 1421 | Lana / ラナ（JKT48） | Minggu, 17 Agt 2025 22:56:56 |
 | 1422 | Fritzy / フリッツィー（JKT48） | Minggu, 17 Agt 2025 22:58:36 |
+| 1423 | Auwia / アウウィア (JKT48) | Senin, 18 Agt 2025 14:24:49 |
