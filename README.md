@@ -1426,3 +1426,4 @@
 | 1422 | Fritzy / フリッツィー（JKT48） | Minggu, 17 Agt 2025 22:58:36 |
 | 1423 | Auwia / アウウィア (JKT48) | Senin, 18 Agt 2025 14:24:49 |
 | 1424 | Delynn / デリンヌ（JKT48） | Senin, 18 Agt 2025 23:08:56 |
+| 1425 | Feni/フェニ（JKT48） | Selasa, 19 Agt 2025 17:58:36 |
