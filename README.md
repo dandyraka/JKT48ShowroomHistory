@@ -1428,3 +1428,4 @@
 | 1424 | Delynn / デリンヌ（JKT48） | Senin, 18 Agt 2025 23:08:56 |
 | 1425 | Feni/フェニ（JKT48） | Selasa, 19 Agt 2025 17:58:36 |
 | 1426 | Intan / インタン (JKT48) | Selasa, 19 Agt 2025 21:03:06 |
+| 1427 | Lily / リリー（JKT48） | Selasa, 19 Agt 2025 21:17:14 |
