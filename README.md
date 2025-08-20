@@ -1430,3 +1430,4 @@
 | 1426 | Intan / インタン (JKT48) | Selasa, 19 Agt 2025 21:03:06 |
 | 1427 | Lily / リリー（JKT48） | Selasa, 19 Agt 2025 21:17:14 |
 | 1428 | Levi / レヴィ（JKT48） | Selasa, 19 Agt 2025 22:13:06 |
+| 1429 | Rilly / リリー (JKT48) | Rabu, 20 Agt 2025 22:22:46 |
