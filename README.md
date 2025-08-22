@@ -1431,3 +1431,4 @@
 | 1427 | Lily / リリー（JKT48） | Selasa, 19 Agt 2025 21:17:14 |
 | 1428 | Levi / レヴィ（JKT48） | Selasa, 19 Agt 2025 22:13:06 |
 | 1429 | Rilly / リリー (JKT48) | Rabu, 20 Agt 2025 22:22:46 |
+| 1430 | Rilly / リリー (JKT48) | Jumat, 22 Agt 2025 22:12:02 |
