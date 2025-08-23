@@ -1433,3 +1433,4 @@
 | 1429 | Rilly / リリー (JKT48) | Rabu, 20 Agt 2025 22:22:46 |
 | 1430 | Rilly / リリー (JKT48) | Jumat, 22 Agt 2025 22:12:02 |
 | 1431 | Nayla / ナイラ（JKT48） | Sabtu, 23 Agt 2025 18:40:04 |
+| 1432 | Ribka / リブカ（JKT48） | Sabtu, 23 Agt 2025 21:41:30 |
