@@ -1435,3 +1435,4 @@
 | 1431 | Nayla / ナイラ（JKT48） | Sabtu, 23 Agt 2025 18:40:04 |
 | 1432 | Ribka / リブカ（JKT48） | Sabtu, 23 Agt 2025 21:41:30 |
 | 1433 | Nala / ナラ（JKT48） | Minggu, 24 Agt 2025 10:33:38 |
+| 1434 | Nachia / ナチア（JKT48） | Minggu, 24 Agt 2025 11:42:49 |
