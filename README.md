@@ -1437,3 +1437,4 @@
 | 1433 | Nala / ナラ（JKT48） | Minggu, 24 Agt 2025 10:33:38 |
 | 1434 | Nachia / ナチア（JKT48） | Minggu, 24 Agt 2025 11:42:49 |
 | 1435 | Aralie / アラリー（JKT48） | Minggu, 24 Agt 2025 14:26:29 |
+| 1436 | Auwia / アウウィア (JKT48) | Minggu, 24 Agt 2025 17:17:44 |
