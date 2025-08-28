@@ -1440,3 +1440,4 @@
 | 1436 | Auwia / アウウィア (JKT48) | Minggu, 24 Agt 2025 17:17:44 |
 | 1437 | Erine / エリン（JKT48） | Minggu, 24 Agt 2025 23:47:38 |
 | 1438 | Rilly / リリー (JKT48) | Rabu, 27 Agt 2025 16:44:36 |
+| 1439 | Lily / リリー（JKT48） | Kamis, 28 Agt 2025 12:16:21 |
