@@ -1444,3 +1444,4 @@
 | 1440 | Intan / インタン (JKT48) | Kamis, 28 Agt 2025 22:35:37 |
 | 1441 | Rilly / リリー (JKT48) | Jumat, 29 Agt 2025 18:38:04 |
 | 1442 | Lia /リア（JKT48） | Sabtu, 6 Sep 2025 01:51:13 |
+| 1443 | Lana / ラナ（JKT48） | Senin, 8 Sep 2025 20:58:42 |
