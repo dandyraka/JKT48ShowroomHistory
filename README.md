@@ -1445,3 +1445,4 @@
 | 1441 | Rilly / リリー (JKT48) | Jumat, 29 Agt 2025 18:38:04 |
 | 1442 | Lia /リア（JKT48） | Sabtu, 6 Sep 2025 01:51:13 |
 | 1443 | Lana / ラナ（JKT48） | Senin, 8 Sep 2025 20:58:42 |
+| 1444 | Rilly / リリー (JKT48) | Selasa, 9 Sep 2025 17:06:48 |
