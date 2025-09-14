@@ -1456,3 +1456,4 @@
 | 1452 | Auwia / アウウィア (JKT48) | Minggu, 14 Sep 2025 16:13:36 |
 | 1453 | Nachia / ナチア（JKT48） | Minggu, 14 Sep 2025 19:41:42 |
 | 1454 | Ribka / リブカ（JKT48） | Minggu, 14 Sep 2025 21:23:10 |
+| 1455 | Nala / ナラ（JKT48） | Minggu, 14 Sep 2025 21:52:39 |
