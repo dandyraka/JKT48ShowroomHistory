@@ -1457,3 +1457,4 @@
 | 1453 | Nachia / ナチア（JKT48） | Minggu, 14 Sep 2025 19:41:42 |
 | 1454 | Ribka / リブカ（JKT48） | Minggu, 14 Sep 2025 21:23:10 |
 | 1455 | Nala / ナラ（JKT48） | Minggu, 14 Sep 2025 21:52:39 |
+| 1456 | Lily / リリー（JKT48） | Senin, 15 Sep 2025 19:00:12 |
