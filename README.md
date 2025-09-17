@@ -1462,3 +1462,4 @@
 | 1458 | Anindya /アニンディア（JKT48） | Senin, 15 Sep 2025 20:36:39 |
 | 1459 | Rilly / リリー (JKT48) | Selasa, 16 Sep 2025 18:11:10 |
 | 1460 | Feni/フェニ（JKT48） | Rabu, 17 Sep 2025 19:01:05 |
+| 1461 | Nayla / ナイラ（JKT48） | Rabu, 17 Sep 2025 20:26:34 |
