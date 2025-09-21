@@ -1470,3 +1470,4 @@
 | 1466 | Auwia / アウウィア (JKT48) | Minggu, 21 Sep 2025 19:59:31 |
 | 1467 | Nala / ナラ（JKT48） | Minggu, 21 Sep 2025 20:35:18 |
 | 1468 | Aralie / アラリー（JKT48） | Minggu, 21 Sep 2025 20:42:07 |
+| 1469 | Levi / レヴィ（JKT48） | Minggu, 21 Sep 2025 21:50:27 |
