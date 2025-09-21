@@ -1466,3 +1466,5 @@
 | 1462 | Rilly / リリー (JKT48) | Kamis, 18 Sep 2025 19:07:54 |
 | 1463 | Lana / ラナ（JKT48） | Kamis, 18 Sep 2025 22:33:53 |
 | 1464 | Ribka / リブカ（JKT48） | Minggu, 21 Sep 2025 18:15:00 |
+| 1465 | Rilly / リリー (JKT48) | Minggu, 21 Sep 2025 19:56:44 |
+| 1466 | Auwia / アウウィア (JKT48) | Minggu, 21 Sep 2025 19:59:31 |
