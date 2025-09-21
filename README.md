@@ -1465,3 +1465,4 @@
 | 1461 | Nayla / ナイラ（JKT48） | Rabu, 17 Sep 2025 20:26:34 |
 | 1462 | Rilly / リリー (JKT48) | Kamis, 18 Sep 2025 19:07:54 |
 | 1463 | Lana / ラナ（JKT48） | Kamis, 18 Sep 2025 22:33:53 |
+| 1464 | Ribka / リブカ（JKT48） | Minggu, 21 Sep 2025 18:15:00 |
