@@ -1472,3 +1472,4 @@
 | 1468 | Aralie / アラリー（JKT48） | Minggu, 21 Sep 2025 20:42:07 |
 | 1469 | Levi / レヴィ（JKT48） | Minggu, 21 Sep 2025 21:50:27 |
 | 1470 | Elin /エリン（JKT48） | Senin, 22 Sep 2025 21:10:31 |
+| 1471 | Erine / エリン（JKT48） | Senin, 22 Sep 2025 21:20:21 |
