@@ -1474,3 +1474,4 @@
 | 1470 | Elin /エリン（JKT48） | Senin, 22 Sep 2025 21:10:31 |
 | 1471 | Erine / エリン（JKT48） | Senin, 22 Sep 2025 21:20:21 |
 | 1472 | Lana / ラナ（JKT48） | Senin, 22 Sep 2025 21:21:11 |
+| 1473 | Nayla / ナイラ（JKT48） | Selasa, 23 Sep 2025 16:31:56 |
