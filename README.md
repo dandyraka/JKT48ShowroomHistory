@@ -1476,3 +1476,4 @@
 | 1472 | Lana / ラナ（JKT48） | Senin, 22 Sep 2025 21:21:11 |
 | 1473 | Nayla / ナイラ（JKT48） | Selasa, 23 Sep 2025 16:31:56 |
 | 1474 | Nachia / ナチア（JKT48） | Kamis, 25 Sep 2025 14:30:29 |
+| 1475 | Nala / ナラ（JKT48） | Kamis, 25 Sep 2025 19:19:49 |
