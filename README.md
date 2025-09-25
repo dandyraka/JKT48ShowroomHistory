@@ -1477,3 +1477,4 @@
 | 1473 | Nayla / ナイラ（JKT48） | Selasa, 23 Sep 2025 16:31:56 |
 | 1474 | Nachia / ナチア（JKT48） | Kamis, 25 Sep 2025 14:30:29 |
 | 1475 | Nala / ナラ（JKT48） | Kamis, 25 Sep 2025 19:19:49 |
+| 1476 | Lily / リリー（JKT48） | Kamis, 25 Sep 2025 21:08:01 |
