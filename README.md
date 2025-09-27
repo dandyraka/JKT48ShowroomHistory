@@ -1481,3 +1481,4 @@
 | 1477 | Intan / インタン (JKT48) | Sabtu, 27 Sep 2025 18:13:38 |
 | 1478 | Auwia / アウウィア (JKT48) | Sabtu, 27 Sep 2025 18:43:44 |
 | 1479 | Rilly / リリー (JKT48) | Sabtu, 27 Sep 2025 20:39:59 |
+| 1480 | Ribka / リブカ（JKT48） | Sabtu, 27 Sep 2025 20:58:26 |
