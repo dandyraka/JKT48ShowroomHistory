@@ -1484,3 +1484,4 @@
 | 1480 | Ribka / リブカ（JKT48） | Sabtu, 27 Sep 2025 20:58:26 |
 | 1481 | Aralie / アラリー（JKT48） | Minggu, 28 Sep 2025 12:30:23 |
 | 1482 | Nala / ナラ（JKT48） | Minggu, 28 Sep 2025 12:56:59 |
+| 1483 | Virgi / ヴィルジ (JKT48) | Minggu, 28 Sep 2025 19:01:53 |
