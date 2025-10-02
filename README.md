@@ -1487,3 +1487,4 @@
 | 1483 | Virgi / ヴィルジ (JKT48) | Minggu, 28 Sep 2025 19:01:53 |
 | 1484 | Lulu /ルル （JKT48） | Senin, 29 Sep 2025 19:42:39 |
 | 1485 | Erine / エリン（JKT48） | Senin, 29 Sep 2025 22:57:58 |
+| 1486 | Intan / インタン (JKT48) | Kamis, 2 Okt 2025 16:40:57 |
