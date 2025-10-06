@@ -1491,3 +1491,4 @@
 | 1487 | Nala / ナラ（JKT48） | Sabtu, 4 Okt 2025 18:45:07 |
 | 1488 | Aralie / アラリー（JKT48） | Sabtu, 4 Okt 2025 20:41:52 |
 | 1489 | Cynthia /シンティア（JKT48） | Sabtu, 4 Okt 2025 23:12:32 |
+| 1490 | Virgi / ヴィルジ (JKT48) | Senin, 6 Okt 2025 16:28:13 |
