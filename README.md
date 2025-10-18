@@ -1496,3 +1496,4 @@
 | 1492 | Lily / リリー（JKT48） | Senin, 6 Okt 2025 21:29:29 |
 | 1493 | Virgi / ヴィルジ (JKT48) | Rabu, 8 Okt 2025 13:48:55 |
 | 1494 | Nala / ナラ（JKT48） | Minggu, 12 Okt 2025 21:45:17 |
+| 1495 | Lily / リリー（JKT48） | Sabtu, 18 Okt 2025 14:20:47 |
