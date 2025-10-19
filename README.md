@@ -1497,3 +1497,4 @@
 | 1493 | Virgi / ヴィルジ (JKT48) | Rabu, 8 Okt 2025 13:48:55 |
 | 1494 | Nala / ナラ（JKT48） | Minggu, 12 Okt 2025 21:45:17 |
 | 1495 | Lily / リリー（JKT48） | Sabtu, 18 Okt 2025 14:20:47 |
+| 1496 | Oniel/オニエル（JKT48） | Minggu, 19 Okt 2025 20:53:47 |
