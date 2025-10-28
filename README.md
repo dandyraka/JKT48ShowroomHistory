@@ -1498,3 +1498,4 @@
 | 1494 | Nala / ナラ（JKT48） | Minggu, 12 Okt 2025 21:45:17 |
 | 1495 | Lily / リリー（JKT48） | Sabtu, 18 Okt 2025 14:20:47 |
 | 1496 | Oniel/オニエル（JKT48） | Minggu, 19 Okt 2025 20:53:47 |
+| 1497 | Lily / リリー（JKT48） | Selasa, 28 Okt 2025 23:01:27 |
