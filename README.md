@@ -1500,3 +1500,4 @@
 | 1496 | Oniel/オニエル（JKT48） | Minggu, 19 Okt 2025 20:53:47 |
 | 1497 | Lily / リリー（JKT48） | Selasa, 28 Okt 2025 23:01:27 |
 | 1498 | Anindya /アニンディア（JKT48） | Jumat, 31 Okt 2025 21:35:55 |
+| 1499 | Intan / インタン (JKT48) | Kamis, 20 Nov 2025 18:16:53 |
