@@ -1502,3 +1502,4 @@
 | 1498 | Anindya /アニンディア（JKT48） | Jumat, 31 Okt 2025 21:35:55 |
 | 1499 | Intan / インタン (JKT48) | Kamis, 20 Nov 2025 18:16:53 |
 | 1500 | Maira / マイラ (JKT48) | Minggu, 23 Nov 2025 14:57:00 |
+| 1501 | Intan / インタン (JKT48) | Selasa, 25 Nov 2025 21:58:19 |
