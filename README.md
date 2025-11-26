@@ -1503,3 +1503,4 @@
 | 1499 | Intan / インタン (JKT48) | Kamis, 20 Nov 2025 18:16:53 |
 | 1500 | Maira / マイラ (JKT48) | Minggu, 23 Nov 2025 14:57:00 |
 | 1501 | Intan / インタン (JKT48) | Selasa, 25 Nov 2025 21:58:19 |
+| 1502 | Fritzy / フリッツィー（JKT48） | Rabu, 26 Nov 2025 20:16:52 |
