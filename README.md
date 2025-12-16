@@ -1506,3 +1506,4 @@
 | 1502 | Fritzy / フリッツィー（JKT48） | Rabu, 26 Nov 2025 20:16:52 |
 | 1503 | Danella /ダネラ（JKT48） | Rabu, 26 Nov 2025 21:12:41 |
 | 1504 | Erine / エリン（JKT48） | Minggu, 14 Des 2025 05:35:22 |
+| 1505 | Intan / インタン (JKT48) | Selasa, 16 Des 2025 22:31:49 |
