@@ -1507,3 +1507,4 @@
 | 1503 | Danella /ダネラ（JKT48） | Rabu, 26 Nov 2025 21:12:41 |
 | 1504 | Erine / エリン（JKT48） | Minggu, 14 Des 2025 05:35:22 |
 | 1505 | Intan / インタン (JKT48) | Selasa, 16 Des 2025 22:31:49 |
+| 1506 | Intan / インタン (JKT48) | Rabu, 17 Des 2025 14:07:09 |
