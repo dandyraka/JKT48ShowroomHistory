@@ -1511,3 +1511,4 @@
 | 1507 | Intan / インタン (JKT48) | Minggu, 21 Des 2025 22:25:20 |
 | 1508 | Erine / エリン（JKT48） | Senin, 22 Des 2025 05:54:58 |
 | 1509 | Lana / ラナ（JKT48） | Rabu, 31 Des 2025 21:18:11 |
+| 1510 | Intan / インタン (JKT48) | Jumat, 2 Jan 2026 22:13:09 |
