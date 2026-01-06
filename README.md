@@ -1513,3 +1513,4 @@
 | 1509 | Lana / ラナ（JKT48） | Rabu, 31 Des 2025 21:18:11 |
 | 1510 | Intan / インタン (JKT48) | Jumat, 2 Jan 2026 22:13:09 |
 | 1511 | Virgi / ヴィルジ (JKT48) | Senin, 5 Jan 2026 15:47:26 |
+| 1512 | Erine / エリン（JKT48） | Selasa, 6 Jan 2026 23:13:29 |
