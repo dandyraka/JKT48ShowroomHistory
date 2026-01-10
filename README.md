@@ -1514,3 +1514,4 @@
 | 1510 | Intan / インタン (JKT48) | Jumat, 2 Jan 2026 22:13:09 |
 | 1511 | Virgi / ヴィルジ (JKT48) | Senin, 5 Jan 2026 15:47:26 |
 | 1512 | Erine / エリン（JKT48） | Selasa, 6 Jan 2026 23:13:29 |
+| 1513 | Danella /ダネラ（JKT48） | Sabtu, 10 Jan 2026 22:00:19 |
