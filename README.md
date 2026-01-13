@@ -1518,3 +1518,4 @@
 | 1514 | Erine / エリン（JKT48） | Minggu, 11 Jan 2026 22:19:47 |
 | 1515 | Lana / ラナ（JKT48） | Minggu, 11 Jan 2026 22:20:15 |
 | 1516 | Rilly / リリー (JKT48) | Senin, 12 Jan 2026 16:29:08 |
+| 1517 | Rilly / リリー (JKT48) | Selasa, 13 Jan 2026 21:44:56 |
