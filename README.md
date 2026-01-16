@@ -1520,3 +1520,4 @@
 | 1516 | Rilly / リリー (JKT48) | Senin, 12 Jan 2026 16:29:08 |
 | 1517 | Rilly / リリー (JKT48) | Selasa, 13 Jan 2026 21:44:56 |
 | 1518 | Lana / ラナ（JKT48） | Rabu, 14 Jan 2026 21:48:27 |
+| 1519 | Feni/フェニ（JKT48） | Jumat, 16 Jan 2026 19:02:00 |
