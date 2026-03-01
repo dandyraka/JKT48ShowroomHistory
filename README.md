@@ -1536,3 +1536,4 @@
 | 1532 | Fritzy / フリッツィー（JKT48） | Minggu, 1 Mar 2026 17:39:30 |
 | 1533 | Elin /エリン（JKT48） | Minggu, 1 Mar 2026 18:03:46 |
 | 1534 | Nala / ナラ（JKT48） | Minggu, 1 Mar 2026 19:05:53 |
+| 1535 | Gracie /グラシー（JKT48） | Minggu, 1 Mar 2026 20:01:22 |
