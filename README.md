@@ -1535,3 +1535,4 @@
 | 1531 | Aralie / アラリー（JKT48） | Minggu, 1 Mar 2026 17:40:39 |
 | 1532 | Fritzy / フリッツィー（JKT48） | Minggu, 1 Mar 2026 17:39:30 |
 | 1533 | Elin /エリン（JKT48） | Minggu, 1 Mar 2026 18:03:46 |
+| 1534 | Nala / ナラ（JKT48） | Minggu, 1 Mar 2026 19:05:53 |
