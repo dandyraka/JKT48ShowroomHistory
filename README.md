@@ -1531,3 +1531,4 @@
 | 1527 | Gita/ギタ（JKT48） | Minggu, 1 Mar 2026 16:11:28 |
 | 1528 | Nayla / ナイラ（JKT48） | Minggu, 1 Mar 2026 16:08:44 |
 | 1529 | Levi / レヴィ（JKT48） | Minggu, 1 Mar 2026 16:31:47 |
+| 1530 | Nachia / ナチア（JKT48） | Minggu, 1 Mar 2026 16:39:36 |
