@@ -1532,3 +1532,4 @@
 | 1528 | Nayla / ナイラ（JKT48） | Minggu, 1 Mar 2026 16:08:44 |
 | 1529 | Levi / レヴィ（JKT48） | Minggu, 1 Mar 2026 16:31:47 |
 | 1530 | Nachia / ナチア（JKT48） | Minggu, 1 Mar 2026 16:39:36 |
+| 1531 | Aralie / アラリー（JKT48） | Minggu, 1 Mar 2026 17:40:39 |
