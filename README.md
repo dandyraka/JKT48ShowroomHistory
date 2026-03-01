@@ -1534,3 +1534,4 @@
 | 1530 | Nachia / ナチア（JKT48） | Minggu, 1 Mar 2026 16:39:36 |
 | 1531 | Aralie / アラリー（JKT48） | Minggu, 1 Mar 2026 17:40:39 |
 | 1532 | Fritzy / フリッツィー（JKT48） | Minggu, 1 Mar 2026 17:39:30 |
+| 1533 | Elin /エリン（JKT48） | Minggu, 1 Mar 2026 18:03:46 |
