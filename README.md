@@ -1538,3 +1538,4 @@
 | 1534 | Nala / ナラ（JKT48） | Minggu, 1 Mar 2026 19:05:53 |
 | 1535 | Gracie /グラシー（JKT48） | Minggu, 1 Mar 2026 20:01:22 |
 | 1536 | Lulu /ルル （JKT48） | Minggu, 1 Mar 2026 20:35:35 |
+| 1537 | Delynn / デリンヌ（JKT48） | Minggu, 1 Mar 2026 20:58:21 |
