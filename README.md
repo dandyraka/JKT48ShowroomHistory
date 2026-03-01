@@ -1528,3 +1528,6 @@
 | 1524 | Levi / レヴィ（JKT48） | Sabtu, 21 Feb 2026 22:45:46 |
 | 1525 | Ekin / エキン (JKT48) | Senin, 23 Feb 2026 22:18:59 |
 | 1526 | Anindya /アニンディア（JKT48） | Minggu, 1 Mar 2026 03:23:31 |
+| 1527 | Gita/ギタ（JKT48） | Minggu, 1 Mar 2026 16:11:28 |
+| 1528 | Nayla / ナイラ（JKT48） | Minggu, 1 Mar 2026 16:08:44 |
+| 1529 | Levi / レヴィ（JKT48） | Minggu, 1 Mar 2026 16:31:47 |
