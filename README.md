@@ -1540,3 +1540,4 @@
 | 1536 | Lulu /ルル （JKT48） | Minggu, 1 Mar 2026 20:35:35 |
 | 1537 | Delynn / デリンヌ（JKT48） | Minggu, 1 Mar 2026 20:58:21 |
 | 1538 | Lia /リア（JKT48） | Minggu, 1 Mar 2026 22:21:50 |
+| 1539 | Muthe/ムテ（JKT48） | Senin, 2 Mar 2026 00:22:42 |
