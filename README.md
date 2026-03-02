@@ -1551,3 +1551,5 @@
 | 1547 | Fritzy / フリッツィー（JKT48） | Senin, 2 Mar 2026 18:54:50 |
 | 1548 | Gracie /グレイシー（JKT48） | Senin, 2 Mar 2026 19:39:56 |
 | 1549 | Nachia / ナチア（JKT48） | Senin, 2 Mar 2026 20:07:26 |
+| 1550 | Greesel /グリーセル（JKT48） | Senin, 2 Mar 2026 20:30:09 |
+| 1551 | Elin /エリン（JKT48） | Senin, 2 Mar 2026 21:09:33 |
