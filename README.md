@@ -1553,3 +1553,7 @@
 | 1549 | Nachia / ナチア（JKT48） | Senin, 2 Mar 2026 20:07:26 |
 | 1550 | Greesel /グリーセル（JKT48） | Senin, 2 Mar 2026 20:30:09 |
 | 1551 | Elin /エリン（JKT48） | Senin, 2 Mar 2026 21:09:33 |
+| 1552 | Erine / エリン（JKT48） | Senin, 2 Mar 2026 21:47:17 |
+| 1553 | Delynn / デリンヌ（JKT48） | Senin, 2 Mar 2026 21:58:00 |
+| 1554 | Lia /リア（JKT48） | Senin, 2 Mar 2026 21:46:55 |
+| 1555 | Daisy /デイシー（JKT48） | Senin, 2 Mar 2026 21:58:37 |
