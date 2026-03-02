@@ -1548,3 +1548,4 @@
 | 1544 | Nayla / ナイラ（JKT48） | Senin, 2 Mar 2026 17:39:01 |
 | 1545 | Fiony /フィオニー（JKT48） | Senin, 2 Mar 2026 18:10:27 |
 | 1546 | Lily / リリー（JKT48） | Senin, 2 Mar 2026 18:41:04 |
+| 1547 | Fritzy / フリッツィー（JKT48） | Senin, 2 Mar 2026 18:54:50 |
