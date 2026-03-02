@@ -1549,3 +1549,5 @@
 | 1545 | Fiony /フィオニー（JKT48） | Senin, 2 Mar 2026 18:10:27 |
 | 1546 | Lily / リリー（JKT48） | Senin, 2 Mar 2026 18:41:04 |
 | 1547 | Fritzy / フリッツィー（JKT48） | Senin, 2 Mar 2026 18:54:50 |
+| 1548 | Gracie /グレイシー（JKT48） | Senin, 2 Mar 2026 19:39:56 |
+| 1549 | Nachia / ナチア（JKT48） | Senin, 2 Mar 2026 20:07:26 |
