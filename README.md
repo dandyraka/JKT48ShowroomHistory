@@ -1560,3 +1560,4 @@
 | 1556 | Ribka / リブカ（JKT48） | Senin, 2 Mar 2026 22:09:44 |
 | 1557 | Aralie / アラリー（JKT48） | Senin, 2 Mar 2026 22:12:13 |
 | 1558 | Danella /ダネラ（JKT48） | Senin, 2 Mar 2026 22:24:06 |
+| 1559 | Alya /アリア（JKT48） | Selasa, 3 Mar 2026 03:08:31 |
