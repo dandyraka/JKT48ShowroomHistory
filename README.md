@@ -1557,3 +1557,6 @@
 | 1553 | Delynn / デリンヌ（JKT48） | Senin, 2 Mar 2026 21:58:00 |
 | 1554 | Lia /リア（JKT48） | Senin, 2 Mar 2026 21:46:55 |
 | 1555 | Daisy /デイシー（JKT48） | Senin, 2 Mar 2026 21:58:37 |
+| 1556 | Ribka / リブカ（JKT48） | Senin, 2 Mar 2026 22:09:44 |
+| 1557 | Aralie / アラリー（JKT48） | Senin, 2 Mar 2026 22:12:13 |
+| 1558 | Danella /ダネラ（JKT48） | Senin, 2 Mar 2026 22:24:06 |
