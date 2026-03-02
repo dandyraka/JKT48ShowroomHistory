@@ -1544,3 +1544,5 @@
 | 1540 | Anindya /アニンディア（JKT48） | Senin, 2 Mar 2026 02:48:45 |
 | 1541 | Cynthia /シンティア（JKT48） | Senin, 2 Mar 2026 03:27:33 |
 | 1542 | Gita/ギタ（JKT48） | Senin, 2 Mar 2026 12:01:49 |
+| 1543 | Fritzy / フリッツィー（JKT48） | Senin, 2 Mar 2026 17:35:30 |
+| 1544 | Nayla / ナイラ（JKT48） | Senin, 2 Mar 2026 17:39:01 |
