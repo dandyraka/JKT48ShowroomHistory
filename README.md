@@ -1564,3 +1564,6 @@
 | 1560 | Cynthia /シンティア（JKT48） | Selasa, 3 Mar 2026 03:24:24 |
 | 1561 | Anindya /アニンディア（JKT48） | Selasa, 3 Mar 2026 03:32:54 |
 | 1562 | Freya/フレヤ（JKT48） | Selasa, 3 Mar 2026 14:09:28 |
+| 1563 | Gita/ギタ（JKT48） | Selasa, 3 Mar 2026 14:37:50 |
+| 1564 | Fritzy / フリッツィー（JKT48） | Selasa, 3 Mar 2026 14:46:34 |
+| 1565 | Lia /リア（JKT48） | Selasa, 3 Mar 2026 14:50:39 |
