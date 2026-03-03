@@ -1567,3 +1567,5 @@
 | 1563 | Gita/ギタ（JKT48） | Selasa, 3 Mar 2026 14:37:50 |
 | 1564 | Fritzy / フリッツィー（JKT48） | Selasa, 3 Mar 2026 14:46:34 |
 | 1565 | Lia /リア（JKT48） | Selasa, 3 Mar 2026 14:50:39 |
+| 1566 | Greesel /グリーセル（JKT48） | Selasa, 3 Mar 2026 15:19:47 |
+| 1567 | Nayla / ナイラ（JKT48） | Selasa, 3 Mar 2026 15:35:33 |
