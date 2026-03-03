@@ -1563,3 +1563,4 @@
 | 1559 | Alya /アリア（JKT48） | Selasa, 3 Mar 2026 03:08:31 |
 | 1560 | Cynthia /シンティア（JKT48） | Selasa, 3 Mar 2026 03:24:24 |
 | 1561 | Anindya /アニンディア（JKT48） | Selasa, 3 Mar 2026 03:32:54 |
+| 1562 | Freya/フレヤ（JKT48） | Selasa, 3 Mar 2026 14:09:28 |
