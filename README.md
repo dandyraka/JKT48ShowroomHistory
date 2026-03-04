@@ -1583,3 +1583,6 @@
 | 1579 | Delynn / デリンヌ（JKT48） | Rabu, 4 Mar 2026 18:19:36 |
 | 1580 | Gracie /グレイシー（JKT48） | Rabu, 4 Mar 2026 18:30:16 |
 | 1581 | Greesel /グリーセル（JKT48） | Rabu, 4 Mar 2026 19:59:27 |
+| 1582 | Greesel /グリーセル（JKT48） | Kamis, 5 Mar 2026 03:07:36 |
+| 1583 | Anindya /アニンディア（JKT48） | Kamis, 5 Mar 2026 03:32:17 |
+| 1584 | Cynthia /シンティア（JKT48） | Kamis, 5 Mar 2026 03:32:05 |
