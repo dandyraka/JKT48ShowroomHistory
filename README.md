@@ -1582,3 +1582,4 @@
 | 1578 | Jessi/ジェシ（JKT48） | Rabu, 4 Mar 2026 17:35:21 |
 | 1579 | Delynn / デリンヌ（JKT48） | Rabu, 4 Mar 2026 18:19:36 |
 | 1580 | Gracie /グレイシー（JKT48） | Rabu, 4 Mar 2026 18:30:16 |
+| 1581 | Greesel /グリーセル（JKT48） | Rabu, 4 Mar 2026 19:59:27 |
