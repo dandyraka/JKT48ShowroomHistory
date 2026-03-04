@@ -1577,3 +1577,6 @@
 | 1573 | Fiony /フィオニー（JKT48） | Rabu, 4 Mar 2026 15:32:57 |
 | 1574 | Greesel /グリーセル（JKT48） | Rabu, 4 Mar 2026 15:29:00 |
 | 1575 | Nachia / ナチア（JKT48） | Rabu, 4 Mar 2026 16:05:36 |
+| 1576 | Fritzy / フリッツィー（JKT48） | Rabu, 4 Mar 2026 17:31:53 |
+| 1577 | Elin /エリン（JKT48） | Rabu, 4 Mar 2026 17:34:27 |
+| 1578 | Jessi/ジェシ（JKT48） | Rabu, 4 Mar 2026 17:35:21 |
