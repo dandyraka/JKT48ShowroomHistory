@@ -1573,3 +1573,4 @@
 | 1569 | Kimmy / キミー（JKT48） | Rabu, 4 Mar 2026 02:59:13 |
 | 1570 | Cynthia /シンティア（JKT48） | Rabu, 4 Mar 2026 03:23:19 |
 | 1571 | Anindya /アニンディア（JKT48） | Rabu, 4 Mar 2026 03:47:34 |
+| 1572 | Gita/ギタ（JKT48） | Rabu, 4 Mar 2026 12:31:27 |
