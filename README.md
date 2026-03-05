@@ -1592,3 +1592,4 @@
 | 1588 | Erine / エリン（JKT48） | Kamis, 5 Mar 2026 16:24:53 |
 | 1589 | Fiony /フィオニー（JKT48） | Kamis, 5 Mar 2026 17:35:59 |
 | 1590 | Lily / リリー（JKT48） | Kamis, 5 Mar 2026 18:11:30 |
+| 1591 | Gracie /グレイシー（JKT48） | Kamis, 5 Mar 2026 18:35:53 |
