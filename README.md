@@ -1590,3 +1590,4 @@
 | 1586 | Fritzy / フリッツィー（JKT48） | Kamis, 5 Mar 2026 14:02:05 |
 | 1587 | Elin /エリン（JKT48） | Kamis, 5 Mar 2026 15:13:55 |
 | 1588 | Erine / エリン（JKT48） | Kamis, 5 Mar 2026 16:24:53 |
+| 1589 | Fiony /フィオニー（JKT48） | Kamis, 5 Mar 2026 17:35:59 |
