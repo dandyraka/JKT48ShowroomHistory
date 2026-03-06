@@ -1594,3 +1594,4 @@
 | 1590 | Lily / リリー（JKT48） | Kamis, 5 Mar 2026 18:11:30 |
 | 1591 | Gracie /グレイシー（JKT48） | Kamis, 5 Mar 2026 18:35:53 |
 | 1592 | Muthe/ムテ（JKT48） | Kamis, 5 Mar 2026 19:38:50 |
+| 1593 | Fritzy / フリッツィー（JKT48） | Jumat, 6 Mar 2026 14:17:41 |
