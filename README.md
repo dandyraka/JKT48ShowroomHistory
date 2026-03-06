@@ -1596,3 +1596,4 @@
 | 1592 | Muthe/ムテ（JKT48） | Kamis, 5 Mar 2026 19:38:50 |
 | 1593 | Fritzy / フリッツィー（JKT48） | Jumat, 6 Mar 2026 14:17:41 |
 | 1594 | Gita/ギタ（JKT48） | Jumat, 6 Mar 2026 18:44:02 |
+| 1595 | Cynthia /シンティア（JKT48） | Jumat, 6 Mar 2026 19:07:33 |
