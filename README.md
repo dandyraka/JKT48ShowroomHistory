@@ -1607,3 +1607,4 @@
 | 1603 | Gracie /グレイシー（JKT48） | Sabtu, 7 Mar 2026 16:15:05 |
 | 1604 | Lily / リリー（JKT48） | Sabtu, 7 Mar 2026 17:14:13 |
 | 1605 | Lia /リア（JKT48） | Sabtu, 7 Mar 2026 16:58:12 |
+| 1606 | Anindya /アニンディア（JKT48） | Sabtu, 7 Mar 2026 17:45:00 |
