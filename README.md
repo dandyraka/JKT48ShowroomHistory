@@ -1611,3 +1611,5 @@
 | 1607 | Fritzy / フリッツィー（JKT48） | Sabtu, 7 Mar 2026 18:00:58 |
 | 1608 | Elin /エリン（JKT48） | Sabtu, 7 Mar 2026 19:04:53 |
 | 1609 | Alya /アリア（JKT48） | Minggu, 8 Mar 2026 02:44:45 |
+| 1610 | Lily / リリー（JKT48） | Minggu, 8 Mar 2026 03:29:26 |
+| 1611 | Chelsea /チェルシー（JKT48） | Minggu, 8 Mar 2026 03:28:38 |
