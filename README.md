@@ -1614,3 +1614,4 @@
 | 1610 | Lily / リリー（JKT48） | Minggu, 8 Mar 2026 03:29:26 |
 | 1611 | Chelsea /チェルシー（JKT48） | Minggu, 8 Mar 2026 03:28:38 |
 | 1612 | Anindya /アニンディア（JKT48） | Minggu, 8 Mar 2026 04:07:36 |
+| 1613 | Elin /エリン（JKT48） | Minggu, 8 Mar 2026 04:24:34 |
