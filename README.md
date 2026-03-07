@@ -1609,3 +1609,4 @@
 | 1605 | Lia /リア（JKT48） | Sabtu, 7 Mar 2026 16:58:12 |
 | 1606 | Anindya /アニンディア（JKT48） | Sabtu, 7 Mar 2026 17:45:00 |
 | 1607 | Fritzy / フリッツィー（JKT48） | Sabtu, 7 Mar 2026 18:00:58 |
+| 1608 | Elin /エリン（JKT48） | Sabtu, 7 Mar 2026 19:04:53 |
