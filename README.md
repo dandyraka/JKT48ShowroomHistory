@@ -1601,3 +1601,4 @@
 | 1597 | Greesel /グリーセル（JKT48） | Sabtu, 7 Mar 2026 03:09:36 |
 | 1598 | Cynthia /シンティア（JKT48） | Sabtu, 7 Mar 2026 03:33:38 |
 | 1599 | Anindya /アニンディア（JKT48） | Sabtu, 7 Mar 2026 03:35:46 |
+| 1600 | Gita/ギタ（JKT48） | Sabtu, 7 Mar 2026 13:18:15 |
