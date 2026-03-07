@@ -1603,3 +1603,4 @@
 | 1599 | Anindya /アニンディア（JKT48） | Sabtu, 7 Mar 2026 03:35:46 |
 | 1600 | Gita/ギタ（JKT48） | Sabtu, 7 Mar 2026 13:18:15 |
 | 1601 | Greesel /グリーセル（JKT48） | Sabtu, 7 Mar 2026 14:20:58 |
+| 1602 | Jessi/ジェシ（JKT48） | Sabtu, 7 Mar 2026 15:23:20 |
