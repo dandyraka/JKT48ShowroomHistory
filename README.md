@@ -1605,3 +1605,5 @@
 | 1601 | Greesel /グリーセル（JKT48） | Sabtu, 7 Mar 2026 14:20:58 |
 | 1602 | Jessi/ジェシ（JKT48） | Sabtu, 7 Mar 2026 15:23:20 |
 | 1603 | Gracie /グレイシー（JKT48） | Sabtu, 7 Mar 2026 16:15:05 |
+| 1604 | Lily / リリー（JKT48） | Sabtu, 7 Mar 2026 17:14:13 |
+| 1605 | Lia /リア（JKT48） | Sabtu, 7 Mar 2026 16:58:12 |
