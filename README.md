@@ -1627,3 +1627,4 @@
 | 1623 | Nayla / ナイラ（JKT48） | Minggu, 8 Mar 2026 22:23:53 |
 | 1624 | Chelsea /チェルシー（JKT48） | Minggu, 8 Mar 2026 23:54:31 |
 | 1625 | Anindya /アニンディア（JKT48） | Senin, 9 Mar 2026 03:47:10 |
+| 1626 | Greesel /グリーセル（JKT48） | Senin, 9 Mar 2026 04:00:04 |
