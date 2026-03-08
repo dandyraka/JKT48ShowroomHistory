@@ -1618,3 +1618,5 @@
 | 1614 | Cynthia /シンティア（JKT48） | Minggu, 8 Mar 2026 04:45:11 |
 | 1615 | Levi / レヴィ（JKT48） | Minggu, 8 Mar 2026 15:26:20 |
 | 1616 | Greesel /グリーセル（JKT48） | Minggu, 8 Mar 2026 17:21:49 |
+| 1617 | Oline / オリヌ（JKT48） | Minggu, 8 Mar 2026 19:26:33 |
+| 1618 | Gita/ギタ（JKT48） | Minggu, 8 Mar 2026 19:22:54 |
