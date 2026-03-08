@@ -1623,3 +1623,5 @@
 | 1619 | Nachia / ナチア（JKT48） | Minggu, 8 Mar 2026 21:35:14 |
 | 1620 | Muthe/ムテ（JKT48） | Minggu, 8 Mar 2026 21:36:33 |
 | 1621 | Chelsea /チェルシー（JKT48） | Minggu, 8 Mar 2026 21:36:44 |
+| 1622 | Fritzy / フリッツィー（JKT48） | Minggu, 8 Mar 2026 22:32:27 |
+| 1623 | Nayla / ナイラ（JKT48） | Minggu, 8 Mar 2026 22:23:53 |
