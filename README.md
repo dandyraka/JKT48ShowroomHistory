@@ -1617,3 +1617,4 @@
 | 1613 | Elin /エリン（JKT48） | Minggu, 8 Mar 2026 04:24:34 |
 | 1614 | Cynthia /シンティア（JKT48） | Minggu, 8 Mar 2026 04:45:11 |
 | 1615 | Levi / レヴィ（JKT48） | Minggu, 8 Mar 2026 15:26:20 |
+| 1616 | Greesel /グリーセル（JKT48） | Minggu, 8 Mar 2026 17:21:49 |
