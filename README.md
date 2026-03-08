@@ -1620,3 +1620,6 @@
 | 1616 | Greesel /グリーセル（JKT48） | Minggu, 8 Mar 2026 17:21:49 |
 | 1617 | Oline / オリヌ（JKT48） | Minggu, 8 Mar 2026 19:26:33 |
 | 1618 | Gita/ギタ（JKT48） | Minggu, 8 Mar 2026 19:22:54 |
+| 1619 | Nachia / ナチア（JKT48） | Minggu, 8 Mar 2026 21:35:14 |
+| 1620 | Muthe/ムテ（JKT48） | Minggu, 8 Mar 2026 21:36:33 |
+| 1621 | Chelsea /チェルシー（JKT48） | Minggu, 8 Mar 2026 21:36:44 |
