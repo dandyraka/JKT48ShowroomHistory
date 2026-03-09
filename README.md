@@ -1644,3 +1644,4 @@
 | 1640 | Chelsea /チェルシー（JKT48） | Senin, 9 Mar 2026 22:26:08 |
 | 1641 | Cynthia /シンティア（JKT48） | Selasa, 10 Mar 2026 03:15:47 |
 | 1642 | Nayla / ナイラ（JKT48） | Selasa, 10 Mar 2026 03:12:20 |
+| 1643 | Anindya /アニンディア（JKT48） | Selasa, 10 Mar 2026 03:40:02 |
