@@ -1632,3 +1632,6 @@
 | 1628 | Gita/ギタ（JKT48） | Senin, 9 Mar 2026 14:18:51 |
 | 1629 | Greesel /グリーセル（JKT48） | Senin, 9 Mar 2026 16:05:41 |
 | 1630 | Cynthia /シンティア（JKT48） | Senin, 9 Mar 2026 18:38:47 |
+| 1631 | Ella /エラ（JKT48） | Senin, 9 Mar 2026 20:16:01 |
+| 1632 | Anindya /アニンディア（JKT48） | Senin, 9 Mar 2026 20:18:18 |
+| 1633 | Gracie /グレイシー（JKT48） | Senin, 9 Mar 2026 20:21:05 |
