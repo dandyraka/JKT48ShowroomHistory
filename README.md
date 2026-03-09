@@ -1639,3 +1639,4 @@
 | 1635 | Nachia / ナチア（JKT48） | Senin, 9 Mar 2026 20:44:16 |
 | 1636 | Nala / ナラ（JKT48） | Senin, 9 Mar 2026 20:47:25 |
 | 1637 | Nayla / ナイラ（JKT48） | Senin, 9 Mar 2026 20:50:41 |
+| 1638 | Nachia / ナチア（JKT48） | Senin, 9 Mar 2026 21:55:59 |
