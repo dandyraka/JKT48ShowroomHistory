@@ -1629,3 +1629,4 @@
 | 1625 | Anindya /アニンディア（JKT48） | Senin, 9 Mar 2026 03:47:10 |
 | 1626 | Greesel /グリーセル（JKT48） | Senin, 9 Mar 2026 04:00:04 |
 | 1627 | Cynthia /シンティア（JKT48） | Senin, 9 Mar 2026 04:30:34 |
+| 1628 | Gita/ギタ（JKT48） | Senin, 9 Mar 2026 14:18:51 |
