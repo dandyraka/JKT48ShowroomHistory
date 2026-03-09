@@ -1635,3 +1635,7 @@
 | 1631 | Ella /エラ（JKT48） | Senin, 9 Mar 2026 20:16:01 |
 | 1632 | Anindya /アニンディア（JKT48） | Senin, 9 Mar 2026 20:18:18 |
 | 1633 | Gracie /グレイシー（JKT48） | Senin, 9 Mar 2026 20:21:05 |
+| 1634 | Delynn / デリンヌ（JKT48） | Senin, 9 Mar 2026 20:40:40 |
+| 1635 | Nachia / ナチア（JKT48） | Senin, 9 Mar 2026 20:44:16 |
+| 1636 | Nala / ナラ（JKT48） | Senin, 9 Mar 2026 20:47:25 |
+| 1637 | Nayla / ナイラ（JKT48） | Senin, 9 Mar 2026 20:50:41 |
