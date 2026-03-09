@@ -1645,3 +1645,4 @@
 | 1641 | Cynthia /シンティア（JKT48） | Selasa, 10 Mar 2026 03:15:47 |
 | 1642 | Nayla / ナイラ（JKT48） | Selasa, 10 Mar 2026 03:12:20 |
 | 1643 | Anindya /アニンディア（JKT48） | Selasa, 10 Mar 2026 03:40:02 |
+| 1644 | Greesel /グリーセル（JKT48） | Selasa, 10 Mar 2026 04:17:33 |
