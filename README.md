@@ -1642,3 +1642,5 @@
 | 1638 | Nachia / ナチア（JKT48） | Senin, 9 Mar 2026 21:55:59 |
 | 1639 | Fritzy / フリッツィー（JKT48） | Senin, 9 Mar 2026 22:19:26 |
 | 1640 | Chelsea /チェルシー（JKT48） | Senin, 9 Mar 2026 22:26:08 |
+| 1641 | Cynthia /シンティア（JKT48） | Selasa, 10 Mar 2026 03:15:47 |
+| 1642 | Nayla / ナイラ（JKT48） | Selasa, 10 Mar 2026 03:12:20 |
