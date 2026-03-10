@@ -1657,3 +1657,4 @@
 | 1653 | Anindya /アニンディア（JKT48） | Rabu, 11 Mar 2026 03:09:58 |
 | 1654 | Trisha / トリシャ（JKT48） | Rabu, 11 Mar 2026 03:38:11 |
 | 1655 | Cynthia /シンティア（JKT48） | Rabu, 11 Mar 2026 03:29:44 |
+| 1656 | Greesel /グリーセル（JKT48） | Rabu, 11 Mar 2026 04:05:24 |
