@@ -1653,3 +1653,4 @@
 | 1649 | Nayla / ナイラ（JKT48） | Selasa, 10 Mar 2026 20:58:20 |
 | 1650 | Gracie /グレイシー（JKT48） | Selasa, 10 Mar 2026 21:33:54 |
 | 1651 | Trisha / トリシャ（JKT48） | Selasa, 10 Mar 2026 21:39:00 |
+| 1652 | Nachia / ナチア（JKT48） | Selasa, 10 Mar 2026 23:50:04 |
