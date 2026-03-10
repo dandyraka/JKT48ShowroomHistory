@@ -1648,3 +1648,4 @@
 | 1644 | Greesel /グリーセル（JKT48） | Selasa, 10 Mar 2026 04:17:33 |
 | 1645 | Gita/ギタ（JKT48） | Selasa, 10 Mar 2026 16:26:45 |
 | 1646 | Delynn / デリンヌ（JKT48） | Selasa, 10 Mar 2026 17:52:30 |
+| 1647 | Fritzy / フリッツィー（JKT48） | Selasa, 10 Mar 2026 20:07:57 |
