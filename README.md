@@ -1654,3 +1654,6 @@
 | 1650 | Gracie /グレイシー（JKT48） | Selasa, 10 Mar 2026 21:33:54 |
 | 1651 | Trisha / トリシャ（JKT48） | Selasa, 10 Mar 2026 21:39:00 |
 | 1652 | Nachia / ナチア（JKT48） | Selasa, 10 Mar 2026 23:50:04 |
+| 1653 | Anindya /アニンディア（JKT48） | Rabu, 11 Mar 2026 03:09:58 |
+| 1654 | Trisha / トリシャ（JKT48） | Rabu, 11 Mar 2026 03:38:11 |
+| 1655 | Cynthia /シンティア（JKT48） | Rabu, 11 Mar 2026 03:29:44 |
