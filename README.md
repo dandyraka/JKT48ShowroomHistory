@@ -1649,3 +1649,5 @@
 | 1645 | Gita/ギタ（JKT48） | Selasa, 10 Mar 2026 16:26:45 |
 | 1646 | Delynn / デリンヌ（JKT48） | Selasa, 10 Mar 2026 17:52:30 |
 | 1647 | Fritzy / フリッツィー（JKT48） | Selasa, 10 Mar 2026 20:07:57 |
+| 1648 | Anindya /アニンディア（JKT48） | Selasa, 10 Mar 2026 21:02:51 |
+| 1649 | Nayla / ナイラ（JKT48） | Selasa, 10 Mar 2026 20:58:20 |
