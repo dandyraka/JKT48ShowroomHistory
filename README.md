@@ -1651,3 +1651,5 @@
 | 1647 | Fritzy / フリッツィー（JKT48） | Selasa, 10 Mar 2026 20:07:57 |
 | 1648 | Anindya /アニンディア（JKT48） | Selasa, 10 Mar 2026 21:02:51 |
 | 1649 | Nayla / ナイラ（JKT48） | Selasa, 10 Mar 2026 20:58:20 |
+| 1650 | Gracie /グレイシー（JKT48） | Selasa, 10 Mar 2026 21:33:54 |
+| 1651 | Trisha / トリシャ（JKT48） | Selasa, 10 Mar 2026 21:39:00 |
