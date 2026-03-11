@@ -1658,3 +1658,5 @@
 | 1654 | Trisha / トリシャ（JKT48） | Rabu, 11 Mar 2026 03:38:11 |
 | 1655 | Cynthia /シンティア（JKT48） | Rabu, 11 Mar 2026 03:29:44 |
 | 1656 | Greesel /グリーセル（JKT48） | Rabu, 11 Mar 2026 04:05:24 |
+| 1657 | Fritzy / フリッツィー（JKT48） | Rabu, 11 Mar 2026 17:05:18 |
+| 1658 | Nachia / ナチア（JKT48） | Rabu, 11 Mar 2026 17:37:33 |
