@@ -1666,3 +1666,4 @@
 | 1662 | Gracie /グレイシー（JKT48） | Rabu, 11 Mar 2026 19:18:17 |
 | 1663 | Lily / リリー（JKT48） | Rabu, 11 Mar 2026 23:48:15 |
 | 1664 | Nayla / ナイラ（JKT48） | Kamis, 12 Mar 2026 02:53:43 |
+| 1665 | Anindya /アニンディア（JKT48） | Kamis, 12 Mar 2026 03:33:58 |
