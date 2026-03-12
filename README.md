@@ -1668,3 +1668,5 @@
 | 1664 | Nayla / ナイラ（JKT48） | Kamis, 12 Mar 2026 02:53:43 |
 | 1665 | Anindya /アニンディア（JKT48） | Kamis, 12 Mar 2026 03:33:58 |
 | 1666 | Delynn / デリンヌ（JKT48） | Kamis, 12 Mar 2026 04:13:04 |
+| 1667 | Fritzy / フリッツィー（JKT48） | Kamis, 12 Mar 2026 14:45:41 |
+| 1668 | Gita/ギタ（JKT48） | Kamis, 12 Mar 2026 14:59:37 |
