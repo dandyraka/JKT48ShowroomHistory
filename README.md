@@ -1674,3 +1674,4 @@
 | 1670 | Greesel /グリーセル（JKT48） | Kamis, 12 Mar 2026 16:32:56 |
 | 1671 | Anindya /アニンディア（JKT48） | Kamis, 12 Mar 2026 18:06:49 |
 | 1672 | Greesel /グリーセル（JKT48） | Kamis, 12 Mar 2026 20:10:29 |
+| 1673 | Delynn / デリンヌ（JKT48） | Kamis, 12 Mar 2026 20:21:04 |
