@@ -1683,3 +1683,5 @@
 | 1679 | Anindya /アニンディア（JKT48） | Jumat, 13 Mar 2026 17:56:46 |
 | 1680 | Nayla / ナイラ（JKT48） | Jumat, 13 Mar 2026 17:58:20 |
 | 1681 | Gracie /グレイシー（JKT48） | Jumat, 13 Mar 2026 18:36:33 |
+| 1682 | Greesel /グリーセル（JKT48） | Jumat, 13 Mar 2026 19:48:36 |
+| 1683 | Delynn / デリンヌ（JKT48） | Jumat, 13 Mar 2026 20:31:44 |
