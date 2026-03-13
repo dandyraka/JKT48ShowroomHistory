@@ -1689,3 +1689,5 @@
 | 1685 | Chelsea /チェルシー（JKT48） | Jumat, 13 Mar 2026 20:43:26 |
 | 1686 | Nachia / ナチア（JKT48） | Jumat, 13 Mar 2026 22:20:45 |
 | 1687 | Lyn /リーン（JKT48） | Jumat, 13 Mar 2026 23:58:24 |
+| 1688 | Nayla / ナイラ（JKT48） | Sabtu, 14 Mar 2026 03:12:46 |
+| 1689 | Ekin / エキン (JKT48) | Sabtu, 14 Mar 2026 03:32:13 |
