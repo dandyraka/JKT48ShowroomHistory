@@ -1680,3 +1680,4 @@
 | 1676 | Delynn / デリンヌ（JKT48） | Jumat, 13 Mar 2026 04:21:53 |
 | 1677 | Greesel /グリーセル（JKT48） | Jumat, 13 Mar 2026 04:25:37 |
 | 1678 | Nachia / ナチア（JKT48） | Jumat, 13 Mar 2026 16:21:46 |
+| 1679 | Anindya /アニンディア（JKT48） | Jumat, 13 Mar 2026 17:56:46 |
