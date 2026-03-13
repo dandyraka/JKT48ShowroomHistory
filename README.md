@@ -1685,3 +1685,5 @@
 | 1681 | Gracie /グレイシー（JKT48） | Jumat, 13 Mar 2026 18:36:33 |
 | 1682 | Greesel /グリーセル（JKT48） | Jumat, 13 Mar 2026 19:48:36 |
 | 1683 | Delynn / デリンヌ（JKT48） | Jumat, 13 Mar 2026 20:31:44 |
+| 1684 | Gita/ギタ（JKT48） | Jumat, 13 Mar 2026 20:51:51 |
+| 1685 | Chelsea /チェルシー（JKT48） | Jumat, 13 Mar 2026 20:43:26 |
