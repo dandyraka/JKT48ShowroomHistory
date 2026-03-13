@@ -1691,3 +1691,4 @@
 | 1687 | Lyn /リーン（JKT48） | Jumat, 13 Mar 2026 23:58:24 |
 | 1688 | Nayla / ナイラ（JKT48） | Sabtu, 14 Mar 2026 03:12:46 |
 | 1689 | Ekin / エキン (JKT48) | Sabtu, 14 Mar 2026 03:32:13 |
+| 1690 | Greesel /グリーセル（JKT48） | Sabtu, 14 Mar 2026 04:22:43 |
