@@ -1682,3 +1682,4 @@
 | 1678 | Nachia / ナチア（JKT48） | Jumat, 13 Mar 2026 16:21:46 |
 | 1679 | Anindya /アニンディア（JKT48） | Jumat, 13 Mar 2026 17:56:46 |
 | 1680 | Nayla / ナイラ（JKT48） | Jumat, 13 Mar 2026 17:58:20 |
+| 1681 | Gracie /グレイシー（JKT48） | Jumat, 13 Mar 2026 18:36:33 |
