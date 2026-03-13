@@ -1679,3 +1679,4 @@
 | 1675 | Fritzy / フリッツィー（JKT48） | Jumat, 13 Mar 2026 03:33:49 |
 | 1676 | Delynn / デリンヌ（JKT48） | Jumat, 13 Mar 2026 04:21:53 |
 | 1677 | Greesel /グリーセル（JKT48） | Jumat, 13 Mar 2026 04:25:37 |
+| 1678 | Nachia / ナチア（JKT48） | Jumat, 13 Mar 2026 16:21:46 |
