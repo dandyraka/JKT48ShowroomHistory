@@ -1698,3 +1698,4 @@
 | 1694 | Greesel /グリーセル（JKT48） | Sabtu, 14 Mar 2026 17:44:21 |
 | 1695 | Gracie /グレイシー（JKT48） | Sabtu, 14 Mar 2026 17:48:35 |
 | 1696 | Delynn / デリンヌ（JKT48） | Sabtu, 14 Mar 2026 18:18:16 |
+| 1697 | Fritzy / フリッツィー（JKT48） | Sabtu, 14 Mar 2026 19:00:36 |
