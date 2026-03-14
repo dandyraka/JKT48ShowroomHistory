@@ -1703,3 +1703,5 @@
 | 1699 | Fritzy / フリッツィー（JKT48） | Sabtu, 14 Mar 2026 20:02:37 |
 | 1700 | Gita/ギタ（JKT48） | Sabtu, 14 Mar 2026 20:31:28 |
 | 1701 | Delynn / デリンヌ（JKT48） | Sabtu, 14 Mar 2026 20:58:07 |
+| 1702 | Gracie /グレイシー（JKT48） | Sabtu, 14 Mar 2026 21:45:45 |
+| 1703 | Greesel /グリーセル（JKT48） | Sabtu, 14 Mar 2026 21:37:06 |
