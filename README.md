@@ -1699,3 +1699,5 @@
 | 1695 | Gracie /グレイシー（JKT48） | Sabtu, 14 Mar 2026 17:48:35 |
 | 1696 | Delynn / デリンヌ（JKT48） | Sabtu, 14 Mar 2026 18:18:16 |
 | 1697 | Fritzy / フリッツィー（JKT48） | Sabtu, 14 Mar 2026 19:00:36 |
+| 1698 | Anindya /アニンディア（JKT48） | Sabtu, 14 Mar 2026 19:40:04 |
+| 1699 | Fritzy / フリッツィー（JKT48） | Sabtu, 14 Mar 2026 20:02:37 |
