@@ -1702,3 +1702,4 @@
 | 1698 | Anindya /アニンディア（JKT48） | Sabtu, 14 Mar 2026 19:40:04 |
 | 1699 | Fritzy / フリッツィー（JKT48） | Sabtu, 14 Mar 2026 20:02:37 |
 | 1700 | Gita/ギタ（JKT48） | Sabtu, 14 Mar 2026 20:31:28 |
+| 1701 | Delynn / デリンヌ（JKT48） | Sabtu, 14 Mar 2026 20:58:07 |
