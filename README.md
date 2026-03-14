@@ -1692,3 +1692,5 @@
 | 1688 | Nayla / ナイラ（JKT48） | Sabtu, 14 Mar 2026 03:12:46 |
 | 1689 | Ekin / エキン (JKT48) | Sabtu, 14 Mar 2026 03:32:13 |
 | 1690 | Greesel /グリーセル（JKT48） | Sabtu, 14 Mar 2026 04:22:43 |
+| 1691 | Delynn / デリンヌ（JKT48） | Sabtu, 14 Mar 2026 11:12:38 |
+| 1692 | Gracie /グレイシー（JKT48） | Sabtu, 14 Mar 2026 11:02:07 |
