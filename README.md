@@ -1697,3 +1697,4 @@
 | 1693 | Nachia / ナチア（JKT48） | Sabtu, 14 Mar 2026 14:56:46 |
 | 1694 | Greesel /グリーセル（JKT48） | Sabtu, 14 Mar 2026 17:44:21 |
 | 1695 | Gracie /グレイシー（JKT48） | Sabtu, 14 Mar 2026 17:48:35 |
+| 1696 | Delynn / デリンヌ（JKT48） | Sabtu, 14 Mar 2026 18:18:16 |
