@@ -1707,3 +1707,4 @@
 | 1703 | Greesel /グリーセル（JKT48） | Sabtu, 14 Mar 2026 21:37:06 |
 | 1704 | Erine / エリン（JKT48） | Minggu, 15 Mar 2026 03:18:18 |
 | 1705 | Anindya /アニンディア（JKT48） | Minggu, 15 Mar 2026 06:22:27 |
+| 1706 | Anindya /アニンディア（JKT48） | Minggu, 15 Mar 2026 23:00:38 |
