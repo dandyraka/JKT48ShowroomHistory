@@ -1713,3 +1713,4 @@
 | 1709 | Delynn / デリンヌ（JKT48） | Selasa, 17 Mar 2026 21:42:19 |
 | 1710 | Giaa / ギアァ (JKT48) | Selasa, 17 Mar 2026 21:21:28 |
 | 1711 | Erine / エリン（JKT48） | Selasa, 17 Mar 2026 22:46:26 |
+| 1712 | Ribka / リブカ（JKT48） | Selasa, 17 Mar 2026 23:56:07 |
