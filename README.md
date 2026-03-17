@@ -1712,3 +1712,4 @@
 | 1708 | Anindya /アニンディア（JKT48） | Selasa, 17 Mar 2026 05:24:41 |
 | 1709 | Delynn / デリンヌ（JKT48） | Selasa, 17 Mar 2026 21:42:19 |
 | 1710 | Giaa / ギアァ (JKT48) | Selasa, 17 Mar 2026 21:21:28 |
+| 1711 | Erine / エリン（JKT48） | Selasa, 17 Mar 2026 22:46:26 |
