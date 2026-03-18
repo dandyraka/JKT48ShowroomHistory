@@ -1720,3 +1720,4 @@
 | 1716 | Chelsea /チェルシー（JKT48） | Rabu, 18 Mar 2026 22:08:04 |
 | 1717 | Anindya /アニンディア（JKT48） | Kamis, 19 Mar 2026 03:05:42 |
 | 1718 | Trisha / トリシャ（JKT48） | Kamis, 19 Mar 2026 03:28:49 |
+| 1719 | Fritzy / フリッツィー（JKT48） | Kamis, 19 Mar 2026 03:50:20 |
