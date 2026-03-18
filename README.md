@@ -1715,3 +1715,5 @@
 | 1711 | Erine / エリン（JKT48） | Selasa, 17 Mar 2026 22:46:26 |
 | 1712 | Ribka / リブカ（JKT48） | Selasa, 17 Mar 2026 23:56:07 |
 | 1713 | Anindya /アニンディア（JKT48） | Rabu, 18 Mar 2026 03:10:13 |
+| 1714 | Greesel /グリーセル（JKT48） | Rabu, 18 Mar 2026 17:13:30 |
+| 1715 | Nayla / ナイラ（JKT48） | Rabu, 18 Mar 2026 17:32:15 |
