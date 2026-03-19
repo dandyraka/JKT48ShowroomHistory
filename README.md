@@ -1723,3 +1723,5 @@
 | 1719 | Fritzy / フリッツィー（JKT48） | Kamis, 19 Mar 2026 03:50:20 |
 | 1720 | Fiony /フィオニー（JKT48） | Kamis, 19 Mar 2026 20:31:59 |
 | 1721 | Jessi/ジェシ（JKT48） | Jumat, 20 Mar 2026 02:34:19 |
+| 1722 | Erine / エリン（JKT48） | Jumat, 20 Mar 2026 02:57:08 |
+| 1723 | Anindya /アニンディア（JKT48） | Jumat, 20 Mar 2026 03:20:14 |
