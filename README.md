@@ -1722,3 +1722,4 @@
 | 1718 | Trisha / トリシャ（JKT48） | Kamis, 19 Mar 2026 03:28:49 |
 | 1719 | Fritzy / フリッツィー（JKT48） | Kamis, 19 Mar 2026 03:50:20 |
 | 1720 | Fiony /フィオニー（JKT48） | Kamis, 19 Mar 2026 20:31:59 |
+| 1721 | Jessi/ジェシ（JKT48） | Jumat, 20 Mar 2026 02:34:19 |
