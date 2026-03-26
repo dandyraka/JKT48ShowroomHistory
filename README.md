@@ -1727,3 +1727,4 @@
 | 1723 | Anindya /アニンディア（JKT48） | Jumat, 20 Mar 2026 03:20:14 |
 | 1724 | Ella /エラ（JKT48） | Jumat, 20 Mar 2026 22:37:54 |
 | 1725 | Erine / エリン（JKT48） | Rabu, 25 Mar 2026 22:25:45 |
+| 1726 | Giaa / ギアァ (JKT48) | Kamis, 26 Mar 2026 21:45:13 |
