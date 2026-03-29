@@ -1731,3 +1731,4 @@
 | 1727 | Lily / リリー（JKT48） | Jumat, 27 Mar 2026 15:45:06 |
 | 1728 | Christy/クリスティー（JKT48） | Sabtu, 28 Mar 2026 20:41:29 |
 | 1729 | Nachia / ナチア（JKT48） | Minggu, 29 Mar 2026 13:01:17 |
+| 1730 | Lia /リア（JKT48） | Senin, 30 Mar 2026 00:51:19 |
