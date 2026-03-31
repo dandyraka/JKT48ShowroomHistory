@@ -1734,3 +1734,4 @@
 | 1730 | Lia /リア（JKT48） | Senin, 30 Mar 2026 00:51:19 |
 | 1731 | Nala / ナラ（JKT48） | Selasa, 31 Mar 2026 00:49:35 |
 | 1732 | Greesel /グリーセル（JKT48） | Selasa, 31 Mar 2026 17:00:24 |
+| 1733 | Chelsea /チェルシー（JKT48） | Selasa, 31 Mar 2026 19:28:59 |
