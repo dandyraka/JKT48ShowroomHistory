@@ -1737,3 +1737,5 @@
 | 1733 | Chelsea /チェルシー（JKT48） | Selasa, 31 Mar 2026 19:28:59 |
 | 1734 | Lily / リリー（JKT48） | Minggu, 5 Apr 2026 18:30:07 |
 | 1735 | Fritzy / フリッツィー（JKT48） | Minggu, 5 Apr 2026 21:10:49 |
+| 1736 | Lily / リリー（JKT48） | Senin, 6 Apr 2026 16:08:57 |
+| 1737 | Fritzy / フリッツィー（JKT48） | Senin, 6 Apr 2026 16:04:44 |
