@@ -1740,3 +1740,4 @@
 | 1736 | Lily / リリー（JKT48） | Senin, 6 Apr 2026 16:08:57 |
 | 1737 | Fritzy / フリッツィー（JKT48） | Senin, 6 Apr 2026 16:04:44 |
 | 1738 | Fiony /フィオニー（JKT48） | Rabu, 8 Apr 2026 16:55:22 |
+| 1739 | Kathrina/カトリナ（JKT48） | Rabu, 8 Apr 2026 18:59:42 |
