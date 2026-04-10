@@ -1745,3 +1745,4 @@
 | 1741 | Elin /エリン（JKT48） | Rabu, 8 Apr 2026 22:22:26 |
 | 1742 | Cynthia /シンティア（JKT48） | Kamis, 9 Apr 2026 02:34:47 |
 | 1743 | Anindya /アニンディア（JKT48） | Kamis, 9 Apr 2026 13:05:21 |
+| 1744 | Lily / リリー（JKT48） | Jumat, 10 Apr 2026 20:00:30 |
