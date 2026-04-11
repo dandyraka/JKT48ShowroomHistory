@@ -1747,3 +1747,4 @@
 | 1743 | Anindya /アニンディア（JKT48） | Kamis, 9 Apr 2026 13:05:21 |
 | 1744 | Lily / リリー（JKT48） | Jumat, 10 Apr 2026 20:00:30 |
 | 1745 | Anindya /アニンディア（JKT48） | Jumat, 10 Apr 2026 20:33:11 |
+| 1746 | Anindya /アニンディア（JKT48） | Sabtu, 11 Apr 2026 23:54:34 |
