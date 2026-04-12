@@ -1749,3 +1749,4 @@
 | 1745 | Anindya /アニンディア（JKT48） | Jumat, 10 Apr 2026 20:33:11 |
 | 1746 | Anindya /アニンディア（JKT48） | Sabtu, 11 Apr 2026 23:54:34 |
 | 1747 | Anindya /アニンディア（JKT48） | Minggu, 12 Apr 2026 23:24:30 |
+| 1748 | Lia /リア（JKT48） | Senin, 13 Apr 2026 00:00:13 |
