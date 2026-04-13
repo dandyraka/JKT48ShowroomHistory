@@ -1754,3 +1754,4 @@
 | 1750 | Ella /エラ（JKT48） | Senin, 13 Apr 2026 16:35:28 |
 | 1751 | Jessi/ジェシ（JKT48） | Senin, 13 Apr 2026 19:08:36 |
 | 1752 | Gracie /グレイシー（JKT48） | Senin, 13 Apr 2026 21:14:03 |
+| 1753 | Trisha / トリシャ（JKT48） | Senin, 13 Apr 2026 21:38:01 |
