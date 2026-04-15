@@ -1757,3 +1757,4 @@
 | 1753 | Trisha / トリシャ（JKT48） | Senin, 13 Apr 2026 21:38:01 |
 | 1754 | Ribka / リブカ（JKT48） | Selasa, 14 Apr 2026 18:40:37 |
 | 1755 | Nayla / ナイラ（JKT48） | Selasa, 14 Apr 2026 19:34:19 |
+| 1756 | Muthe/ムテ（JKT48） | Rabu, 15 Apr 2026 21:04:55 |
