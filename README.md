@@ -1761,3 +1761,5 @@
 | 1757 | Lia /リア（JKT48） | Senin, 20 Apr 2026 01:09:28 |
 | 1758 | Anindya /アニンディア（JKT48） | Selasa, 21 Apr 2026 00:01:12 |
 | 1759 | Anindya /アニンディア（JKT48） | Selasa, 21 Apr 2026 15:59:34 |
+| 1760 | Erine / エリン（JKT48） | Selasa, 21 Apr 2026 23:01:28 |
+| 1761 | Oline / オリヌ（JKT48） | Selasa, 21 Apr 2026 23:01:51 |
