@@ -1765,3 +1765,4 @@
 | 1761 | Oline / オリヌ（JKT48） | Selasa, 21 Apr 2026 23:01:51 |
 | 1762 | Anindya /アニンディア（JKT48） | Rabu, 22 Apr 2026 21:37:25 |
 | 1763 | Anindya /アニンディア（JKT48） | Jumat, 24 Apr 2026 20:27:24 |
+| 1764 | Erine / エリン（JKT48） | Sabtu, 25 Apr 2026 05:17:24 |
