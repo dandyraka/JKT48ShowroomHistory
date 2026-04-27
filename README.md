@@ -1767,3 +1767,4 @@
 | 1763 | Anindya /アニンディア（JKT48） | Jumat, 24 Apr 2026 20:27:24 |
 | 1764 | Erine / エリン（JKT48） | Sabtu, 25 Apr 2026 05:17:24 |
 | 1765 | Gracie /グレイシー（JKT48） | Minggu, 26 Apr 2026 20:48:23 |
+| 1766 | Nayla / ナイラ（JKT48） | Senin, 27 Apr 2026 17:07:21 |
