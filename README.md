@@ -1771,3 +1771,4 @@
 | 1767 | Anindya /アニンディア（JKT48） | Senin, 27 Apr 2026 23:09:21 |
 | 1768 | Anindya /アニンディア（JKT48） | Selasa, 28 Apr 2026 21:03:41 |
 | 1769 | Anindya /アニンディア（JKT48） | Rabu, 29 Apr 2026 23:12:12 |
+| 1770 | Intan / インタン (JKT48) | Kamis, 30 Apr 2026 11:17:08 |
