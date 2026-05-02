@@ -1775,3 +1775,5 @@
 | 1771 | Anindya /アニンディア（JKT48） | Kamis, 30 Apr 2026 19:58:49 |
 | 1772 | Intan / インタン (JKT48) | Jumat, 1 Mei 2026 22:12:15 |
 | 1773 | Nayla / ナイラ（JKT48） | Sabtu, 2 Mei 2026 20:50:21 |
+| 1774 | Erine / エリン（JKT48） | Sabtu, 2 Mei 2026 22:08:10 |
+| 1775 | Lana / ラナ（JKT48） | Sabtu, 2 Mei 2026 22:09:00 |
