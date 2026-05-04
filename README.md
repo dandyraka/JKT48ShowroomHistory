@@ -1777,3 +1777,4 @@
 | 1773 | Nayla / ナイラ（JKT48） | Sabtu, 2 Mei 2026 20:50:21 |
 | 1774 | Erine / エリン（JKT48） | Sabtu, 2 Mei 2026 22:08:10 |
 | 1775 | Lana / ラナ（JKT48） | Sabtu, 2 Mei 2026 22:09:00 |
+| 1776 | JKT48 Official SHOWROOM | Senin, 4 Mei 2026 17:02:37 |
