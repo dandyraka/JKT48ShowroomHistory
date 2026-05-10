@@ -1780,3 +1780,4 @@
 | 1776 | JKT48 Official SHOWROOM | Senin, 4 Mei 2026 17:02:37 |
 | 1777 | Nayla / ナイラ（JKT48） | Senin, 4 Mei 2026 21:15:50 |
 | 1778 | Gracie /グレイシー（JKT48） | Selasa, 5 Mei 2026 17:04:52 |
+| 1779 | Nayla / ナイラ（JKT48） | Minggu, 10 Mei 2026 20:40:20 |
