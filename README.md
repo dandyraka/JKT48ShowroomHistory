@@ -1783,3 +1783,4 @@
 | 1779 | Nayla / ナイラ（JKT48） | Minggu, 10 Mei 2026 20:40:20 |
 | 1780 | Gracie /グレイシー（JKT48） | Selasa, 12 Mei 2026 11:19:11 |
 | 1781 | Nayla / ナイラ（JKT48） | Selasa, 12 Mei 2026 21:28:29 |
+| 1782 | Feni/フェニ（JKT48） | Rabu, 13 Mei 2026 11:14:32 |
