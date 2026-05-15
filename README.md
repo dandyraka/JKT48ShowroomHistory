@@ -1786,3 +1786,4 @@
 | 1782 | Feni/フェニ（JKT48） | Rabu, 13 Mei 2026 11:14:32 |
 | 1783 | Nayla / ナイラ（JKT48） | Kamis, 14 Mei 2026 13:56:04 |
 | 1784 | Nayla / ナイラ（JKT48） | Kamis, 14 Mei 2026 23:09:42 |
+| 1785 | Nayla / ナイラ（JKT48） | Jumat, 15 Mei 2026 21:47:37 |
