@@ -1787,3 +1787,4 @@
 | 1783 | Nayla / ナイラ（JKT48） | Kamis, 14 Mei 2026 13:56:04 |
 | 1784 | Nayla / ナイラ（JKT48） | Kamis, 14 Mei 2026 23:09:42 |
 | 1785 | Nayla / ナイラ（JKT48） | Jumat, 15 Mei 2026 21:47:37 |
+| 1786 | Nayla / ナイラ（JKT48） | Minggu, 17 Mei 2026 22:13:17 |
