@@ -1792,3 +1792,4 @@
 | 1788 | Fiony /フィオニー（JKT48） | Senin, 25 Mei 2026 22:09:23 |
 | 1789 | Nayla / ナイラ（JKT48） | Senin, 25 Mei 2026 21:37:17 |
 | 1790 | Nayla / ナイラ（JKT48） | Rabu, 27 Mei 2026 22:16:21 |
+| 1791 | Erine / エリン（JKT48） | Jumat, 29 Mei 2026 06:19:21 |
