@@ -1794,3 +1794,4 @@
 | 1790 | Nayla / ナイラ（JKT48） | Rabu, 27 Mei 2026 22:16:21 |
 | 1791 | Erine / エリン（JKT48） | Jumat, 29 Mei 2026 06:19:21 |
 | 1792 | Nayla / ナイラ（JKT48） | Minggu, 31 Mei 2026 23:22:11 |
+| 1793 | Intan / インタン (JKT48) | Selasa, 2 Jun 2026 21:28:39 |
