@@ -1797,3 +1797,4 @@
 | 1793 | Intan / インタン (JKT48) | Selasa, 2 Jun 2026 21:28:39 |
 | 1794 | Nayla / ナイラ（JKT48） | Selasa, 2 Jun 2026 23:09:29 |
 | 1795 | Nayla / ナイラ（JKT48） | Kamis, 4 Jun 2026 21:26:21 |
+| 1796 | Nayla / ナイラ（JKT48） | Sabtu, 6 Jun 2026 23:48:56 |
