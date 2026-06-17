@@ -1800,3 +1800,4 @@
 | 1796 | Nayla / ナイラ（JKT48） | Sabtu, 6 Jun 2026 23:48:56 |
 | 1797 | Nayla / ナイラ（JKT48） | Minggu, 7 Jun 2026 20:24:15 |
 | 1798 | Gracie /グレイシー（JKT48） | Kamis, 11 Jun 2026 21:14:47 |
+| 1799 | Nayla / ナイラ（JKT48） | Rabu, 17 Jun 2026 22:08:00 |
