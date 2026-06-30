@@ -1803,3 +1803,4 @@
 | 1799 | Nayla / ナイラ（JKT48） | Rabu, 17 Jun 2026 22:08:00 |
 | 1800 | Nayla / ナイラ（JKT48） | Minggu, 21 Jun 2026 00:23:37 |
 | 1801 | Fiony /フィオニー（JKT48） | Minggu, 28 Jun 2026 20:37:34 |
+| 1802 | Lily / リリー（JKT48） | Selasa, 30 Jun 2026 11:28:51 |
