@@ -1807,3 +1807,4 @@
 | 1803 | Nayla / ナイラ（JKT48） | Rabu, 8 Jul 2026 20:48:57 |
 | 1804 | Anindya /アニンディア（JKT48） | Rabu, 8 Jul 2026 21:19:02 |
 | 1805 | Nayla / ナイラ（JKT48） | Kamis, 9 Jul 2026 20:31:41 |
+| 1806 | Nayla / ナイラ（JKT48） | Sabtu, 11 Jul 2026 01:26:51 |
