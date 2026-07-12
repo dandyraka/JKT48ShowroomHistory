@@ -1814,3 +1814,4 @@
 | 1810 | Nachia / ナチア（JKT48） | Minggu, 12 Jul 2026 19:03:26 |
 | 1811 | Anindya /アニンディア（JKT48） | Minggu, 12 Jul 2026 20:24:12 |
 | 1812 | Delynn / デリンヌ（JKT48） | Minggu, 12 Jul 2026 21:03:34 |
+| 1813 | Danella /ダネラ（JKT48） | Minggu, 12 Jul 2026 21:57:01 |
