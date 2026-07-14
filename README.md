@@ -1816,3 +1816,4 @@
 | 1812 | Delynn / デリンヌ（JKT48） | Minggu, 12 Jul 2026 21:03:34 |
 | 1813 | Danella /ダネラ（JKT48） | Minggu, 12 Jul 2026 21:57:01 |
 | 1814 | Gracie /グレイシー（JKT48） | Selasa, 14 Jul 2026 17:56:23 |
+| 1815 | Nayla / ナイラ（JKT48） | Selasa, 14 Jul 2026 21:28:37 |
