@@ -1818,3 +1818,4 @@
 | 1814 | Gracie /グレイシー（JKT48） | Selasa, 14 Jul 2026 17:56:23 |
 | 1815 | Nayla / ナイラ（JKT48） | Selasa, 14 Jul 2026 21:28:37 |
 | 1816 | Nayla / ナイラ（JKT48） | Kamis, 16 Jul 2026 19:54:54 |
+| 1817 | Nachia / ナチア（JKT48） | Sabtu, 18 Jul 2026 14:52:32 |
