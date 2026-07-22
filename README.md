@@ -1821,3 +1821,4 @@
 | 1817 | Nachia / ナチア（JKT48） | Sabtu, 18 Jul 2026 14:52:32 |
 | 1818 | Nayla / ナイラ（JKT48） | Minggu, 19 Jul 2026 21:21:44 |
 | 1819 | Nayla / ナイラ（JKT48） | Senin, 20 Jul 2026 21:16:01 |
+| 1820 | Fiony /フィオニー（JKT48） | Rabu, 22 Jul 2026 20:04:43 |
