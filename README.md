@@ -1829,3 +1829,4 @@
 | 1825 | Nayla / ナイラ（JKT48） | Jumat, 7 Agt 2026 20:22:26 |
 | 1826 | Erine / エリン（JKT48） | Sabtu, 8 Agt 2026 21:18:17 |
 | 1827 | Anindya /アニンディア（JKT48） | Sabtu, 8 Agt 2026 21:15:03 |
+| 1828 | Nayla / ナイラ（JKT48） | Senin, 10 Agt 2026 21:41:03 |
