@@ -1833,3 +1833,4 @@
 | 1829 | Nayla / ナイラ（JKT48） | Kamis, 13 Agt 2026 21:38:01 |
 | 1830 | Erine / エリン（JKT48） | Jumat, 14 Agt 2026 19:30:40 |
 | 1831 | Levi / レヴィ（JKT48） | Jumat, 14 Agt 2026 19:29:29 |
+| 1832 | Nayla / ナイラ（JKT48） | Sabtu, 15 Agt 2026 22:18:52 |
