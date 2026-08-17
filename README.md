@@ -1835,3 +1835,4 @@
 | 1831 | Levi / レヴィ（JKT48） | Jumat, 14 Agt 2026 19:29:29 |
 | 1832 | Nayla / ナイラ（JKT48） | Sabtu, 15 Agt 2026 22:18:52 |
 | 1833 | Nayla / ナイラ（JKT48） | Minggu, 16 Agt 2026 15:54:21 |
+| 1834 | Giaa / ギアァ (JKT48) | Senin, 17 Agt 2026 16:26:40 |
