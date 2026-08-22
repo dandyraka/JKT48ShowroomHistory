@@ -1837,3 +1837,4 @@
 | 1833 | Nayla / ナイラ（JKT48） | Minggu, 16 Agt 2026 15:54:21 |
 | 1834 | Giaa / ギアァ (JKT48) | Senin, 17 Agt 2026 16:26:40 |
 | 1835 | Nayla / ナイラ（JKT48） | Selasa, 18 Agt 2026 21:06:36 |
+| 1836 | Fiony /フィオニー（JKT48） | Sabtu, 22 Agt 2026 21:48:45 |
