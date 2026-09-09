@@ -1841,3 +1841,4 @@
 | 1837 | Delynn / デリンヌ（JKT48） | Minggu, 23 Agt 2026 20:55:10 |
 | 1838 | Nayla / ナイラ（JKT48） | Selasa, 25 Agt 2026 21:00:15 |
 | 1839 | Nayla / ナイラ（JKT48） | Minggu, 30 Agt 2026 23:54:58 |
+| 1840 | Lia /リア（JKT48） | Rabu, 9 Sep 2026 23:33:08 |
