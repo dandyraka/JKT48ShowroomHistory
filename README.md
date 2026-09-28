@@ -1845,3 +1845,4 @@
 | 1841 | Nayla / ナイラ（JKT48） | Sabtu, 12 Sep 2026 21:57:19 |
 | 1842 | Sona / ソナ (JKT48) | Minggu, 20 Sep 2026 20:34:28 |
 | 1843 | Gracie /グレイシー（JKT48） | Selasa, 22 Sep 2026 21:21:18 |
+| 1844 | Sona / ソナ (JKT48) | Senin, 28 Sep 2026 19:00:23 |
