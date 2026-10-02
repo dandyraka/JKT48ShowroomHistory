@@ -1848,3 +1848,4 @@
 | 1844 | Sona / ソナ (JKT48) | Senin, 28 Sep 2026 19:00:23 |
 | 1845 | Nachia / ナチア（JKT48） | Selasa, 29 Sep 2026 12:37:45 |
 | 1846 | Nachia / ナチア（JKT48） | Rabu, 30 Sep 2026 12:45:45 |
+| 1847 | Olla/オラ（JKT48） | Jumat, 2 Okt 2026 20:54:04 |
