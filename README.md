@@ -1851,3 +1851,4 @@
 | 1847 | Olla/オラ（JKT48） | Jumat, 2 Okt 2026 20:54:04 |
 | 1848 | Lily / リリー（JKT48） | Sabtu, 3 Okt 2026 23:27:41 |
 | 1849 | Nayla / ナイラ（JKT48） | Minggu, 4 Okt 2026 19:14:26 |
+| 1850 | Nayla / ナイラ（JKT48） | Senin, 5 Okt 2026 21:46:56 |
