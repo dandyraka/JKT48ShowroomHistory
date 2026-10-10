@@ -1853,3 +1853,5 @@
 | 1849 | Nayla / ナイラ（JKT48） | Minggu, 4 Okt 2026 19:14:26 |
 | 1850 | Nayla / ナイラ（JKT48） | Senin, 5 Okt 2026 21:46:56 |
 | 1851 | Nayla / ナイラ（JKT48） | Kamis, 8 Okt 2026 23:42:38 |
+| 1852 | Gracie /グレイシー（JKT48） | Sabtu, 10 Okt 2026 21:18:09 |
+| 1853 | Heidi / ヘイディ (JKT48) | Sabtu, 10 Okt 2026 20:30:07 |
